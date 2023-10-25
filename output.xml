@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">IMPACT OF VARIOUS IMPRESSION TECHNIQUES ON MAXILLARY FLABBY RIDGE TISSUE DISPLACEMENT (WITHIN-SUBJECT EVALUATION)</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Amira</forename><surname>Gomaa</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Associate Professor of Removable Prosthodontics</orgName>
+								<orgName type="department" key="dep2">Faculty of Dentistry</orgName>
+								<orgName type="institution">Mansoura University</orgName>
+								<address>
+									<settlement>Mansoura</settlement>
+									<country key="EG">Egypt</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Nesreen</forename><forename type="middle">El</forename><surname>Mekawy</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Associate Professor of Removable Prosthodontics</orgName>
+								<orgName type="department" key="dep2">Faculty of Dentistry</orgName>
+								<orgName type="institution">Mansoura University</orgName>
+								<address>
+									<settlement>Mansoura</settlement>
+									<country key="EG">Egypt</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">IMPACT OF VARIOUS IMPRESSION TECHNIQUES ON MAXILLARY FLABBY RIDGE TISSUE DISPLACEMENT (WITHIN-SUBJECT EVALUATION)</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">AA89E34A7C56B881EADF1B316BEF417E</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0-SNAPSHOT" ident="GROBID" when="2023-10-25T18:17+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Maxillary anterior labby ridges</term>
+					<term>soft tissue displacement</term>
+					<term>mucocompressive impression technique</term>
+					<term>mucostatic impression techniques</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Purpose: This study was conducted to determine the effect of various impression techniques on the displacement of labby tissues overlying the edentulous maxillary ridge. In this study Ten completely edentulous maxillary arches patients with anterior labby ridges participated in this study. For each patient ive secondary impressions were recorded and divided into ive groups according to impression technique used. Group I: comprised impressions following the mucocompressive technique. While, in Groups II, III, IV and V had used different mucostatic impression techniques. Soft tissue displacements in X, Y, Z axes and total 3-D in relation to a ixed reference point were recorded for each impression using modiied Measurescope. The data were collected and statistically analyzed. The results obtained showed that there were signiicant differences in soft tissue displacement of all tested groups in both three coordinates (X, Y and Z) and total 3-D. Also; the results showed signiicant difference in soft tissue displacement of tissues recorded by the four mucostatic impression technique groups compared to mucocompressive impression technique. A signiicant difference was found between one step mucostatic impression technique group, and two step mucostatic impression techniques.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusions:</head><p>Based on the results of this study, soft tissue displacement of maxillary labby ridge during impression procedure occurred along X, Y and Z directions for all tested impression techniques. The mucostatic impression techniques generated less soft tissue displacement than the mucocompressive technique. Two-step mucostatic impression techniques produced less soft tissue displacement compared to the one step mucostatic impression technique.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>INTRODUCTION</head><p>Complete dentures are functioning in the oral cavity of patients; they must be constructed in a way that they are in harmony with the oral muscular function. All oral functions, such as Esthetics, Phonetics, swallowing, mastication, laughing and, smiling, necessitate the interactive actions of muscles of the lips, tongue, loor of the mouth, and cheeks, which are extremely compound and highly independent. <ref type="bibr" target="#b0">(1)</ref> The accomplishment of a complete denture usually depends on fundamental principles of impression making, i.e. peripheral seal without involvement with muscular functional movements, maximum coverage of supporting area, and precise adaptation to the underlying tissues without damaging displacement. <ref type="bibr" target="#b1">(2)</ref> However, problems appear when the quality of the supporting areas is not suitable for this purpose. As, presence of labby ridge, which is a supericial area of mobile soft tissue affecting the maxillary or mandibular alveolar ridges, that gives rise to looseness relating to a complete denture that rests on them. <ref type="bibr" target="#b1">(2,</ref><ref type="bibr" target="#b2">3)</ref> Due to the recoil of labby tissue which is compressed during conventional impression making, resulting in dislodge of the overlying denture; that adversely affected stability, retention and support. Also, patient discomfort and gross occlusal disharmony are among the consequences. <ref type="bibr" target="#b3">(4)</ref> Treatment options for these patient's include surgery, implant retained prosthesis or conventional prosthodontics treatment without surgical intervention. <ref type="bibr" target="#b2">(3)</ref> Treatment modality has to be chosen depending on extent of labby foundation tissue, patient's state of health and need, inancial capacity and skill of the dentist. In generality circumstances, use of implants or surgical intervention is not reasonable or conservative management <ref type="bibr" target="#b4">(5)</ref> Two impression concepts have been reported to overcome the problem of labby foundation tissue. First, is the mucocompressive impression technique, which records the loose labby tissue in a compressed form in a try to obtain functional support for the denture. The other is the mucostatic impression technique, which relies on obtaining support from irm areas of the arch. <ref type="bibr" target="#b2">(3)</ref> Hence, for these patients, various impression techniques have been proposed for the impression of a labby ridge which will support the labby foundation tissue but at the same time will not displace it, <ref type="bibr" target="#b5">(6)</ref> these impression techniques were Mucocompressive impression technique, <ref type="bibr" target="#b6">(7)</ref> Single step mucostatic impression technique, <ref type="bibr" target="#b7">(8,</ref><ref type="bibr" target="#b8">9)</ref> injected two step mucostatic impression technique, <ref type="bibr" target="#b9">(10,</ref><ref type="bibr" target="#b10">11)</ref> two step window mucostatic impression technique, <ref type="bibr" target="#b11">(12,</ref><ref type="bibr" target="#b12">13)</ref> two step sectional tray mucostatic impression technique. <ref type="bibr" target="#b13">(14)</ref> Management of labby maxillary ridge can be a challenging problem. The impression of denture bearing area and occlusal surface detail is given utmost priority in managing it. <ref type="bibr" target="#b14">(15)</ref> Until now, the published evidence does not clearly support the superiority of either of these techniques from the maxillary labby ridge tissue displacement point of view. <ref type="bibr" target="#b15">(16)</ref> Thus, this study was conducted to evaluate the effect of various impression techniques on the displacement of labby maxillary ridges.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>MATERIALS AND METHODS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study Setup and Patient Population</head><p>The study was conducted as a within-subject comparison for which permission from ethical committee of Faculty of Dentistry, Mansoura University was obtained. Ten healthy patients whose ages ranged between 50 to 60 years, with a mean of 55 years participated in this study. All the selected cases had completely edentulous maxilla with labby ridge in the anterior region. The study protocol and objectives were described to all participants and a written informed consent was obtained from each patient.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Prosthetic Procedures</head><p>For every patient preliminary impression of the maxillary denture bearing area was recorded with irreversible hydrocolloid impression material (CA37. Superio Pink. Cover. HOLLAND BV) the anterior maxillary labby ridge was marked intraorally using indelible pencil and transferred to the preliminary impression. Impression was poured in dental stone. Two uniform thicknesses of modeling wax were placed over the displaceable area as a spacer on the predetermined area of the cast and one thickness over non-displaceable area. Wax was cut at the planned tissue stop sites. Thin aluminum foil was adapted onto the wax spacer.</p><p>The special tray was made over the aluminum foil. The cast with the overlying waxed up special tray were lasked to standardize the polished surface of the trays, Flask was opened and the waxed up tray was removed and auto-polymerized acrylic resin dough was packed. Plaster index was constructed for the polished surface of the custom tray, (ig.1).</p><p>The Custom tray was used for making, ive secondary impressions and divided into ive groups according to impression technique used as follow:</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Group I Mucocompressive impression technique:</head><p>The impression procedure for this technique was carried out following the technique described by Watt and MacGregor, <ref type="bibr" target="#b6">(7)</ref> based on the fact that thermoplastic properties of this material enables simultaneous manipulation to compress the normal tissues. without distortion of the labby tissues. Compound impression of the preliminary cast was made using custom tray. Periphery of the impression compound was softened and molded in the mouth. The labby area in the patient's mouth was outlined with indelible pencil and the impression compound was reinserted to transfer the</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Group III injected two step mucostatic impression technique:</head><p>The impression procedure for this technique was carried out following the technique described by Hobkirk, <ref type="bibr" target="#b9">(10)</ref> and Singh et al., <ref type="bibr" target="#b10">(11)</ref> The impression was made using medium body poly siloxane condensation silicone impression material (C-Silicones, Thixolex M Zermack) for mark. The compound overlying the irm area of the ridge was softened leaving the compound overlying the labby area hard. The impression compound was tempered and reseated irmly in the mouth and a zinc oxide wash impression was made.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Group II Single step mucostatic impression technique:</head><p>The impression procedure for this technique was carried out following the technique described by Shum and Pow, <ref type="bibr" target="#b7">(8)</ref> Saluja et al., <ref type="bibr" target="#b8">(9)</ref> for recording labby ridges when minimal mucosal displacement. The custom tray was border molded with softened green stick compound. The wax spacer was removed and multiple holes were drilled in the labby tissue region, (ig. 2). The posterior area of normal tissues and the anterior labby tissue area were recorded in a single step impression technique using light bodied silicone based condensation type elastomeric impression material (BMS DENTAL sililight).  the posterior area of normal tissues. The anterior labby tissue area was recorded using syringed light body low viscosity silicone based condensation type elastomeric impression material (BMS DENTAL sililight), (ig. 3).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Group IV two step window mucostatic impression technique:</head><p>The impression procedure for this technique was carried out following the technique described by Watson <ref type="bibr" target="#b11">(12)</ref> in which a window was created in the custom tray at the area corresponding to the labby tissue, the healthy denture bearing tissues were recorded with zinc oxide eugenol impression paste (Cavex, Holland, BV) and the displaceable soft tissue area with impression plaster. This technique was modiied by Rashid et al., <ref type="bibr" target="#b12">(13)</ref> where addition cured silicone instead of impression plaster used to record the anterior labby area of the residual ridge. The impression technique used was the modiication by Rashid et al., <ref type="bibr" target="#b12">(13)</ref> the anterior area was recorded by using syringed light body elastomeric impression material, (ig. 4).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Group V two step sectional tray mucostatic impression technique:</head><p>The impression procedure for this dual impression technique was carried out using sectional tray following technique modiied from that described by kumarsundar et al., <ref type="bibr" target="#b13">(14)</ref> The custom tray was modiied to form the posterior part of the sectional tray as follow: labial lange was trimmed, the anterior third thickness was reduced from the polished surface and three rectangular projections were added. The posterior tray part was returned to the cast and double thickness of wax spacers were adapted on the palatal aspect of the labby ridge and extending to the crest. The posterior tray part was modiied by wax to extend anteriorly to the palatal slope of the labby ridge till the level of ridge crest. This is followed by waxing up the anterior part of the sectional tray that had three slots in the itting surface. Both tray parts were separated by aluminum foil on the relieved cast and lasked. The lask was opened, the waxed up anterior tray part was removed and self cure acrylic resin was packed. After polymerization, the lask was opened again and the waxed up posterior part of the tray was removed and self cure acrylic resin was packed. Both tray parts locked together through the slots and projections to form one unit sectional tray. During impression procedure unlocked the sectional tray and the anterior part was perforated. Border molding for the posterior part was carried out using green stick compound. Reassembled parts of the tray and border molding were carried out for the anterior part. Unlock two parts again; the impression for the posterior area was made using medium body poly siloxane condensation impression material. This was followed by removal of excess material. The posterior tray was placed in the patient's mouth, while the anterior tray was loaded with light body low viscosity silicone based condensation type elastomeric impression material and seated into position guided by the stops. The impression was removed as a single piece, (ig. 5).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Measuring Displacement of Flabby Maxillary Ridges</head><p>Displacement of labby maxillary ridges was measured using the two dimensional X&amp;Y axes measurescope (Monocular Measurescope type -10 Nikon -Japan). The device was modiied to provide three dimensional measurements; the main lens was replaced by sensitive dial gauge to measure the third dimension (Z-axis). For proper custom tray standard position during repeated measurements, a specially designed Perspex box with rounded metal post exhibiting a pointed deep depression on its top was manufactured and ixed on the traveling table of the device. This depression was considered as a reference point (R) from which, all measurements started. The base of the Perspex box had a recess for ixation of the plaster index of the custom tray's polished surface, (ig. 6).</p><p>Four ixed points were determined for measuring labby maxillary ridges displacement. These points were (point P) the highest point of the median palatine raphe, (point I) the deepest point of the incisive papilla and, (points, R1 and R2) the deepest points of the right and left tuberosities. The positions of these points were determined in three dimensions by recording their X, Y, and Z coordinates in relation to reference point (R).</p><p>The previous measurements were irst made on the wax spacer that used as a control for subsequent measurements. After removing of the wax spacer and secondary impression recording, the custom tray was reseated on its index, and the three-dimensional positions of (P, I, R1 and R2) points were recorded on the impressions. Flabby maxillary ridges displacement for each impression technique in X,Y and Z dimensions was determined by comparing the three coordinates of each of the four working points on the spacer and on the impression.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical analysis:</head><p>Results were subjected to revision and the collected data were coded, processed and analyzed through SPSS (Statistical Package for Social Sciences) (Standard version release 16.0). Descriptive statistics were applied using frequency analysis to detect mean X± SD for parametric data. Independent one way ANOVA was used for  </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head><p>Means and standard deviations of labby maxillary ridges displacement in (mm) in (X) lateral, (Y) anteroposterior, (Z) vertical and total (3-D) directions for the ive tested groups are presented in table (1) and igure (7). Group I represent the highest labby maxillary ridges displacement value in X,Y,Z and total 3-D while Group IV represent the least value in X,Y,Z and total 3-D. A statistically signiicant difference in tissue displacement was found in X,Y,Z, and total 3-D) axes between all tested groups and the control. Table (1) and Figure Table (2) reveals the comparison between X, Y, and Z axes for each of the ive groups. A Statistically signiicant difference was found between X, Y and Z directions for all tested Group (I, II, III, IV and V). The highest labby maxillary ridges displacement value was related to Y direction in all groups followed by X direction. Z direction revealed the lowest value except in ive group mucocompressive technique group that shows the highest value. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DISCUSSION</head><p>Management of ibrous tissues overlying residual ridges often results in prosthodontic challenges.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Surgical removal of ibrous tissues is controversial</head><p>as it usually ends up with loss of in adequate bony foundation, which in turn affects the support, retention and stability of removable prostheses. Implant retained prostheses proposed to offer a solution to the problems of stability and retention of prostheses overlying labby ridges, however, the condition of residual ridge may hinder this treatment option. This conservative prosthodontic management of labby edentulous ridges seems a feasible and non-invasive treatment modality. When conserva-tive conventional prosthodontics approach is considered, impression techniques used for recording the ridge has a paramount role. <ref type="bibr" target="#b16">(17)</ref> For this reason; variety of impression techniques were proposed to address problems caused by the labby unsupported denture bearing mucosa. However, lack of scientiic evidence that supports the preference of any of these techniques is lacking in the dental literature, hence was the aim provoking this study.</p><p>In this study, light body rubber base impression material was used instead of plaster of Paris to record labby area in window mucostatic impression technique as it is dimensionally stable and do not need to be poured immediately. It is also less brittle than plaster of Paris and do not need to be handled as carefully. <ref type="bibr" target="#b8">(9)</ref> Soft tissue displacement produced with the mucocompressive technique was signiicantly higher than that produced by the four tested mucostatic impression techniques. This displacement could be related to the fact that this technique could conceivably cause a degree of compression of the mobile tissue aiming to achieve maximum support from it. But this compression proved to be hazard to the health status of the bony foundation. Also, it was proved to result in prosthesis instability due to rebound of the compressed mucosa when at rest and not in function. <ref type="bibr" target="#b17">(18)</ref> This result is in agreement with the results of a previous study that recommended to use the mucostatic impression techniques for labby ridge or even for normal residual ridge to avoid the effect of tissue compression of the supporting mucosa. <ref type="bibr" target="#b18">(19)</ref> This result is in contrast with study done by Lamb <ref type="bibr" target="#b19">(20)</ref> who claimed that, by performing the impression in this way, the original relatively undistorted shape of the ibrous tissues is retained while the tissues more capable of functional denture support are recorded in a displaced state.</p><p>The signiicantly less tissue displacement produced when using the two stage minimal pressure impression techniques compared to that produced by the one step minimal pressure impression technique is in agreement with the inding of many advocates supporting the two step impression technique. <ref type="bibr" target="#b9">(10,</ref><ref type="bibr" target="#b17">18,</ref><ref type="bibr" target="#b20">21)</ref> In addition, two tray technique represent a minimal degree of labby ridge distortion because the structure of the posterior tray that creates a space on the palatal aspect of the mobile area allowed the recording of posterior denture bearing tissue with slight anterior distortion. Furthermore, the presence of the supporting impression material should prevent backward displacement of the mobile ridge during the second stage of impression that record the labby area as explained by Osborne, <ref type="bibr" target="#b21">(22)</ref> who claimed that this technique aimed to maintain the contour of the easily displaceable tissue while the rest of the denture bearing area is recorded. And, added that the anterior tray should be inserted from in front to backwards to prevent backward displacement of the mobile ridge.</p><p>In window technique, structure of the tray that allowed recording the posterior denture bearing tissue separately without causing distortion and displacement to the anterior labby ridge area while the anterior labby area was recorded separately by injecting a high low impression material to ensure minimal displacement in X, Y, Z and total 3-D directions.</p><p>However, the importance of one step impression technique could not be ignored as it was proved to be beneicial and was previously recommended when the residual ridge exhibited little degree of displaceable labby tissues. <ref type="bibr" target="#b21">(22)</ref> From the results of this study, it was observed that no deinite impression technique produced the same reading as that of the control group. Hence tissue displacement evident established with different impression techniques followed in this study whether mucostatic or mucocompressive compared to the control group. This could be attributed to the previously reported opinion that any contact between tray material and mucosa may lead to soft tissue displacement even with the normal tissue.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CONCLUSION</head><p>Based on the results of this study, it can be concluded that</p><p>• Flabby ridges can be conservatively managed by using modiied impression techniques.</p><p>• Two step mucostatic impression technique is preferred for recording labby tissue as it allow the least amount of soft tissue displacement when compared to other impression techniques.</p><p>• The window mucostatic impression technique using light body impression material for recording labby area is the best impression technique from the point of tissue displacment.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RECOMMENDATION</head><p>Long term clinical study of the effect of various impression techniques on the health of the edentulous ridge and on the success of complete denture treatment modality is also recommended.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. ( 1 )</head><label>1</label><figDesc>Fig. (1) Plaster index for the polished surface of the tray.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. ( 2 )</head><label>2</label><figDesc>Fig. (2) Border molded special tray with a multiple holes in the labby tissue region.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. ( 3 )</head><label>3</label><figDesc>Fig. (3) The anterior labby tissue area was recorded using syringed light body low viscosity silicone</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Fig. ( 5 )</head><label>5</label><figDesc>Fig. (5) A. anterior parts of the tray, B. border molding of anterior and posterior parts of the tray, C. impression of the posterior part of the tray, D. impression of anterior and posterior parts of the tray.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Fig. ( 6</head><label>6</label><figDesc>Fig. (6) Modiied Measurescope</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>( 7 )</head><label>7</label><figDesc>also, show signiicant difference in (X,Y,Z, and total 3-D) axes between mucocompressive impression techniques Group I and the four mucostatic impression techniques (Group II, III, IV and V). Regarding four mucostatic impression techniques, soft tissue displacement measurements of two step impression techniques (Group III, IV, V) showed a statistically signiicant less labby maxillary ridges displacement in the X, Y, Z and total 3-D axes compared to the one step impression technique (Group II). Statistically insigniicant difference was found between the three groups of two step impression technique (Group III, IV, V) in the X, Y , Z and total 3-D axes. Group IV (mucostatic window impression technique demonstrates the lowest labby maxillary ridges displacement values. It was 0.62±0.03 in X direction, 1.02±0.094 in Y direction, 0.2±0.03 in Z direction and 0.61±0.07 in total 3D direction.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>TABLE ( 1</head><label>(</label><figDesc>) Means, Standard deviations and ANOVA test for soft tissue displacement measurements in (mm) in (X, Y,Z and total 3-D) directions for each tested impression technique.</figDesc><table><row><cell>Direction</cell><cell>X</cell><cell>Y</cell><cell>Z</cell><cell>Total 3-D</cell></row><row><cell>Technique</cell><cell>(X± SD)</cell><cell>(X± SD)</cell><cell>( X ± SD)</cell><cell>(X± SD)</cell></row><row><cell>Control</cell><cell>0.00±0.00 d</cell><cell>0.00±0.00 d</cell><cell>0.00±0.00 d</cell><cell>0.00±0.00 d</cell></row><row><cell>Group I</cell><cell>1.690.13± a</cell><cell>2.02±0.19 a</cell><cell>2.1±0.279 a</cell><cell>1.94±0.214 a</cell></row><row><cell>Group II</cell><cell>1.12±0.09 b</cell><cell>1.61±0.13 b</cell><cell>0.91±0.08 b</cell><cell>1.21±0.14 b</cell></row><row><cell>Group III</cell><cell>0.75±0.07 c</cell><cell>1.4±0.11 c</cell><cell>0.4±0.02 c</cell><cell>0.85±0.09 c</cell></row><row><cell>Group IV</cell><cell>0.62±0.03 c</cell><cell>1.02±0.094 c</cell><cell>0.2±0.03 c</cell><cell>0.61±0.07 c</cell></row><row><cell>Group V</cell><cell>0.72±0.059 c</cell><cell>1.1±0.10 c</cell><cell>0.35±0.042 c</cell><cell>0.72±0.054 c</cell></row><row><cell>F one way ANOVA</cell><cell>4.582</cell><cell>5.608</cell><cell>4.117</cell><cell>9.921</cell></row><row><cell>(P)</cell><cell>0.001*</cell><cell>0.001*</cell><cell>0.0001*</cell><cell>0.0001*</cell></row><row><cell>X = Arithmetic mean.</cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table><note><p><p>S.D. = Standard deviation.</p>Values having different letters are statistically signiicant different (p&lt; 0.05).</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>TABLE ( 2</head><label>(</label><figDesc>) Means, Standard deviations and ANOVA test for soft tissue displacement measurements in (mm) in X, Y and Z directions for all tested impression technique</figDesc><table><row><cell>Technique</cell><cell>Group I</cell><cell>Group II</cell><cell>Group III</cell><cell>Group IV</cell><cell>Group V</cell></row><row><cell>Direction</cell><cell>(X± SD)</cell><cell>(X± SD)</cell><cell>( X ± SD)</cell><cell>( X ± SD)</cell><cell>( X ± SD)</cell></row><row><cell>X</cell><cell>1.690.13±</cell><cell>1.12±0.09</cell><cell>0.75±0.07</cell><cell>0.62±0.03</cell><cell>0.72±0.059</cell></row><row><cell>Y</cell><cell>2.02±0.19</cell><cell>1.61±0.13</cell><cell>1.4±0.11</cell><cell>1.02± 0.094</cell><cell>1.1±0.10</cell></row><row><cell>Z</cell><cell>2.1±0.279</cell><cell>0.91±0.08</cell><cell>0.4±0.02</cell><cell>0.2±0.03</cell><cell>0.35±0.042</cell></row><row><cell>F one way ANOVA</cell><cell>6.388</cell><cell>7.074</cell><cell>8.119</cell><cell>8.117</cell><cell>6.253</cell></row><row><cell>(P)</cell><cell>0.0001</cell><cell>0.0001</cell><cell>0.0001</cell><cell>0.0001</cell><cell>0.0001</cell></row><row><cell cols="3">Fig. (7) Means of labby maxillary ridges displacement in</cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="3">(mm) in (X) lateral, (Y) anteroposterior, (Z) vertical directions for the ive tested groups</cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Management of Maxillary Flabby Tissue &amp; Highly Resorbed Mandibular Ridges</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Lahoti</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Dent Oral Health</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="1" to="5" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Management of Flabby Ridge Cases: A Challenge in Clinical Practice</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Jayaprakash</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Sahu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Khan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Khoriya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Jadhav</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Kendre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Lukaram</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Adv Health Sci</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="32" to="37" />
+			<date type="published" when="1169">2014. 1169</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">A review of prosthodontic management of ibrous ridges</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">W</forename><surname>Crawford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">D</forename><surname>Walmsley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br Dent J</title>
+		<imprint>
+			<biblScope unit="volume">199</biblScope>
+			<biblScope unit="page" from="715" to="719" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Management of the labby ridge: Using contemporary materials to solve an old problem</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">D</forename><surname>Lynch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">F</forename><surname>Allen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br Dent J</title>
+		<imprint>
+			<biblScope unit="volume">200</biblScope>
+			<biblScope unit="page" from="258" to="261" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Management of labby ridges using liquid supported denture: a case report</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Keni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Aras</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Chitre</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Adv Prosthodont</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="43" to="46" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main">A Single Step Impression Technique of Flabby Ridges Using Monophase Polyvinylsiloxane Material: A Case Report</title>
+		<author>
+			<persName><forename type="first">U</forename><forename type="middle">Y</forename><surname>Pai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">S</forename><surname>Reddy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">N</forename><surname>Hosi</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014">2014. 2014</date>
+			<publisher>Case Rep Dent</publisher>
+			<biblScope unit="page">104541</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m" type="main">Designing complete dentures. 2nd ed</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Watt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Macgregor</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1986">1986</date>
+			<publisher>IOP Publishing Ltd</publisher>
+			<pubPlace>Bristol</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Management of excessive movable tissue: A modiied impression technique</title>
+		<author>
+			<persName><forename type="first">Hcm</forename><surname>Shum</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hne</forename><surname>Pow</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Prosthet Dent</title>
+		<imprint>
+			<biblScope unit="volume">112</biblScope>
+			<biblScope unit="page" from="387" to="389" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Management of labby ridge: A case series</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">S</forename><surname>Saluja</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">S</forename><surname>Ghai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Mahajan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Bajaj</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Adv Med Dent Scie Res</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="109" to="115" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title level="m" type="main">Complete dentures-a dental practitioner handbook</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hobkirk</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1986">1986. 1993</date>
+			<publisher>Wright</publisher>
+			<biblScope unit="page" from="44" to="45" />
+			<pubPlace>Bristol</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Prosthodontics Rehabilitation Of A Maxillary Fibrous Ridge -A Case Report</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Singh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Dable</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Tandon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Jain</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">TMU J. Dent</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="164" to="167" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Impression technique for maxillary ibrous ridge</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Watson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br Dent J</title>
+		<imprint>
+			<biblScope unit="volume">128</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page">552</biblScope>
+			<date type="published" when="1970">1970</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Zuhaib-uddin M. Revisiting the &quot;window technique</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Rashid</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Nas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Ahmed</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Pak Dent Assoc</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="210" to="214" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kumarsundar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Mallikarjuna</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ragher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Swetha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Deepthi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Pradeep</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Simpliied</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Dual Tray Impression Technique For Anterior Maxillary Flabby Ridge -A Clinical Report. Sch. Acad. J. Biosci</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">2B</biblScope>
+			<biblScope unit="page" from="202" to="206" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Modiied impression technique for labby maxilla-A clinical report</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Muthukumar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Deepak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Ahila</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">SRM J Res Dent Sci</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="71" to="74" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Management of labby ridge in complete denture construction</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Finbarr</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Dent Update</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="524" to="528" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title level="m" type="main">A clinical guide to complete denture prosthodontics</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Mccord</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Grant</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2000">2000</date>
+			<publisher>British Dental Association</publisher>
+			<biblScope unit="page" from="10" to="21" />
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Management of labby ridge: A case report</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Benaiffer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Surendra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Anup</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ind J Dent Sci</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="20" to="22" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Management of labby ridge: A case report</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Benaiffer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Surendra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Anup</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ind J Dent Sci</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="20" to="22" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title level="m" type="main">Problems and solutions in complete denture prosthodontics</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Lamb</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1993">1993</date>
+			<publisher>Quintessence</publisher>
+			<biblScope unit="page" from="57" to="60" />
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">A review of prosthodontic management of ibrous ridges</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Crawford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Walmsley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br Dent J</title>
+		<imprint>
+			<biblScope unit="volume">199</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="740" to="741" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Two impression methods for mobile ibrous ridges</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Osborne</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br Dent J</title>
+		<imprint>
+			<biblScope unit="volume">117</biblScope>
+			<biblScope unit="page" from="392" to="394" />
+			<date type="published" when="1964">1964</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>
