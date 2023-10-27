@@ -6,177 +6,75 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 	<teiHeader xml:lang="en">
 		<fileDesc>
 			<titleStmt>
-				<title level="a" type="main">Impact of Physical Chemical Characteristics of Abutment Implant Surfaces on Bacteria Adhesion</title>
-				<funder>
-					<orgName type="full">Coordination for the Improvement of Higher Education Personnel (CAPES)</orgName>
-				</funder>
-				<funder>
-					<orgName type="full">Lemann Foundation</orgName>
-				</funder>
-				<funder ref="#_JVHg5qR">
-					<orgName type="full">Sa ˜o Paulo Research Foundation (FAPESP)</orgName>
-				</funder>
+				<title level="a" type="main">Implant Stability Change and Osseointegration Speed of Immediately Loaded Photofunctionalized Implants</title>
 			</titleStmt>
 			<publicationStmt>
 				<publisher/>
 				<availability status="unknown"><licence/></availability>
-				<date type="published" when="2023-05-02">02 May 2023</date>
 			</publicationStmt>
 			<sourceDesc>
 				<biblStruct>
 					<analytic>
 						<author>
-							<persName><roleName>DDS PhD</roleName><forename type="first">Erica</forename><surname>Dorigatti De Avila</surname></persName>
+							<persName><roleName>DDS</roleName><forename type="first">Senichi</forename><surname>Suzuki</surname></persName>
 							<affiliation key="aff0">
-								<orgName type="department" key="dep1">Department of Dental Materials and Prosthodontics</orgName>
-								<orgName type="department" key="dep2">School of Dentistry at Araraquara</orgName>
-								<orgName type="institution">Univ Estadual Paulista -Araraquara</orgName>
+								<orgName type="department" key="dep1">Director, Lion Implant Center</orgName>
+								<orgName type="department" key="dep2">Department of Hospital Administration</orgName>
+								<orgName type="department" key="dep3">The Weintraub Center for Reconstructive Biotechnology</orgName>
+								<orgName type="department" key="dep4">Division of Advanced Prosthodontics</orgName>
+								<orgName type="institution">Juntendo University School of Medicine</orgName>
 								<address>
-									<country key="BR">Brazil</country>
+									<settlement>Kanagawa, Tokyo</settlement>
+									<country>Japan. †Professor, Japan. ‡Professor</country>
 								</address>
 							</affiliation>
 							<affiliation key="aff1">
-								<orgName type="department" key="dep1">Division of Oral Biology and Medicine</orgName>
-								<orgName type="department" key="dep2">School of Dentistry</orgName>
+								<orgName type="department">School of Dentistry</orgName>
 								<orgName type="institution">University of California</orgName>
 								<address>
-									<settlement>Los Angeles</settlement>
-									<country>Calif</country>
+									<settlement>Los Angeles, Los Angeles</settlement>
+									<region>CA</region>
 								</address>
 							</affiliation>
 						</author>
 						<author>
-							<persName><roleName>DDS, MSc</roleName><forename type="first">Rafael</forename><surname>Scaf De Molon</surname></persName>
+							<persName><roleName>MD</roleName><forename type="first">Hiroyuki</forename><surname>Kobayashi</surname></persName>
+						</author>
+						<author role="corresp">
+							<persName><roleName>DDS</roleName><forename type="first">Takahiro</forename><surname>Ogawa</surname></persName>
+							<email>togawa@dentistry.ucla.edu</email>
+						</author>
+						<author>
 							<affiliation key="aff2">
-								<orgName type="department" key="dep1">Department of Diagnostic and Surgery</orgName>
-								<orgName type="department" key="dep2">School of Dentistry at Araraquara</orgName>
-								<orgName type="institution">Sa ˜o Paulo State University</orgName>
-								<address>
-									<settlement>Araraquara</settlement>
-									<country key="BR">Brazil</country>
-								</address>
-							</affiliation>
-							<affiliation key="aff3">
-								<orgName type="department" key="dep1">Division of Diagnostic Surgical Science</orgName>
-								<orgName type="department" key="dep2">School of Dentistry</orgName>
+								<orgName type="department" key="dep1">Jerry Weintraub Center for Reconstructive Biotechnology</orgName>
+								<orgName type="department" key="dep2">Division of Advanced Prosthodontics</orgName>
+								<orgName type="department" key="dep3">Biomaterials and Hospital Dentistry</orgName>
+								<orgName type="department" key="dep4">School of Dentistry</orgName>
+								<orgName type="laboratory">Laboratory for Bone and Implant Sciences (LBIS)</orgName>
 								<orgName type="institution">University of California</orgName>
 								<address>
-									<settlement>Los Angeles</settlement>
-									<country>Calif</country>
+									<addrLine>The Jane, 10833 Le Conte Avenue (B3-081 CHS)</addrLine>
+									<postBox>Box 951668</postBox>
+									<postCode>90095-1668</postCode>
+									<settlement>Los Angeles, Los Angeles</settlement>
+									<region>CA</region>
+									<country>Phone</country>
 								</address>
 							</affiliation>
 						</author>
-						<author>
-							<persName><roleName>DDS, PhD</roleName><forename type="first">Bruno</forename><forename type="middle">P</forename><surname>Lima</surname></persName>
-							<affiliation key="aff1">
-								<orgName type="department" key="dep1">Division of Oral Biology and Medicine</orgName>
-								<orgName type="department" key="dep2">School of Dentistry</orgName>
-								<orgName type="institution">University of California</orgName>
-								<address>
-									<settlement>Los Angeles</settlement>
-									<country>Calif</country>
-								</address>
-							</affiliation>
-						</author>
-						<author>
-							<persName><roleName>PhD</roleName><forename type="first">Renate</forename><surname>Lux</surname></persName>
-							<affiliation key="aff1">
-								<orgName type="department" key="dep1">Division of Oral Biology and Medicine</orgName>
-								<orgName type="department" key="dep2">School of Dentistry</orgName>
-								<orgName type="institution">University of California</orgName>
-								<address>
-									<settlement>Los Angeles</settlement>
-									<country>Calif</country>
-								</address>
-							</affiliation>
-							<affiliation key="aff4">
-								<orgName type="department">Division of Constitutive and Regenerative Sciences</orgName>
-								<orgName type="institution">University of California School of Dentistry</orgName>
-								<address>
-									<settlement>Los Angeles</settlement>
-									<country>Calif</country>
-								</address>
-							</affiliation>
-						</author>
-						<author>
-							<persName><roleName>PhD</roleName><forename type="first">Wenyuan</forename><surname>Shi</surname></persName>
-							<affiliation key="aff1">
-								<orgName type="department" key="dep1">Division of Oral Biology and Medicine</orgName>
-								<orgName type="department" key="dep2">School of Dentistry</orgName>
-								<orgName type="institution">University of California</orgName>
-								<address>
-									<settlement>Los Angeles</settlement>
-									<country>Calif</country>
-								</address>
-							</affiliation>
-						</author>
-						<author>
-							<persName><roleName>MSc, PhD</roleName><forename type="first">Miguel</forename><forename type="middle">Jafelicci</forename><surname>Junior</surname></persName>
-							<affiliation key="aff5">
-								<orgName type="department">Department of Physical Chemical</orgName>
-								<orgName type="institution" key="instit1">Chemical Institute</orgName>
-								<orgName type="institution" key="instit2">Sa ˜o Paulo State University</orgName>
-								<address>
-									<settlement>Araraquara</settlement>
-									<country key="BR">Brazil</country>
-								</address>
-							</affiliation>
-						</author>
-						<author>
-							<persName><forename type="first">Denise</forename><surname>Madalena</surname></persName>
-						</author>
-						<author>
-							<persName><roleName>MSc</roleName><forename type="first">Palomari</forename><surname>Spolidorio</surname></persName>
-							<affiliation key="aff6">
-								<orgName type="department" key="dep1">Department of Physiology and Pathology</orgName>
-								<orgName type="department" key="dep2">School of Dentistry at Araraquara</orgName>
-								<orgName type="institution">Sa ˜o Paulo State University</orgName>
-								<address>
-									<settlement>Araraquara</settlement>
-									<country key="BR">Brazil</country>
-								</address>
-							</affiliation>
-						</author>
-						<author>
-							<persName><roleName>DDS, MSc</roleName><forename type="first">Carlos</forename><forename type="middle">Eduardo</forename><surname>Vergani</surname></persName>
-							<affiliation key="aff0">
-								<orgName type="department" key="dep1">Department of Dental Materials and Prosthodontics</orgName>
-								<orgName type="department" key="dep2">School of Dentistry at Araraquara</orgName>
-								<orgName type="institution">Univ Estadual Paulista -Araraquara</orgName>
-								<address>
-									<country key="BR">Brazil</country>
-								</address>
-							</affiliation>
-						</author>
-						<author>
-							<persName><forename type="first">Francisco</forename><surname>De Assis</surname></persName>
-						</author>
-						<author>
-							<persName><roleName>DDS, MSc, PhD</roleName><forename type="first">Mollo</forename><surname>Junior</surname></persName>
-							<affiliation key="aff0">
-								<orgName type="department" key="dep1">Department of Dental Materials and Prosthodontics</orgName>
-								<orgName type="department" key="dep2">School of Dentistry at Araraquara</orgName>
-								<orgName type="institution">Univ Estadual Paulista -Araraquara</orgName>
-								<address>
-									<country key="BR">Brazil</country>
-								</address>
-							</affiliation>
-						</author>
-						<title level="a" type="main">Impact of Physical Chemical Characteristics of Abutment Implant Surfaces on Bacteria Adhesion</title>
+						<title level="a" type="main">Implant Stability Change and Osseointegration Speed of Immediately Loaded Photofunctionalized Implants</title>
 					</analytic>
 					<monogr>
-						<imprint>
-							<date type="published" when="2023-05-02">02 May 2023</date>
-						</imprint>
+						<idno type="ISSN">1056-6163/13/02205-481</idno>
 					</monogr>
-					<idno type="MD5">36AF4FAE3F169D38E1CCBEADF330E0DD</idno>
-					<idno type="DOI">10.1563/aaid-joi-D-14-00318</idno>
+					<idno type="MD5">E56AB2A5E23B96C9595B61797071CC74</idno>
+					<idno type="DOI">10.1097/ID.0b013e31829deb62</idno>
 				</biblStruct>
 			</sourceDesc>
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.0-SNAPSHOT" ident="GROBID" when="2023-10-27T16:38+0000">
+				<application version="0.8.0-SNAPSHOT" ident="GROBID" when="2023-10-27T17:11+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -185,892 +83,1127 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<profileDesc>
 			<textClass>
 				<keywords>
-					<term>abutment implants</term>
+					<term>ultraviolet</term>
 					<term>titanium</term>
-					<term>zirconia</term>
-					<term>bacteria adhesion</term>
+					<term>superhydrophilic</term>
+					<term>hydrocarbon</term>
+					<term>super osseointegration</term>
 				</keywords>
 			</textClass>
 			<abstract>
-<div xmlns="http://www.tei-c.org/ns/1.0"><p>Surface attachment is the first step in biofilm formation, and the ability of bacteria to adhere to surfaces and develop a biofilm is directly influenced by electrostatic interactions between the bacteria and the chemical composition of material surfaces. Here, we investigated the influence of physical and chemical characteristics of titanium (Ti) and zirconia (ZrO 2 ) as implant abutment surfaces on the bacterial adhesion phase and compared the results to bovine enamel (BE) simulating a human tooth. To achieve this goal, we used 2 common pathogens of the oral cavity, Streptococcus mutans UA140 and Porphyromonas gingivalis 33277.T o investigate the influence of material surfaces on bacterial adhesion, we studied the surface free energy as well as the topography by atomic force microscopy, and the chemical elements composition by scanning electron microscopy equipped with an energy dispersive X-ray spectroscope. Our results indicated a hydrophobic characteristic for all of the materials; however, the presence of polar and nonpolar components could aid in understanding why greater numbers of bacteria had adhered to BE compared to the other surfaces. Our confocal microscopy data support the proposition that electrostatic interactions, indeed, affected the initial adhesion phase. Within the limitations of a laboratory study, the results revealed bacterial adhered on BE and no bacteria could be observed by confocal images on Ti and ZrO 2 implant abutment surfaces.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>reported in literature for various asreceived implants after a longer healing time of 2 to 6 months. No stability dip was observed for photofunctionalized implants regardless of the initial ISQ values. The OSI for photofunctionalized implants was 6.3 and 3.1 when their initial ISQ was 65 to 70 and 71 to 75, respectively, whereas the OSI values for asreceived implants calculated from literature ranged from -3.0 to 1.17 with an average of -0.10.</p><p>Conclusions: Photofunctionalization accelerated and enhanced osseointegration of dental implants, providing novel and practical avenues for further advancement in implant therapy.</p></div>
 			</abstract>
 		</profileDesc>
 	</teiHeader>
 	<text xml:lang="en">
 		<body>
-<div xmlns="http://www.tei-c.org/ns/1.0"><head>INTRODUCTION</head><p>T he long-term success of dental implants is thought to be strongly dependent on the presence of healthy periimplant tissue. <ref type="bibr" target="#b0">1</ref> Although implant failure is a multifactorial process, 2 peri-implantitis has been proposed to be one of the most critical factors implicated in the loss of implants. <ref type="bibr" target="#b2">3,</ref><ref type="bibr" target="#b3">4</ref> In this context, the physical and chemical characteristics of implant abutment surfaces have been shown to directly affect bacterial adhesion. <ref type="bibr" target="#b4">5</ref> To date, titanium has been considered the gold standard due to its excellent properties, providing it with a dominant position among the available abutment and implant materials. <ref type="bibr" target="#b5">6</ref> Esthetic features favored the introduction of ceramic implant abutment materials. <ref type="bibr" target="#b6">7</ref> Similarly to titanium, zirconia is also biocompatible, highly resistant to corrosion, and provides great strength and toughness. <ref type="bibr" target="#b6">7,</ref><ref type="bibr" target="#b7">8</ref> Although, the effect of implant and abutment surfaces on bacterial adhesion and biofilm formation has been reported in both in vivo and in vitro studies, <ref type="bibr" target="#b8">[9]</ref><ref type="bibr" target="#b10">[10]</ref><ref type="bibr" target="#b11">[11]</ref> there is no unified consensus regarding how different materials affect bacterial colonization. <ref type="bibr" target="#b4">5,</ref><ref type="bibr" target="#b12">12,</ref><ref type="bibr">13</ref> Titanium and zirconia are hydrophobic materials. Hydrophobic attractive forces and electrostatic charge interactions between surfaces and bacteria have been proposed to play a key role in biofilm formation. <ref type="bibr">14,</ref><ref type="bibr" target="#b13">15</ref> Most bacteria have many ionizable groups on their surfaces, <ref type="bibr" target="#b14">[16]</ref><ref type="bibr" target="#b15">[17]</ref><ref type="bibr" target="#b16">[18]</ref> which confer a net negative charge, particularly during the early stationary phase of cell growth. <ref type="bibr" target="#b17">19</ref> However, the charge that is present on the cell surface of some types of bacteria can create a hydrophobic effect via nonpolar molecules and result in an affinity for other hydrophobic surfaces. <ref type="bibr" target="#b18">20</ref> This characteristic explains why some bacterial species preferentially interact with certain materials and why the findings reported in the literature are inconsistent depending on the type of bacterial species assessed. Given the complex relationship between bacteria and material surfaces and the clinical relevance of this topic, this study was conducted to investigate the influence of the physical and chemical properties of 2 different implant abutment materials, titanium and zirconia, on bacterial adhesion. In addition, bovine enamel (BE) was used as a control, simulating the human cervical tooth surface.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>P</head><p>hotofunctionalization of titanium implants, the comprehensive physicochemical and biological effects of ultraviolet (UV)-light treatment, has earned considerable interest and attention in the fields of titanium science, biomaterials research, and implant therapy. <ref type="bibr" target="#b0">[1]</ref><ref type="bibr" target="#b1">[2]</ref><ref type="bibr" target="#b2">[3]</ref><ref type="bibr" target="#b3">[4]</ref><ref type="bibr" target="#b4">[5]</ref><ref type="bibr" target="#b5">[6]</ref> Photofunctionalization of titanium implants increased the bone-implant contact from 55% to 98.2%, approximating an ideal level of 100%, in an animal model. <ref type="bibr" target="#b4">5</ref> Consequently, the strength of bone-implant integration increases more than 3 times at the early stage of healing. <ref type="bibr" target="#b4">5</ref> Subsequent in vivo animal studies further revealed the advantage of photofunctionalization to overcome challenging conditions. One of the studies showed that, when the implant was 40% shorter, the strength of bone-implant integration decreased by 50%. <ref type="bibr" target="#b6">7</ref> More importantly, when 40% shorter implants were photofunctionalized, the strength of boneimplant integration was even greater than that of standard-length implants.</p><p>Another study examined the effect of a periimplant gap in the cortical bone. <ref type="bibr" target="#b7">8</ref> The presence of a periimplant gap, equivalent to half the implant diameter, resulted in significant reduction of the strength of bone-implant integration by 70% compared with the implants with cortical support. When photofunctionalized implants were placed in the same gap healing, the strength of boneimplant integration increased to the same level of the implants with cortical support. Detailed microcomputed tomography analysis revealed that the effect can be explained by an enhanced osteomorphogenesis around photofunctionalized implants. <ref type="bibr" target="#b7">8</ref> There was robust osteogenesis around photofunctionalized implants, which initiated at the implant interface and rapidly spread to and connected with the surrounding bone, whereas osteogenesis around untreated implants initiated at the surface of the remote cortical bone and slowly approached the implant interface.</p><p>The mechanism underlying the biological effects of photofunctionalization includes 3 property changes on Objectives: This study evaluated the degree and rate of implant stability development for photofunctionalized dental implants in humans.</p><p>Materials and Methods: Thirtythree implants (7 patients) placed in the maxilla and immediate loaded were evaluated. Photofunctionalization was performed by treating implants with ultraviolet for 15 minutes immediately before placement. Implant stability was assessed by measuring the implant stability quotient (ISQ) weekly starting from implant placement up to 3 months. Osseointegration speed index (OSI), defined as ISQ increase per month, was also evaluated.</p><p>Results: The average ISQ for photofunctionalized implants at week 6 was 78.0, which was considerably higher than the average ISQ of 66.1, titanium surfaces. Photofunctionalization converts titanium surfaces from hydrophobic to superhydrophilic and from electronegative to electropositive. <ref type="bibr" target="#b1">2,</ref><ref type="bibr" target="#b2">3,</ref><ref type="bibr" target="#b4">5,</ref><ref type="bibr" target="#b8">[9]</ref><ref type="bibr" target="#b9">[10]</ref><ref type="bibr" target="#b10">[11]</ref><ref type="bibr" target="#b11">[12]</ref><ref type="bibr">[13]</ref> In addition, titanium surfaces, which are unavoidably covered by a significant amount of hydrocarbon during aging, can be cleaned by photofunctionalization. <ref type="bibr" target="#b1">2,</ref><ref type="bibr" target="#b2">3,</ref><ref type="bibr" target="#b4">5,</ref><ref type="bibr" target="#b12">14</ref> Because of these surface changes, the recruitment, attachment, retention, spread, proliferation, and the expression of functional phenotypes of osteogenic cells are remarkably increased. <ref type="bibr" target="#b0">1,</ref><ref type="bibr" target="#b4">5,</ref><ref type="bibr" target="#b7">8,</ref><ref type="bibr" target="#b10">11,</ref><ref type="bibr" target="#b11">12,</ref><ref type="bibr" target="#b13">15,</ref><ref type="bibr" target="#b14">16</ref> Among cellular behavior and function, this study paid attention to the potential benefits obtained by the enhanced attachment and retention of the cells. Mechanical stimulation, such as vibration of the titanium substrate, is known to detach a large number of cells from titanium surfaces even after the cells are adhered. <ref type="bibr" target="#b5">6,</ref><ref type="bibr" target="#b9">10,</ref><ref type="bibr" target="#b10">11,</ref><ref type="bibr" target="#b13">15,</ref><ref type="bibr" target="#b15">17</ref> When an immediate loading protocol is applied to dental implants, there is a reasonable concern that only a limited number of remnant cells could play a subsequent role in osseointegration. If photofunctionalization is proven to increase cellular attachment and retention, it may, in particular, help improve the process of osseointegration in immediately loaded dental implants.</p><p>Measuring implant stability at placement and its subsequent change during healing provides useful information for monitoring the process of osseointegration, planning a loading protocol, and evaluating various conditions of osseointegration on implant and host sides. <ref type="bibr" target="#b16">[18]</ref><ref type="bibr" target="#b18">[19]</ref><ref type="bibr" target="#b19">[20]</ref><ref type="bibr" target="#b20">[21]</ref><ref type="bibr" target="#b21">[22]</ref><ref type="bibr" target="#b22">[23]</ref><ref type="bibr" target="#b23">[24]</ref> The use of implant stability quotient (ISQ) values based on the resonance frequency analysis has been extensively reported for its reasonable reliability and validity. <ref type="bibr" target="#b19">20,</ref><ref type="bibr" target="#b24">[25]</ref><ref type="bibr" target="#b26">[26]</ref><ref type="bibr" target="#b28">[27]</ref><ref type="bibr" target="#b29">[28]</ref><ref type="bibr">[29]</ref><ref type="bibr" target="#b30">[30]</ref> Periimplant osteogenesis consists of postsurgical reaction and remodeling of the bone and the initiation and progression of de novo bone formation, which are represented as a reduction in primary stability and development of secondary stability, respectively. <ref type="bibr" target="#b31">[31]</ref><ref type="bibr" target="#b32">[32]</ref><ref type="bibr" target="#b33">[33]</ref> The rate of losing primary stability is known to be faster than the development of secondary stability and, thereby, causes a merging gap between the 2 processes to maintain overall implant stability, resulting in the occurrence of a stability dip <ref type="bibr" target="#b32">32,</ref><ref type="bibr" target="#b33">33</ref> (Fig. <ref type="figure" target="#fig_0">1</ref>). The stability dip, including the progressive reduction of overall stability when the initial stability is high, is considered difficult to eliminate with current implants, and in fact, ISQ values are adequately sensitive to detect the stability dip between weeks 1 and 8 after implant placement. <ref type="bibr" target="#b18">19,</ref><ref type="bibr" target="#b20">21,</ref><ref type="bibr" target="#b26">26,</ref><ref type="bibr" target="#b34">[34]</ref><ref type="bibr" target="#b35">[35]</ref><ref type="bibr">[36]</ref><ref type="bibr" target="#b36">[37]</ref> Because of the stability dip, there is a principle in clinical protocol that implants should be kept unloaded until after the dip has passed, which limits the application of immediate and early loading.</p><p>Thus, an important question is whether photofunctionalization is effective in obtaining similar results in humans compared with animal studies and, thereby, providing clinical advantages or therapeutic significance. In particular, we hypothesized that photofunctionalization may affect the commonly understood time course of a change in implant stability because of its capability to expedite and enhance osseointegration as demonstrated in animal studies. This is a perspective cohort study to evaluate the change in stability of photofunctionalized dental implants placed in the edentulous maxilla and immediately loaded during their early healing time up to 3 months.</p></div>
 <div xmlns="http://www.tei-c.org/ns/1.0"><head>MATERIALS AND METHODS</head></div>
-<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disc preparation and surface analysis</head><p>Standardized disc-shaped specimens with a diameter and thickness of 8 mm and 2 mm were obtained from machined pure titanium and yttrium-stabilized zirconia (Conexa ˜o Sistemas de Pro ´teses Ltda, Sa ˜o Paulo, SP, Brazil). Enamel discs of the same dimensions were prepared from bovine incisors and used as a control. The enamel was cut with a diamond drill for glass thread (Dinser Diamond Tools Ltda, Sa ˜o Paulo, Brazil) coupled to the drill bench vise (Schulz -FSB model 16 -chuck taper DIN 238-B18, Sa ˜o Paulo, SP, Brazil) and then subjected to surface polishing utilizing a procedure with waterproof paper grains of 800, 2500, and 4000 (T469-SF-Noton, Saint-Gobam Abrasives Ltd, Jundiaı ´,S a ˜o Paulo, SP, Brazil).</p><p>The surface roughness of all of the discs was quantitatively analyzed using a portable roughness analyzer (Mitutoyosurftest SJ-401, Mitutoyo Corporation, Kawasaki, Japan). To standardize the surface roughness measurements, we developed a device with 2 parallel slots to define the central area of the discs and a circular space to stabilize the samples during the readings. For each disc, 2 measurements were performed on each side, and to verify the reliability of the results, the analyses were repeated twice. The reproducibility of the readings was assessed by calculating the intraclass correlation coefficient (ICC) with a confidence interval of 95%.</p><p>To analyze the surface topography, we used 3 samples of each material and 3 randomized sites per sample (TopScan 3D), measuring an area of 2 3 2 lm and 10 3 10 lm (Figure <ref type="figure" target="#fig_0">1</ref>). A quantitative characterization of the nanoscale surface topography and roughness was conducted using atomic force microscopy (Agilent AFM system, Model 5500, Agilent Technologies, Chandler, Ariz). Contact-mode topographic images were obtained with an applied force constant of 42 N/m, resonance frequency of 320 kHz and silicon tips with a nominal apical radius of less than 8 nm. Next, we examined the chemical element composition of 3 discs from each material by scanning electron microscopy (FEG-MEV; JEOL 7500F model) equipped with an energy dispersive X-ray spectroscope (EDX) (JSM-5900LV, Joel Ltd, Tokyo, Japan).</p><p>To evaluate the wetting and surface tension, we used 5 discs of each material, and the measurement was repeated 3 times for each sample. The contact angle value determined for each wet agent was calculated using the Young-Laplace equation and then inserted into specialized drop-shape analysis software to perform the measurements (SCA-SOFTWARE / OCA-20, DataPhysics Instruments GmbH, Filderstadt, Baden-Wu ¨rttemberg, Germany). The SFE was obtained using the concept of polar and dispersion components according to the method described by Owen. <ref type="bibr" target="#b19">21</ref> </p></div>
-<div xmlns="http://www.tei-c.org/ns/1.0"><head>Bacterial conditions and qualitative assessment of bacterial adhesion</head><p>Porphyromonas gingivalis 33277 was cultured in blood agar supplemented with 0.1% hemin and menadione, for 48 hours at 378C, under anaerobic condition (85% N 2 , 10% H 2 ,5 %C O 2 ). P. gingivalis colonies were transferred to a new tube containing fresh BHI broth medium supplemented by hemin and menadione and maintained for 24 hours (a period previously defined by the growth curve analysis) inside anaerobic chamber, and then the cultures were adjusted to OD 600nm 1.4 before the experiment. Streptococcus mutans UA140 was cultured in TH medium plates prepared by adding 1.5% (wt/ vol) agar to the medium and incubated at 378C, under anaerobic condition. One colony of S. mutans was diluted in TH broth medium and overnight cultures were diluted to an OD 600nm ¼ 0.02 in fresh TH medium containing 0.5% (wt/vol) sucrose. Eight-hundred microliters of each culture was transferred to a 24-well plate containing the discs of each material. The discs were completely immersed in the prepared bacterial suspensions and incubated at 378C under anaerobic conditions. S. mutans were analyzed after 16 hours incubation, while the discs that were immersed in the P. gingivalis culture were analyzed after 48 hours.</p><p>In order to evaluate the density of the bacteria adhered on Ti and ZrO 2 disc surfaces, after 16 and 48 hours incubation, the discs were transferred to a new 12-well plate and washed 3 times with 1 mL of sterile phosphate-buffered saline (PBS) to remove unattached bacteria. The bacteria were then labeled with 0.01 mM of Syto-9 and 0.06 mM of propidium iodide (PI), LIVE/DEAD stain BacLight Bacterial Viability Kit (Invitrogen Corporation, Grand Island, NY), for 15 minutes, according to the manufacturer's instructions. For visualization, the discs were placed on a glass cover slip, and the adhesion of the bacteria was visualized with a 40x oil-immersion (Plan NeoFluar NA 1.3 oil) objective using an LSM 510 confocal laser-scanning microscope (Version 4.2, Carl Zeiss MicroImaging Co, Ltd, Jena, Germany).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patients</head><p>Among the patients who visited Lion Implant Center during November 2011 and March 2012 for implant therapy and who provided consent for documentation and public presentation of their cases, 7 male patients were selected consecutively for this study. Patients were included if they were at least 20 years old, if they complied with oral health care instructions and necessary visits, and if they showed indications for immediate loading in the edentulous maxilla. Patients with systemic or behavioral conditions that could potentially affect bone and soft tissue healing, such as osteoporosis, diabetes, radiation treatment, bruxism, or smoking, were excluded. In total, 33 implants were placed in the 7 patients. The patient and implant information is provided in Table <ref type="table">1</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Surgical Procedure and Photofunctionalization of Dental Implants</head><p>Standardized consultation and diagnostic procedures were provided to all patients, and a treatment plan was presented and approved by the patients. Following the routine procedures of local anesthesia and full-thickness flap reflection, implants were placed following the standard surgical procedure recommended by the manufacturer and described in-depth elsewhere. <ref type="bibr" target="#b37">38,</ref><ref type="bibr" target="#b38">39</ref> Four to 6 implants were placed per edentulous maxilla. The implant neck was positioned at bone level. Multiunit straight abutments or 17-degree or 30-degree angulated abutments were used as appropriate to correct the fixture inclination. The soft tissues were readapted and sutured.</p><p>Implants used in this study had a tapered root form and identical surface microscale morphology by oxidation (TiUnite, NobelReplace Tapered Groovy RP; Nobel Biocare, Yorba Linda, CA). The dimensions of the implants are presented in Table <ref type="table">1</ref>. All implants were photofunctionalized by treating with UV light for 15 minutes using a photo device (TeraBeam Affiny; Ushio, Inc., Tokyo, Japan) at the chair side immediately before implantation (Fig. <ref type="figure">2,</ref><ref type="figure">A</ref>). The photofunctionalization-induced change in surface property from hydrophobic to superhydrophilic (defined as a contact angle of water less than 5 degrees) was confirmed before patient visits by examining several implants for their wettability to double-distilled water (Fig. <ref type="figure">2,</ref><ref type="figure">B</ref>). The total stability, as determined by the addition of primary stability and secondary stability, normally shows a merging gap, which is called the stability dip. The stability dip is considered unavoidable in current dental implants because the rate of losing primary stability is faster than the development of secondary stability.</p><p>These tested implants were from a separate group of the same type of implants and not used for the patients. Furthermore, photofunctionalized surfaces were confirmed by watching the patient's blood spiral up the implant immediately after it was in contact with the drilled site, as typically seen in Figure <ref type="figure">2,</ref><ref type="figure">C</ref>. Bone quality was categorized as type 1, 2, 3, or 4 during the surgery following the criteria proposed by Lekholm and Zarb. <ref type="bibr" target="#b39">40</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Immediate Provisional Restoration</head><p>Full-arch acrylic resin temporary prostheses were placed on the same day. The prostheses were fabricated following the manufacturer's instructions and as described elsewhere <ref type="bibr" target="#b37">38,</ref><ref type="bibr" target="#b38">39</ref> using autopolymerizing resin (Unifast II; GC, Tokyo, Japan) and temporary abutments (Nobel Biocare) in the in-house laboratory. Anterior occlusal contacts and canine guidance during lateral movements were preferably established on the provisional prostheses. No cantilevers contact was given on the provisional prostheses. Fig. <ref type="figure">2</ref>. Photofunctionalization of dental implants and its visualized effects on implant surface property. A, A photo device (TeraBeam; Affiny, Ushio, Inc.) used for photofunctionalization. Dental implants were treated for 15 minutes immediately before implantation. B, Implants, which were hydrophobic as received, were converted to superhydrophilic after photofunctionalization. Photographic images of 3 mL of ddH 2 O droplets placed on implant surfaces are shown. Two droplets (6 mL) were sufficient to entirely cover a photofunctionalized implant. C, Clinical images of untreated (as-received) and photofunctionalized dental implants when they were in contact with an implant site. A hemophilic conversion of the implant surfaces is evidently seen after photofunctionalization. The generated hemophilicity was robust enough to soak up blood along the implant thread. The ISQ values at implant placement and week 6 of healing plotted for photofunctionalized implants. Note that all implants with an initial ISQ that was 75 or lower showed an increase at week 6, and consequently, the ISQ values at week 6 were all 75 or higher.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Implant Stability Measurement and Osseointegration Speed Index</head><p>Implant stability was evaluated by measuring the ISQ at implant placement (ISQi) and during the healing period with a 1-week interval up to 11 weeks using Osstell ISQ (Osstell AB, Gothenburg, Sweden). Furthermore, the rate of establishing implant stability was evaluated by the osseointegration speed index (OSI) defined as an ISQ increase per month, that is, ([ISQ at week 6] -[ISQi])/1.5.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical Analysis</head><p>The effect of healing time on ISQ values was evaluated by ANOVA; P , 0.05 indicated statistical significance. When the effect was significant, further post hoc analysis of Bonferroni was performed to compare the ISQi with the ISQ at each of the subsequent time points. The ISQ values were compared among implants with different lengths using ANOVA. Furthermore, the effect of different bone types where implants were placed was evaluated.</p></div>
 <div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head></div>
-<div xmlns="http://www.tei-c.org/ns/1.0"><head>Physical and chemical characteristics</head><p>The roughness average (Ra) was used as a physical parameter, and the values for the Ti and ZrO 2 discs, respectively, were as follows: 0.21 lm(60.06) and 0.22 lm(60.03). For the BE discs, only discs with a roughness range between 0.05 and 0.1 lm were included in the study. Table <ref type="table">1</ref> shows the average surface roughness (Ra) and maximum surface roughness (Rmax) as determined using AFM and an optical profilometer.</p><p>The presence of Ti, as unique element contained in Ti discs, was confirmed by elemental analysis using an energy dispersive spectroscopy. For ZrO 2 , we detected zirconium (Zr), oxygen (O), and a small amount of carbon (C) in its chemical composition. And, to the BE, hydroxyapatite constituents were found: calcium (Ca), phosphor (P), and O were found. To analyze the physical and chemical characteristics of Ti, ZrO 2 and BE, we dropped 4 liquids of different polarities on each material and measured the contact angle between them. Among the surfaces studied, BE presented hydrophilic and lipophilic characteristics, in contrast, Ti and ZrO 2 presented the highest contact angle values with water and the lowest with hydrophobic wet agents (Figure <ref type="figure">2</ref>). The SFE was defined by the intersection between a straight line and the y-axis (Figure <ref type="figure" target="#fig_1">3a,</ref><ref type="figure">b,</ref><ref type="figure">c</ref>). ZrO 2 materials presented the highest SFE value, and BE showed the lowest.</p></div>
-<div xmlns="http://www.tei-c.org/ns/1.0"><head>Effect of surface hydrophobicity on bacterial adhesion</head><p>To identify the bacterial adhesion structure and viability of the cells that had adhered onto the different surfaces, we performed high-resolution analyses using CLSM. A wetting behavior effect of the 3 different materials on bacterial adhesion was confirmed by confocal microscopy analysis. Higher magnification confocal imaging (340) revealed that bacterial colonization on BE was clearly characterized by larger, taller, and more widespread microcolonies in comparison to the Ti and ZrO 2 surfaces for both S. mutans (Figure <ref type="figure">4</ref>) and P. gingivalis (Figure <ref type="figure">5</ref>). In the case of S. mutans, a small number of bacterial cells was observed on the ZrO 2 discs, but no bacteria were detected on the Ti discs.</p></div>
-<div xmlns="http://www.tei-c.org/ns/1.0"><head>DISCUSSION</head><p>The physical and chemical characteristics of material surfaces have been shown to have a direct impact on the adhesion phase in bacteria. <ref type="bibr" target="#b20">22</ref> Numerous studies have reported a relationship between the types of substrate and the bacterial species, <ref type="bibr" target="#b12">12,</ref><ref type="bibr">13,</ref><ref type="bibr" target="#b21">23,</ref><ref type="bibr" target="#b22">24</ref> and some of them have shown that the initial phase is highly influenced by a surface roughness above a threshold of 0.2 lm. <ref type="bibr">25</ref> Hence, to minimize the effect of roughness in our study, we only used discs with mean roughness values equal to or less than 0.22 lm. Furthermore, we introduced BE simulating the cervical of a human tooth, as a control to investigate the effect of the chemical composition on bacterial adhesion and to improve our understanding of the opposite effect on Ti and ZrO 2 materials. For control group, we selected only the discs with a superficial roughness ranging between 0.05 and 0.1 um, close to a human tooth. <ref type="bibr" target="#b23">26</ref> Both S. mutans and P. gingivalis 27 adhered better on BE than on Ti or ZrO 2 surfaces. This preference in adhesion was confirmed by confocal images and could be explained by the presence of intermolecular interactions between chemical groups on the cell walls of bacteria and polar and nonpolar regions of BE surfaces. Different intermolecular forces can dictate how bacteria interact with different surfaces. <ref type="bibr" target="#b24">28</ref> Depending on the characteristics of these forces, the interaction can be stronger or weaker. The cell wall of S. mutans consists of a thick layer of peptidoglycan that is covered mainly by neutral and acidic polysaccharides, several proteins and teichoic acid. <ref type="bibr" target="#b25">29</ref> Surface proteins on S. mutans confer the charge to these Gram-positive bacteria. The wetting behavior of BE with liquids of different polarities revealed that this type of material has polar and nonpolar characteristics, and consequently, it provides improved electrostatic interactions between the material and the bacteria. <ref type="bibr" target="#b26">30</ref> The hydrophobic regions of S. mutans can also interact with Ti and ZrO 2 ; however, the forces exhibited by the nonpolar molecules are weak. This weak interaction could have allowed the easy detachment of the bacteria from the Ti and ZrO 2 discs during the rinsing step.</p><p>In the case of Gram-negative bacteria, these species possess a thinner peptidoglycan layer and an outer membrane that consists of proteins, phospholipids and lipopolysaccharides (LPS). <ref type="bibr" target="#b27">31</ref> Although the presence of LPS confers a negative net charge, which has been found to contribute hydrophilic characteristics, <ref type="bibr" target="#b28">32</ref> the degree to which LPS plays a role in these hydrophilic features is largely dependent on the structural components, which vary between different species. <ref type="bibr" target="#b29">33,</ref><ref type="bibr" target="#b30">34</ref> According to our results, the high hydrophobic and lipophilic characteristics of Ti and ZrO 2 surfaces, which were evaluated based on the contact angle, could have influenced the ability of P. gingivalis to adhere to these materials. However, the charges present on the BE surfaces could have enhanced the electrostatic interaction with the bacterial cells.</p><p>Interactions between bacteria and materials are also influenced by salivary proteins. Although the salivary pellicle has a definitive impact on bacterial adhesion, <ref type="bibr">35,</ref><ref type="bibr" target="#b31">36</ref> in the current study, a salivary pellicle was not used to more distinctively identify the effects of the chemical characteristics of the material surfaces on bacterial adhesion. The composition of the materials and their physicochemical properties may modulate initial bacterial adhesion <ref type="bibr" target="#b32">37</ref> and, consequently, affect the microbial quality. However, our results cannot be generalized because we examined the impact of the material surfaces using 2 different species of bacteria and must consider the various contributions affecting the final results. These contributing factors include the intermolecular interactions between different species of bacteria, the salivary pellicle and the pH of the oral cavity, which can cause imbalances in the microbial community.</p><p>We believe that the results and concepts presented here will improve understanding regarding the inherent characteristics of materials that affect bacterial adhesion and can be helpful in the design of implant abutment material surfaces to prevent plaque accumulation.</p></div>
-<div xmlns="http://www.tei-c.org/ns/1.0"><head>CONCLUSION</head><p>Within the limitations of a laboratory study, the present results suggest that bacterial adhesion on Ti was lower than that on ZrO 2 , independent of the bacterial species or Gram-positive or Gram-negative status, but it was consistently higher on BE than on abutment materials. ABBREVIATIONS BE: bovine enamel EDS: energy-dispersive X-ray spectroscopy LPS: lipopolysaccharides SFE: surface free energy</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>FIGURE 1 .</head><label>1</label><figDesc>FIGURE 1. Micrographs taken by an atomic force microscopy to describe the surfaces: (a) bovine enamel, (b) Ti, (c) ZrO 2 .</figDesc></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>FIGURE 3 .</head><label>3</label><figDesc>FIGURE 3. Energy-free surface (mN/m) analysis in surfaces: (a) BE; (b) Ti, (c) ZrO 2.</figDesc></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>TABLE Average value</head><label>Average</label><figDesc>, surface roughness (Ra), peak to valley height (Maximum), median and average peak spacing (Rms) measured for the different surfaces: Ti, ZrO 2 , bovine enamel (BE) in nanometer (nm) Effect of material surface on the wettability. In each material, 4 liquids were used: water, ethylene glycol, polyethylene glycol, and diiodomethane. Red indicates Ti; blue, ZrO 2 ; green, BE.</figDesc><table><row><cell>Statistical Quantities</cell><cell>Ti</cell><cell>ZrO 2</cell><cell>BE</cell></row><row><cell>Average Value</cell><cell>60</cell><cell>294</cell><cell>206</cell></row><row><cell>Maximum</cell><cell>121</cell><cell>594</cell><cell>378</cell></row><row><cell>Median</cell><cell>60</cell><cell>297</cell><cell>203</cell></row><row><cell>Ra</cell><cell>10</cell><cell>72</cell><cell>18</cell></row><row><cell>Rms</cell><cell>13</cell><cell>88</cell><cell>25</cell></row><row><cell></cell><cell></cell><cell></cell><cell>FIGURE 2.</cell></row></table></figure>
-			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>Vol. XLII / No. Two / 2016 Biofilm on Abutment Surfaces Downloaded from http://meridian.allenpress.com/joi/article-pdf/42/2/153/2039634/aaid-joi-d-14-00318.pdf by guest on 02 May 2023</p></note>
-			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_1"><p>Journal of Oral Implantology</p></note>
-			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_2"><p>de Avila et al Downloaded from http://meridian.allenpress.com/joi/article-pdf/42/2/153/2039634/aaid-joi-d-14-00318.pdf by guest on 02 May 2023</p></note>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Implant Dimensions and Bone Type</head><p>The diameter of all implants used in this study was 4.3 mm, whereas their length varied; 13 mm implants were used most often (Table <ref type="table">1</ref>). A majority of implants (57.6%) were placed in the type 2 bone, whereas 24.2% and 18.2% implants were placed in the type 1 and type 3 bones, respectively. There was no type 4 bone because the cases included in the study were selected for immediate loading.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Change in Implant Stability</head><p>To visualize the overall trend of change in implant stability, ISQi values and the ISQ values at week 6 were individually plotted (Fig. <ref type="figure">3</ref>). The ISQi varied widely from 65 to 85, whereas the ISQ values at week 6 were converged to the higher level. There was a variation in ISQ fluctuation between the time of implant placement and week 6, an increase, no change, or a decrease, for implants with ISQi that were 77 or higher. In contrast, all implants with IS-Qi 75 or lower showed an increase at week 6. There was a clear trend that lower the ISQi, the greater the subsequent ISQ increase. As a result, the ISQ values at week 6 were all 75 or higher.</p><p>Next, the implants were divided into 3 groups depending on the range of their ISQi (ISQi 65-70, ISQi 71-75, and ISQi $ 76), and the ISQ values starting from the implant placement up to 11th week were plotted in a line graph for each group (Fig. <ref type="figure" target="#fig_2">4</ref>). When the ISQi values was 65 to 70, the ISQ line graph showed a rapid and continuous increase up to week 6, followed by the plateau at the increased level (Fig. <ref type="figure" target="#fig_2">4,</ref><ref type="figure">A</ref>). ANOVA showed a statistically significant effect of healing time on the ISQ values (P , 0.05). The post hoc analysis showed that the ISQ values at week 3 and after week 3 were significantly higher than the ISQi, supporting the rapid increase and subsequent maintenance of ISQ. No significant ISQ decrease was found compared with the ISQi in the entire assessment period (P . 0.05). There also was no significant ISQ dip (a significantly lower ISQ value compared with neighbor time points) throughout the healing period (P . 0.05).</p><p>Similar to the ISQi 65 to 70 group, when the ISQi was 71 to 75, the subsequent ISQ showed an increasing course of change (Fig. <ref type="figure" target="#fig_2">4,</ref><ref type="figure">B</ref>). Although the rate of ISQ increase appeared less than that in ISQi 65 to 70 group because of the higher baseline, the ISQ values in the later time points appeared to be similar between the ISQi 71 to 75 and ISQi 65 to 70 groups. A significant ISQ increase compared with ISQi was found starting at week 2 and continued until week 11, except at week 3. Compared with ISQi, subsequent ISQ values did not show a significant decrease or a significant dip throughout the healing period. In contrast with these 2 results, there was no time-dependent ISQ increase, decrease, or dip when the ISQi was 76 or higher (Fig. <ref type="figure" target="#fig_2">4,</ref><ref type="figure">C</ref>). The mean ISQ values remained higher than 76 throughout the healing period without significant fluctuation in this group.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Osseointegration Speed Index</head><p>For each of the ISQi 65 to 70, ISQi 71 to 75, and ISQi $ 76 groups, change in implant stability between the implant placement and week 6 was tallied in Table <ref type="table" target="#tab_1">2</ref>. A statistically significant ISQ increase was seen in ISQi 65 to 70 and ISQi 71 to 75 groups but not in ISQi $ 76 group. For the significant ISQ changes found, the osseointegration speed index (OSI) defined as the ISQ increase per month was calculated (Table <ref type="table" target="#tab_1">2</ref>). The OSI in ISQi 65 to 70 group was 6.3 6 0.9 and approximately 2 times higher than that in ISQi 71 to 75 group. The OSI for ISQi 71 to 75 group was 3.1 6 1.2.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Effect of Bone Type and Implant Length</head><p>To find potential specificity or exclusivity of the effect of photofunctionalization, ISQ values were analyzed in different bone types. At implant placement, ISQi significantly varied with bone type (Table <ref type="table" target="#tab_2">3</ref>). The ISQ values were significantly lower for the type 2 and 3 groups than for the type 1 group at placement. The interbone type difference became insignificant at week 6, indicating that photofunctionalization was effective in increasing the stability of implants with lower initial ISQ in the type 2 and 3 groups. Next, ISQ values were analyzed depending on the implant length (Table <ref type="table" target="#tab_3">4</ref>). The ISQi was not different between "#11.5-mm" and "$13-mm" groups. Although ISQ increased in both groups at week 6, there was no difference between the 2 groups, indicating the even effect of photofunctionalization regardless of the implant length.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DISCUSSION</head><p>By using ISQ values, this study quantitatively evaluated the level, change, and rate of osseointegration of photofunctionalized dental implants under the immediate loading condition. One of the hypotheses we tested was whether clinical effects of photofunctionalization similar to those found in animal studies can be obtained in humans. As mentioned in Introduction, a series of animal studies demonstrated the accelerated and enhanced capability of osseointegration by photofunctionalization. To compare the osseointegration capability of photofunctionalized dental implants with that of the asreceived untreated implants, we defined and calculated the OSI. The proposed OSI value represents a rate of developing implant stability standardized by healing time, providing more precise and reasonable information rather than the use of an ISQ per se at a certain time point or an ISQ increase during undefined period of time and, more importantly, allowing for a comparison among different sources of data.    Implants were divided into 2 groups depending on the implant length. This table shows mean ISQ values at implant placement and week 6 postimplantation for each group. Both groups showed a significant increase between the placement and week 6 of healing. Therefore, there was no significant difference between the 2 groups at week 6, indicating that photofunctionalization was effective in increasing ISQ values regardless of the implant length. *Not significant between the 2 groups.</p><p>along with the calculated OSI in the literature. <ref type="bibr" target="#b16">18,</ref><ref type="bibr" target="#b18">19,</ref><ref type="bibr" target="#b26">26,</ref><ref type="bibr" target="#b34">[34]</ref><ref type="bibr" target="#b35">[35]</ref><ref type="bibr">[36]</ref><ref type="bibr" target="#b36">[37]</ref><ref type="bibr" target="#b40">[41]</ref><ref type="bibr" target="#b41">[42]</ref><ref type="bibr" target="#b42">[43]</ref><ref type="bibr" target="#b43">[44]</ref><ref type="bibr" target="#b44">[45]</ref><ref type="bibr" target="#b45">[46]</ref> The OSI values from this study are also listed at the bottom of the table. Because the initial ISQ values were all higher than 65 in this study, we focused on the publications dealing with initial ISQ values higher than around 60 and at the same time, with data availability at least 2 time points. The following were the 3 major findings (Table <ref type="table" target="#tab_0">5</ref>): (1) a greater increase between the initial and secondary ISQ values in photofunctionalized implants than in literature; (2) the majority of OSI in literature was lower than 1.0 and the OSI of photofunctionalized implants was notably higher than those in literature; and (3) the ISQ values at secondary time points obtained in this study between 77.5 and 78.1 were higher than any values in literature, even within a shorter healing time of 1.5 months.</p><p>The ISQ values are known to increase when the initial ISQ is lower than 60, whereas ISQ values mostly stay unchanged or decrease when the initial ISQ is higher than 60. <ref type="bibr" target="#b18">19,</ref><ref type="bibr" target="#b20">21,</ref><ref type="bibr" target="#b26">26,</ref><ref type="bibr" target="#b35">35,</ref><ref type="bibr" target="#b46">47</ref> This common understanding can be reaffirmed from the data in literature listed in Table <ref type="table" target="#tab_0">5</ref>, showing OSI of lower than 1.0 or even in the negative range below 0. In this regard, the OSI of 6.3 when the initial ISQ was 65 to 70 and the OSI of 3.1 even when the initial ISQ was 71 to 75 obtained in this study should be considered remarkable. In fact, the calculated OSI for all as-received conventional implants in Table <ref type="table" target="#tab_0">5</ref> ranged from -3.0 to 1.17, with an average of -0.10. If only data with their initial ISQ being in a similar range to this study (65-75) are selected, the OSI ranged from -1.8 to 1.17 with an average of 0.21. In both cases, the OSI values in literature were substantially low.</p><p>Although any interpretation should be carefully made because of the differences in macroscopic design and surface morphology among implants, considerably high ISQ values obtained in this study at week 6 may imply the advantage of photofunctionalization to not only expedite the process but also The ISQ change during healing and calculated OSI are compared between untreated implants in literature and photofunctionalized implants. Note that the OSI values for photofunctionalized implants are considerably higher than those from literature. In addition, the ISQ values achievable at week 6 of healing (1.5-month healing) in photofunctionalized implants are higher than those in any untreated implants even after longer healing time. *Some data were obtained at loading, whereas some at prescheduled follow-up time points. †Values were read from the graph. ‡Data were provided only for ISQ difference between the implant placement and 3-month follow-up. ISQi, initial ISQ at implant placement; OSI, osseointegration speed index ¼ ISQ increase per month. achieve a higher level of osseointegration. The results were particularly surprising because of the following 2 reasons: initial ISQ values of 65 or higher are not expected to increase further, as reported in literature, and high ISQ values were obtained after a healing time as short as 6 weeks. Future studies are needed to follow-up on the subsequent change of the ISQ values of photofunctionalized implants. The higher level of osseointegration may lead to better success rates and long-term predictability of implant therapy, which will be a very interesting research topic in the future. Thus, the current ISQ data and its comparison with literature were indeed consistent with the results obtained from animal studies that showed highly increased implant fixation in the early and late stage of healing, accelerated rate of periimplant bone formation, and the establishment of bone-implant contact nearing 100%, <ref type="bibr" target="#b4">5</ref> supporting the hypothesis that photofunctionalized implants in humans are as effective as in animal experiments.</p><p>Discussing cases of immediate loading and with a similar type of implants would be of another particular interest. A study examined the stability change of implants loaded 1 to 9 days after implant placement to support a full-arch fixed bridge in the maxilla. <ref type="bibr" target="#b40">41</ref> A total of 61 oxidized implants (6 or 8 implants per maxilla) were examined. The mean ISQ, which was 60.1 6 3.6 at placement, increased to 62.8 6 1.6 after 4 months, giving an OSI of 0.68. Another study evaluated implants placed in the partially edentulous maxilla and loaded 0 to 16 days after placement. <ref type="bibr" target="#b41">42</ref> A total of 53 oxidized implants (16 for single tooth replacement and 37 for partial fixed bridges) were examined. The initial ISQ of 63.3 6 6.1 slightly increased to 64.3 6 5.3 after 3 months, giving an OSI of 0.33. Again, there is a general understanding regarding ISQ values that the lower the initial value the more increase is expected during the subsequent healing. Despite the initial ISQ being higher than these studies, OSI values obtained at week 6 in this study were remarkably greater. Knowing that these studies were carried out under a similar clinical protocol and host conditions to this study and with the implant texture being identical to an oxidized surface used in this study, the current results may genuinely demonstrate the effect of photofunctionalization in enabling a faster and more complete process of osseointegration. As mentioned in Introduction, the clinical benefit of photofunctionalization was particularly anticipated in such early/immediate loading cases because of the increased attachment and retention of osteogenic cells, which indeed has been proven by the quantitative assessment of implant stability.</p><p>Another important result of this study was the elimination of the stability dip or significant decrease of total stability throughout the healing period for photofunctionalized implants. High initial ISQ values of approximately 70 to 80 are bound to show a typical dip during the subsequent healing period or, if not a typical dip, a decrease and remain at the decreased level. <ref type="bibr" target="#b18">19,</ref><ref type="bibr" target="#b20">21,</ref><ref type="bibr" target="#b26">26,</ref><ref type="bibr" target="#b35">35,</ref><ref type="bibr" target="#b46">47</ref> In this study, as shown in Table <ref type="table" target="#tab_1">2</ref> and Figure <ref type="figure" target="#fig_2">4</ref>, C, implants with very high initial ISQs (higher than 78) did not experience a stability dip or significant decrease during the healing period, providing the compelling evidence to support immediate loading. Together with the rapid ISQ increase observed in the implants with lower initial ISQ, the current results will help explore a new strategy for early or immediate loading protocols. On the basis of the current results on ISQ dynamics combined with Fig. <ref type="figure">5</ref>. Proposed mechanisms of appearance and disappearance of stability dip in schematic description. The stability dip is anticipated for as-received untreated implants as commonly understood whether the primary stability is high (A) or low (C). In contrast, the stability dip is eliminated by the use of photofunctionalization, regardless of the degree of primary stability (B, D), because of faster (when the primary stability is high) and even faster (when the primary stability is low) development of secondary stability. Note that photofunctionalization did not only expedite the rate of establishing the total stability but also increased the degree of the total stability. Refer to the main text for detailed explanation.</p><p>the common understanding on how the stability dip appears, we propose a mechanism underlying the disappearance of the stability dip by the use of photofunctionalized implants (Fig. <ref type="figure">5</ref>). There are 2 scenarios to explain the phenomenon of stability dip, depending on the level of primary stability. The notions applied to construct the mechanism were as follows: (1) OSI for photofunctionalized implants was considerably higher than untreated implants reported in literature, which led to a rapid and steep secondary stability curve slope during the early healing period; (2) regardless of the use of photofunctionalization, implants with lower initial ISQ values tend to show higher OSI as understood commonly;</p><p>(3) in this study, an OSI with an initial ISQ of 65 to 70 was, in fact, 2 times greater than an OSI with an initial ISQ of 71 to 75; (4) not only the rate of implant stability but also the final level was increased by photofunctionalization, which indicates that the level of secondary stability could be higher with photofunctionalized implants than conventional implants; and (5) the rate of losing primary stability is assumed to be the same with or without photofunctionalization. In Figure <ref type="figure">5, A</ref> and<ref type="figure">C</ref>, high-level and low-level stability dips unavoidably take place in untreated conventional implants because of the quicker loss of primary stability than the development of secondary stability. The rate of secondary stability establishment, which is faster in Figure <ref type="figure">5</ref>, C than in Figure <ref type="figure">5</ref>, A, as indicated by "a' . a," is unlikely to help eliminate the stability dip. In contrast, because of the early shift of the secondary stability curve, as indicated by "b . a," the stability dip is effectively eliminated in photofunctionalized implants (Fig. <ref type="figure">5,</ref><ref type="figure">B</ref>). The increased level of total stability by the increased degree of secondary stability should not be overlooked. In addition, because of further increased rate in the secondary stability, as indicated by "y ¼ 2bx," the stability dip can be avoided even when the primary stability was low (Fig. <ref type="figure">5,</ref><ref type="figure">D</ref>). We believe that the proposed schemes will help understand how the overall anchorage of photofunctionalized implants is uniquely established and provide a novel platform to build a new strategy for future clinical protocols and the development of implant surfaces.</p><p>Although the interpretation should be limited to the results obtained during the initial period of osseointegration of up to 3 months, the quantitative analysis of implant stability by the consecutive measurement of ISQ values in a cohort design may have provided an invaluable data set to demonstrate the expedited and enhanced process of osseointegration in photofunctionalized dental implants and warrants further clinical studies to establish photofunctionalization as an effective measure to improve the current implant dentistry in multiple aspects. Photofunctionalization is a simple, practical, chair-side treatment of dental implants that requires only 15 minutes and has proven effective on all surface topographies of titanium-based materials tested, implying the versatile applicability in a wide range of dental and orthopedic implants. <ref type="bibr" target="#b8">9,</ref><ref type="bibr">[48]</ref><ref type="bibr" target="#b47">[49]</ref><ref type="bibr" target="#b48">[50]</ref> If future surface technologies are anticipated to expand the indications of implant therapy, shorten the healing time, increase the success rate for compromised bone conditions, and explore minimally invasive approaches, photofunctionalization as presented here may provide a novel insight and a practical avenue to pursue those goals. Finally, the application of photofunctionalization should not be restricted to use in dental implants. Orthopedic implants face many, longunsolved challenges. Photofunctionalization can be applied regardless of the shape and size of implants. Various orthopedic implants, including but not limited to spine screws, femoral stem, knee joint implants, plates, and pins, can potentially be enhanced for their osteoconduction.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CONCLUSIONS</head><p>This study reports a quantitative evaluation of the effect of photofunctionalization on clinical performance, specifically osseointegration capability, of dental implants. Photofunctionalization was conducted by treating implants with UV light for 15 minutes. The generation of superhydrophilicity and hemophilicity was confirmed after photofunctionalization. The osseointegration capability of photofunctionalized implants placed in the maxilla and immediately loaded was assessed by consecutive measurements of ISQ during the early stage of healing up to 3 months along with the rate of ISQ increase per month, defined as the OSI. Implants with their initial ISQ at placement between 65 and 70 showed a rapid and robust ISQ increase during the subsequent healing period. Implants with their initial ISQ between 71 and 75 also showed a rapid and significant increase. Implants with their initial ISQ of 76 or greater maintained a high level of ISQ throughout the healing period without showing any drop or progressive decrease in ISQ. Regardless of the initial ISQ, ISQ values were 75 or greater for all implants by week 6. The ISQ at week 6 for photofunctionalized implants ranged from 77.5 to 78.1 with an average of 78.0, whereas ISQ values after a longer healing period (mostly 2-6 months) observed in literature ranged between 60.2 and 74.8 with an average of 66.1. The OSI was considerably high for photofunctionalized implants (6.3 for implants with an initial ISQ of 65-70 and 3.1 for implants with an initial ISQ of 71-75) than for untreated conventional implants in literature ranging from -3.0 to 1.17 with an average of -0.10. In conclusion, photofunctionalization resulted in the acceleration and enhancement of osseointegration in commercial dental implants. As a result, the rate of establishing implant stability was substantially increased when initial stability was relatively low. When the initial stability was relatively high, the ISQ was maintained at a high value, eliminating the commonly accepted phenomenon of the stability dip. In both instances, the level of stability that implants may experience was considerably increased. These results imply that photofunctionalization may provide a novel and practical possibility to further advance implant therapy for its expanded indications, shortened healing time, improved predictability in challenging cases, and the exploration of minimally invasive approaches during the treatment. indirectly, in the products or information listed in the article.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1 .</head><label>1</label><figDesc>Fig.1. A suggested mechanism of the occurrence of stability dip in dental implants. The total stability, as determined by the addition of primary stability and secondary stability, normally shows a merging gap, which is called the stability dip. The stability dip is considered unavoidable in current dental implants because the rate of losing primary stability is faster than the development of secondary stability.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>TABLE 1 .</head><label>1</label><figDesc>Fig.3. The ISQ values at implant placement and week 6 of healing plotted for photofunctionalized implants. Note that all implants with an initial ISQ that was 75 or lower showed an increase at week 6, and consequently, the ISQ values at week 6 were all 75 or higher.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. 4 .</head><label>4</label><figDesc>Fig. 4. Change in implant stability for photofunctionalized implants, evaluated by ISQ values at implant placement and subsequent healing time. Line graphs are drawn in 3 different groups depending on the initial ISQ values at implant placement (ISQi). A, ISQi 65 -70; B, ISQi 71 -75; and C, ISQi $ 76. *P , 0.05, **P , 0.01, statistically significant difference from the ISQi.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 5</head><label>5</label><figDesc></figDesc><table /><note><p>lists ISQ values from 2 time points</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 .</head><label>2</label><figDesc>ISQ Change and OSI in Photofunctionalized Implants</figDesc><table><row><cell></cell><cell></cell><cell>ISQ</cell><cell></cell><cell></cell></row><row><cell>Primary Stability Range</cell><cell>At</cell><cell></cell><cell></cell><cell></cell></row><row><cell>(ISQi)</cell><cell>Placement</cell><cell>At Week 6</cell><cell>Change</cell><cell>OSI</cell></row><row><cell>65-70</cell><cell cols="2">68.4 6 1.5 77.5 6 1.4</cell><cell>9.5 6 1.3*</cell><cell>6.3 6 0.9</cell></row><row><cell>71-75</cell><cell cols="2">73.0 6 1.5 78.1 6 2.3</cell><cell>4.6 6 1.8*</cell><cell>3.1 6 1.2</cell></row><row><cell>$76</cell><cell cols="3">78.5 6 1.6 78.1 6 2.1 -0.3 6 2.1 †</cell><cell>NA</cell></row><row><cell cols="5">Implants were divided into 3 groups depending on the initial ISQ value at implant placement. This table shows mean ISQ values at</cell></row><row><cell cols="5">implant placement and week 6 postimplantation as well as the ISQ change between the 2 time points for each group. Furthermore,</cell></row><row><cell cols="5">the ISQ change divided by healing time of 1.5 months (6 weeks) is shown as the OSI value. The ISQ change was significant and</cell></row><row><cell cols="2">positive when the initial ISQ was 75 and lower.</cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">*P , 0.01; statistically significant change between 2 time points.</cell><cell></cell><cell></cell><cell></cell></row><row><cell>†Not significant.</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="5">NA, not applicable; ISQi, initial ISQ at implant placement; OSI, osseointegration speed index ¼ ISQ increase per month.</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3 .</head><label>3</label><figDesc>ISQ in Different Bone Types</figDesc><table><row><cell></cell><cell>ISQ</cell><cell></cell></row><row><cell>Bone</cell><cell>At</cell><cell>At Week</cell></row><row><cell>Type</cell><cell>Placement*</cell><cell>6 †</cell></row><row><cell>Type 1</cell><cell>78.6 6 2.0</cell><cell>77.0 6 0.0</cell></row><row><cell>Type 2</cell><cell>74.1 6 4.5</cell><cell>78.2 6 1.6</cell></row><row><cell>Type 3</cell><cell>74.0 6 2.5</cell><cell>78.2 6 3.2</cell></row></table><note><p><p>Implants were divided into 3 groups depending on the bone type in which implants were placed. This table shows mean ISQ values at implant placement and week 6 postimplantation for each group. The ISQ values in type 2 and 3 groups increased between the placement and week 6, and there were no significant difference among the 3 groups at week 6. *P , 0.05; statistically significant difference among the three 3 groups.</p>†Not significant.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 4 .</head><label>4</label><figDesc>ISQ in Groups of Different</figDesc><table><row><cell cols="2">Implant Length</cell></row><row><cell>Implant</cell><cell>ISQ</cell></row><row><cell>Length,</cell><cell>At</cell></row><row><cell>mm</cell><cell>Placement* At Week 6*</cell></row><row><cell>#11.5</cell><cell>73.6 6 3.6 77.5 6 3.8</cell></row><row><cell>$13</cell><cell>75.6 6 4.2 78.1 6 1.6</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>Table 5 .</head><label>5</label><figDesc>ISQ Change and Calculated OSI in the Literature and This Study</figDesc><table><row><cell></cell><cell></cell><cell>ISQ</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell>Initial (at</cell><cell></cell><cell>Healing</cell><cell>OSI (ISQ</cell></row><row><cell>Implant Surface</cell><cell>Conditions</cell><cell>Placement)</cell><cell>Secondary*</cell><cell>Time (mo)</cell><cell>increase/mo)</cell></row><row><cell>TiUnite 41 (oxidized)</cell><cell>Immediate/early loading</cell><cell>60.1 6 3.6</cell><cell>62.8 6 1.6</cell><cell>4</cell><cell>0.68</cell></row><row><cell></cell><cell>maxilla</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>TiUnite 42</cell><cell>Immediate/early loading</cell><cell>63.3 6 6.1</cell><cell>64.3 6 5.3</cell><cell>3</cell><cell>0.33</cell></row><row><cell></cell><cell>maxilla</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>TiUnite 19  †</cell><cell>Includes GBR and</cell><cell>68.0</cell><cell>63.0</cell><cell>3</cell><cell>-1.67</cell></row><row><cell></cell><cell>extraction socket</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>TiUnite 43</cell><cell>Anterior maxilla</cell><cell>58.5 6 4.7</cell><cell>60.9 6 4.3</cell><cell>6</cell><cell>0.4</cell></row><row><cell></cell><cell>Grafted anterior maxilla</cell><cell>61.5 6 9.0</cell><cell>60.2 6 6.9</cell><cell>6</cell><cell>-0.2</cell></row><row><cell>TiUnite 44</cell><cell>Grafted anterior maxilla</cell><cell>61.9 6 6.6</cell><cell>63.5 6 5.7</cell><cell>6</cell><cell>0.26</cell></row><row><cell>SLA 26 (sandblasted, acid-etched) ‡</cell><cell>ISQi 65-69</cell><cell></cell><cell></cell><cell>3</cell><cell>-1.8</cell></row><row><cell></cell><cell>ISQi $ 70</cell><cell></cell><cell></cell><cell>3</cell><cell>-3.0</cell></row><row><cell>SLA 45</cell><cell>Anterior maxilla</cell><cell>69.4 6 9.3</cell><cell>73.4 6 6.6</cell><cell>3.4</cell><cell>1.17</cell></row><row><cell></cell><cell>Posterior maxilla</cell><cell>69.9 6 8.5</cell><cell>74.4 6 6.9</cell><cell>4</cell><cell>1.12</cell></row><row><cell>SLA 18</cell><cell>Type 1 bone</cell><cell>62.8 6 7.2</cell><cell>60.7 6 3.6</cell><cell>3</cell><cell>-0.7</cell></row><row><cell>SLA 34  †</cell><cell>Mandible</cell><cell>60.0</cell><cell>62.7</cell><cell>2.5</cell><cell>1.1</cell></row><row><cell>SLA 36</cell><cell>Mandible</cell><cell>65.5 6 5.5</cell><cell>62.8 6 5.4</cell><cell>1.5</cell><cell>-1.8</cell></row><row><cell>SLActive 36 (sandblasted, acid-etched,</cell><cell>Mandible</cell><cell>64.2 6 5.0</cell><cell>64.1 6 3.5</cell><cell>1.5</cell><cell>-0.06</cell></row><row><cell>chemically modified)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Impladent 37 (sandblasted, acid and</cell><cell>ISQi 68-72</cell><cell>70.2 6 1.5</cell><cell>71.5 6 1.3</cell><cell>2.5</cell><cell>0.52</cell></row><row><cell>alkali treated)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>ISQi $ 72</cell><cell>76.7 6 3.1</cell><cell>74.8 6 1.3</cell><cell>2.5</cell><cell>-0.76</cell></row><row><cell>SPI 35 (sandblasted, acid etched)</cell><cell>Type 3 bone</cell><cell>73.6 6 5.8</cell><cell>74.8 6 5.4</cell><cell>2</cell><cell>0.6</cell></row><row><cell></cell><cell>Type 4 bone</cell><cell>68.9 6 4.3</cell><cell>69.9 6 4.3</cell><cell>2</cell><cell>0.51</cell></row><row><cell>TiOblast 46 (sandblasted)</cell><cell>Maxilla</cell><cell>62.3 6 5.1</cell><cell>63.9 6 5.5</cell><cell>6</cell><cell>0.27</cell></row><row><cell></cell><cell>Grafted maxilla</cell><cell>60.7 6 6.1</cell><cell>61.4 6 5.2</cell><cell>6</cell><cell>0.12</cell></row><row><cell>Photofunctionalized surface</cell><cell>Immediate loading,</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>(TiUnite, oxidized)</cell><cell>maxilla</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>ISQi, 65-70</cell><cell>68.4 6 1.5</cell><cell>77.5 6 1.4</cell><cell>1.5</cell><cell>6.3</cell></row><row><cell></cell><cell>ISQi, 71-75</cell><cell>73.0 6 1.5</cell><cell>78.1 6 2.3</cell><cell>1.5</cell><cell>3.1</cell></row></table></figure>
 		</body>
 		<back>
-
-			<div type="acknowledgement">
-<div><head>ACKNOWLEDGMENTS</head><p><rs type="person">Erica Dorigatti de Avila</rs> received funds from <rs type="funder">Sa ˜o Paulo Research Foundation (FAPESP)</rs>, Grant number: <rs type="grantNumber">2011/05106-6</rs>, <rs type="funder">Coordination for the Improvement of Higher Education Personnel (CAPES)</rs> and <rs type="funder">Lemann Foundation</rs>. The authors thank <rs type="person">Conexao Sistema de Protese</rs> for donating the pure titanium and zirconia stabilized with yttrium discs used in this study.</p></div>
-			</div>
-			<listOrg type="funding">
-				<org type="funding" xml:id="_JVHg5qR">
-					<idno type="grant-number">2011/05106-6</idno>
-				</org>
-			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DISCLOSURE</head><p>The authors claim to have no financial interest, either directly or</p></div>			</div>
 			<div type="references">
 
 				<listBibl>
 
 <biblStruct xml:id="b0">
 	<analytic>
-		<title level="a" type="main">Infectious risks for oral implants: a review of the literature</title>
+		<title level="a" type="main">UV photofunctionalization of titanium implants</title>
 		<author>
-			<persName><forename type="first">M</forename><surname>Quirynen</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">De</forename><surname>Soete</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">M</forename><surname>Van Steenberghe</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">D</forename></persName>
+			<persName><forename type="first">T</forename><surname>Ogawa</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Clin Oral Implants Res</title>
+		<title level="j">J Craniofac Tissue Eng</title>
 		<imprint>
-			<biblScope unit="volume">13</biblScope>
-			<biblScope unit="page" from="1" to="19" />
-			<date type="published" when="2002">2002</date>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="151" to="158" />
+			<date type="published" when="2012">2012</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b1">
 	<analytic>
-		<title level="a" type="main">Risk factors for endosseous dental implant failure</title>
+		<title level="a" type="main">Biological aging of implant surfaces and their restoration with ultraviolet light treatment: A novel understanding of osseointegration</title>
 		<author>
-			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Paquette</surname></persName>
+			<persName><forename type="first">W</forename><surname>Att</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">N</forename><surname>Brodala</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Williams</surname></persName>
+			<persName><forename type="first">T</forename><surname>Ogawa</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Dent Clin North Am</title>
+		<title level="j">Int J Oral Maxillofac Implants</title>
 		<imprint>
-			<biblScope unit="volume">50</biblScope>
-			<biblScope unit="page" from="361" to="374" />
-			<date type="published" when="2006">2006</date>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="753" to="761" />
+			<date type="published" when="2012">2012</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b2">
 	<analytic>
-		<title level="a" type="main">Risk of implant failure and marginal bone loss in subjects with a history of periodontitis: a systematic review and meta-analysis</title>
+		<title level="a" type="main">The biological aging of titanium implants</title>
 		<author>
-			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Safii</surname></persName>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Lee</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Palmer</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">R</forename><forename type="middle">F</forename><surname>Wilson</surname></persName>
+			<persName><forename type="first">T</forename><surname>Ogawa</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Clin Implant Dent Relat Res</title>
+		<title level="j">Implant Dent</title>
 		<imprint>
-			<biblScope unit="volume">12</biblScope>
-			<biblScope unit="page" from="165" to="174" />
-			<date type="published" when="2010">2010</date>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="415" to="421" />
+			<date type="published" when="2012">2012</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b3">
 	<analytic>
-		<title level="a" type="main">The causes of early implant bone loss: myth or science?</title>
+		<title level="a" type="main">Photofunctionalization of TiO 2 for optimal integration of titanium with bone</title>
 		<author>
-			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Oh</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">J</forename><surname>Yoon</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Misch</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">H</forename><forename type="middle">L</forename><surname>Wang</surname></persName>
+			<persName><forename type="first">T</forename><surname>Ogawa</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">J Periodontol</title>
+		<title level="s">Benign Photocatalysts. Applications of Titanium Oxide-based Materials</title>
+		<editor>
+			<persName><forename type="first">P</forename><surname>Kamat</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">M</forename><surname>Anpo</surname></persName>
+		</editor>
 		<imprint>
-			<biblScope unit="volume">73</biblScope>
-			<biblScope unit="page" from="322" to="333" />
-			<date type="published" when="2002">2002</date>
+			<biblScope unit="page" from="699" to="713" />
+			<date type="published" when="2010">2010</date>
+			<publisher>Springer</publisher>
+			<pubPlace>New York</pubPlace>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b4">
 	<analytic>
-		<title level="a" type="main">Biofilm formation and composition on different implant materials in vivo</title>
+		<title level="a" type="main">The effect of ultraviolet functionalization of titanium on integration with bone</title>
 		<author>
-			<persName><forename type="first">A</forename><surname>Al-Ahmad</surname></persName>
+			<persName><forename type="first">H</forename><surname>Aita</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">M</forename><surname>Wiedmann-Al-Ahmad</surname></persName>
+			<persName><forename type="first">N</forename><surname>Hori</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">J</forename><surname>Faust</surname></persName>
+			<persName><forename type="first">M</forename><surname>Takeuchi</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">J Biomed Mater Res B Appl Biomater</title>
+		<title level="j">Biomaterials</title>
 		<imprint>
-			<biblScope unit="volume">95</biblScope>
-			<biblScope unit="page" from="101" to="109" />
-			<date type="published" when="2010">2010</date>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="1015" to="1025" />
+			<date type="published" when="2009">2009</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b5">
 	<analytic>
-		<title level="a" type="main">Single-tooth restorations supported by osseointegrated implants: results and experiences from a prospective study after 2 to 3 years</title>
+		<title level="a" type="main">Synergistic effects of UV photofunctionalization and micro-nano hybrid topography on the biological properties of titanium</title>
 		<author>
-			<persName><forename type="first">B</forename><surname>Andersson</surname></persName>
+			<persName><forename type="first">N</forename><surname>Tsukimura</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">P</forename><surname>Odman</surname></persName>
+			<persName><forename type="first">M</forename><surname>Yamada</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Lindvall</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">B</forename><surname>Lithner</surname></persName>
+			<persName><forename type="first">F</forename><surname>Iwasa</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Int J Oral Maxillofac Implants</title>
+		<title level="j">Biomaterials</title>
 		<imprint>
-			<biblScope unit="volume">10</biblScope>
-			<biblScope unit="page" from="702" to="711" />
-			<date type="published" when="1995">1995</date>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="4358" to="4368" />
+			<date type="published" when="2011">2011</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b6">
 	<analytic>
-		<title level="a" type="main">Zirconia as a ceramic biomaterial</title>
+		<title level="a" type="main">Effect of ultraviolet photoactivation of titanium on osseointegration in a rat model</title>
 		<author>
-			<persName><forename type="first">C</forename><surname>Piconi</surname></persName>
+			<persName><forename type="first">T</forename><surname>Ueno</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">G</forename><surname>Maccauro</surname></persName>
+			<persName><forename type="first">M</forename><surname>Yamada</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Hori</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Biomaterials</title>
+		<title level="j">Int J Oral Maxillofac Implants</title>
 		<imprint>
-			<biblScope unit="volume">20</biblScope>
-			<biblScope unit="page" from="1" to="25" />
-			<date type="published" when="1999">1999</date>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="287" to="294" />
+			<date type="published" when="2010">2010</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b7">
 	<analytic>
-		<title level="a" type="main">Behavior of CAL72 osteoblast-like cells cultured on zirconia ceramics with different surface topographies</title>
+		<title level="a" type="main">Enhancement of bone-titanium integration profile with UV-photofunctionalized titanium in a gap healing model</title>
 		<author>
-			<persName><forename type="first">M</forename><surname>Bachle</surname></persName>
+			<persName><forename type="first">T</forename><surname>Ueno</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">F</forename><surname>Butz</surname></persName>
+			<persName><forename type="first">M</forename><surname>Yamada</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">U</forename><surname>Hubner</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">E</forename><surname>Bakalinis</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Kohal</surname></persName>
+			<persName><forename type="first">T</forename><surname>Suzuki</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Clin Oral Implants Res</title>
+		<title level="j">Biomaterials</title>
 		<imprint>
-			<biblScope unit="volume">18</biblScope>
-			<biblScope unit="page" from="53" to="59" />
-			<date type="published" when="2007">2007</date>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="1546" to="1557" />
+			<date type="published" when="2010">2010</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Ultraviolet treatment overcomes time-related degrading bioactivity of titanium</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Suzuki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Hori</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Att</surname></persName>
+		</author>
+	</analytic>
 	<monogr>
-		<title/>
-		<author>
-			<persName><forename type="first">C</forename><surname>Do Nascimento</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">C</forename><surname>Da Rocha Aguiar</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Pita</surname></persName>
-		</author>
+		<title level="j">Tissue Eng Part A</title>
 		<imprint>
-			<pubPlace>Pedrazzi V, de</pubPlace>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="3679" to="3688" />
+			<date type="published" when="2009">2009</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b9">
 	<analytic>
-		<title level="a" type="main">Oral biofilm formation on the titanium and zirconia substrates</title>
+		<title level="a" type="main">TiO2 micro-nano-hybrid surface to alleviate biological aging of UV-photofunctionalized titanium</title>
 		<author>
-			<persName><forename type="first">R</forename><forename type="middle">F</forename><surname>Albuquerque</surname></persName>
+			<persName><forename type="first">F</forename><surname>Iwasa</surname></persName>
 		</author>
 		<author>
-			<persName><surname>Jr</surname></persName>
+			<persName><forename type="first">N</forename><surname>Tsukimura</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">R</forename><forename type="middle">F</forename><surname>Ribeiro</surname></persName>
+			<persName><forename type="first">Y</forename><surname>Sugita</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Microsc Res Tech</title>
+		<title level="j">Int J Nanomedicine</title>
 		<imprint>
-			<biblScope unit="volume">76</biblScope>
-			<biblScope unit="page" from="126" to="132" />
-			<date type="published" when="2013">2013</date>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="1327" to="1341" />
+			<date type="published" when="2011">2011</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b10">
 	<analytic>
-		<title level="a" type="main">Bacterial adhesion on the titanium and zirconia abutment surfaces</title>
+		<title level="a" type="main">Enhancement of osteoblast adhesion to UV-photofunctionalized titanium via an electrostatic mechanism</title>
 		<author>
-			<persName><forename type="first">C</forename><surname>Nascimento</surname></persName>
+			<persName><forename type="first">F</forename><surname>Iwasa</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Pita</surname></persName>
+			<persName><forename type="first">N</forename><surname>Hori</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">F</forename><forename type="middle">H</forename><surname>Fernandes</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">V</forename><surname>Pedrazzi</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">Albuquerque</forename><surname>De</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">R</forename><forename type="middle">F</forename><surname>Junior</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">R</forename><forename type="middle">F</forename><surname>Ribeiro</surname></persName>
+			<persName><forename type="first">T</forename><surname>Ueno</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Clin Oral Implants Res</title>
+		<title level="j">Biomaterials</title>
 		<imprint>
-			<biblScope unit="volume">25</biblScope>
-			<biblScope unit="page" from="337" to="343" />
-			<date type="published" when="2014">2014</date>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="2717" to="2727" />
+			<date type="published" when="2010">2010</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b11">
 	<analytic>
-		<title level="a" type="main">In vivo and in vitro biofilm formation on two different titanium implant surfaces</title>
+		<title level="a" type="main">Electrostatic control of protein adsorption on UV-photofunctionalized titanium</title>
 		<author>
-			<persName><forename type="first">R</forename><surname>Burgers</surname></persName>
+			<persName><forename type="first">N</forename><surname>Hori</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">T</forename><surname>Gerlach</surname></persName>
+			<persName><forename type="first">T</forename><surname>Ueno</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">S</forename><surname>Hahnel</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">F</forename><surname>Schwarz</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">G</forename><surname>Handel</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">M</forename><surname>Gosau</surname></persName>
+			<persName><forename type="first">H</forename><surname>Minamikawa</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Clin Oral Implants Res</title>
+		<title level="j">Acta Biomater</title>
 		<imprint>
-			<biblScope unit="volume">21</biblScope>
-			<biblScope unit="page" from="156" to="164" />
-			<date type="published" when="2010">2010</date>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="663" to="667" />
+			<date type="published" when="2009">2010. 2009</date>
 		</imprint>
 	</monogr>
+	<note>J Dent Res</note>
 </biblStruct>
 
 <biblStruct xml:id="b12">
 	<analytic>
-		<title level="a" type="main">Early bacterial colonization and soft tissue health around zirconia and titanium abutments: an in vivo study in man</title>
+		<title level="a" type="main">Time-dependent degradation of titanium osteoconductivity: An implication of biological aging of implant materials</title>
 		<author>
-			<persName><forename type="first">L</forename><surname>Rimondini</surname></persName>
+			<persName><forename type="first">W</forename><surname>Att</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">L</forename><surname>Cerroni</surname></persName>
+			<persName><forename type="first">N</forename><surname>Hori</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">A</forename><surname>Carrassi</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">P ;</forename><surname>Torricelli</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">R</forename><surname>Van Brakel</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Cune</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Van Winkelhoff</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">C</forename><surname>De Putter</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Verhoeven</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">W ;</forename><surname>Van Der Reijden</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Van Loosdrecht</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">W</forename><surname>Norde</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Zehnder</surname></persName>
+			<persName><forename type="first">M</forename><surname>Takeuchi</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Int J Oral Maxillofac Implants</title>
+		<title level="j">Biomaterials</title>
 		<imprint>
-			<biblScope unit="volume">17</biblScope>
-			<biblScope unit="page" from="91" to="106" />
-			<date type="published" when="1990">2002. 2011. 1990</date>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="5352" to="5363" />
+			<date type="published" when="2009">2009</date>
 		</imprint>
 	</monogr>
-	<note>J Biomater Appl.</note>
 </biblStruct>
 
 <biblStruct xml:id="b13">
 	<analytic>
-		<title level="a" type="main">Correlation between cell-surface hydrophobicity of Candida albicans and adhesion to buccal epithelial cells</title>
+		<title level="a" type="main">Enhancement of adhesion strength and cellular stiffness of osteoblasts on mirror-polished titanium surface by UV-photofunctionalization</title>
 		<author>
-			<persName><forename type="first">B</forename><surname>Ener</surname></persName>
+			<persName><forename type="first">M</forename><surname>Yamada</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">L</forename><forename type="middle">J</forename><surname>Douglas</surname></persName>
+			<persName><forename type="first">T</forename><surname>Miyauchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Yamamoto</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">FEMS Microbiol Lett</title>
+		<title level="j">Acta Biomater</title>
 		<imprint>
-			<biblScope unit="volume">78</biblScope>
-			<biblScope unit="page" from="37" to="42" />
-			<date type="published" when="1992">1992</date>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="4578" to="4588" />
+			<date type="published" when="2010">2010</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b14">
 	<analytic>
-		<title level="a" type="main">Influence of growth phase on adhesion kinetics of Escherichia coli D21g</title>
+		<title level="a" type="main">The enhanced characteristics of osteoblast adhesion to photofunctionalized nanoscale TiO2 layers on biomaterials surfaces</title>
 		<author>
-			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Walker</surname></persName>
+			<persName><forename type="first">T</forename><surname>Miyauchi</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Hill</surname></persName>
+			<persName><forename type="first">M</forename><surname>Yamada</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Redman</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">M</forename><surname>Elimelech</surname></persName>
+			<persName><forename type="first">A</forename><surname>Yamamoto</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Appl Environ Microbiol</title>
+		<title level="j">Biomaterials</title>
 		<imprint>
-			<biblScope unit="volume">71</biblScope>
-			<biblScope unit="page" from="3093" to="3099" />
-			<date type="published" when="2005">2005</date>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="3827" to="3839" />
+			<date type="published" when="2010">2010</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b15">
 	<analytic>
-		<title level="a" type="main">Forces involved in adhesion of Bacillus cereus spores to solid surfaces under different environmental conditions</title>
+		<title level="a" type="main">Enhanced bone-integration capability of alkali-and heat-treated nanopolymorphic titanium in micro-to-nanoscale hierarchy</title>
 		<author>
-			<persName><forename type="first">U</forename><surname>Husmark</surname></persName>
+			<persName><forename type="first">T</forename><surname>Ueno</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">U</forename><surname>Ronner</surname></persName>
+			<persName><forename type="first">N</forename><surname>Tsukimura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Yamada</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">J Appl Bacteriol</title>
+		<title level="j">Biomaterials</title>
 		<imprint>
-			<biblScope unit="volume">69</biblScope>
-			<biblScope unit="page" from="557" to="562" />
-			<date type="published" when="1990">1990</date>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="7297" to="7308" />
+			<date type="published" when="2011">2011</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b16">
-	<analytic>
-		<title level="a" type="main">The effect of charge regulation on cell adhesion to substrates: salt-induced repulsion</title>
-		<author>
-			<persName><forename type="first">Dan</forename><forename type="middle">N</forename></persName>
-		</author>
-	</analytic>
 	<monogr>
-		<title level="j">Colloids Surf B Biointerfaces</title>
-		<imprint>
-			<biblScope unit="volume">27</biblScope>
-			<biblScope unit="page" from="41" to="47" />
-			<date type="published" when="2003">2003</date>
-		</imprint>
+		<title/>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bischof</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Nedir</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">-</forename><surname>Szmukler</surname></persName>
+		</author>
+		<imprint/>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b17">
 	<analytic>
-		<title level="a" type="main">Influence of growth phase on bacterial cell electrokinetic characteristics examined by soft particle electrophoresis theory</title>
+		<title level="a" type="main">Implant stability measurement of delayed and immediately loaded implants during healing</title>
 		<author>
-			<persName><forename type="first">H</forename><surname>Hayashi</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">H</forename><surname>Seiki</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">S</forename><surname>Tsuneda</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">A</forename><surname>Hirata</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">H</forename><surname>Sasaki</surname></persName>
+			<persName><forename type="first">S</forename><surname>Moncler</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">J Colloid Interface Sci</title>
+		<title level="j">Clin Oral Implants Res</title>
 		<imprint>
 			<biblScope unit="volume">15</biblScope>
-			<biblScope unit="page" from="565" to="568" />
-			<date type="published" when="2003">2003</date>
+			<biblScope unit="page" from="529" to="539" />
+			<date type="published" when="2004">2004</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b18">
 	<analytic>
-		<title level="a" type="main">Partial biochemical characterization of cell surface hydrophobicity and hydrophilicity of Candida albicans</title>
+		<title level="a" type="main">Resonance frequency analysis of implants subjected to immediate or early functional occlusal loading. Successful vs. failing implants</title>
 		<author>
-			<persName><forename type="first">K</forename><forename type="middle">C</forename><surname>Hazen</surname></persName>
+			<persName><forename type="first">R</forename><surname>Glauser</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Lay</surname></persName>
+			<persName><forename type="first">L</forename><surname>Sennerby</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">B</forename><forename type="middle">W</forename><surname>Hazen</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Fu</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">S</forename><surname>Murthy</surname></persName>
+			<persName><forename type="first">N</forename><surname>Meredith</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Infect Immun</title>
+		<title level="j">Clin Oral Implants Res</title>
 		<imprint>
-			<biblScope unit="volume">58</biblScope>
-			<biblScope unit="page" from="3469" to="3476" />
-			<date type="published" when="1990">1990</date>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="428" to="434" />
+			<date type="published" when="2004">2004</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b19">
 	<analytic>
-		<title level="a" type="main">Estimation of the surface free energy of polymers</title>
+		<title level="a" type="main">Factors influencing resonance frequency analysis assessed by Osstell mentor during implant tissue integration: II. Implant surface modifications and implant diameter</title>
 		<author>
-			<persName><forename type="first">D</forename><forename type="middle">K</forename><surname>Owens</surname></persName>
+			<persName><forename type="first">J</forename><surname>Han</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Wendt</surname></persName>
+			<persName><forename type="first">M</forename><surname>Lulic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">P</forename><surname>Lang</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">J Appl Polym Sci</title>
+		<title level="j">Clin Oral Implants Res</title>
 		<imprint>
-			<biblScope unit="volume">13</biblScope>
-			<biblScope unit="page" from="1741" to="1747" />
-			<date type="published" when="1969">1969</date>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="605" to="611" />
+			<date type="published" when="2010">2010</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b20">
 	<analytic>
-		<title level="a" type="main">Microbial surface thermodynamics and applications</title>
+		<title level="a" type="main">Implant primary stability determined by resonance frequency analysis: Correlation with insertion torque, histologic bone volume, and torsional stability at 6 weeks</title>
 		<author>
-			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Strevett</surname></persName>
+			<persName><forename type="first">C</forename><surname>Makary</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">G</forename><surname>Chen</surname></persName>
+			<persName><forename type="first">A</forename><surname>Rebaudi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Sammartino</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Res Microbiol</title>
+		<title level="j">Implant Dent</title>
 		<imprint>
-			<biblScope unit="volume">154</biblScope>
-			<biblScope unit="page" from="329" to="335" />
-			<date type="published" when="2003">2003</date>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="474" to="480" />
+			<date type="published" when="2012">2012</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b21">
 	<analytic>
-		<title level="a" type="main">Implications of surface and bulk properties of abutment implants and their degradation in the health of periodontal tissue</title>
+		<title level="a" type="main">Implant surface morphology and primary stability: Is there a connection?</title>
 		<author>
-			<persName><forename type="first">E</forename><forename type="middle">D</forename><surname>De Avila</surname></persName>
+			<persName><forename type="first">F</forename><surname>Javed</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>De Molon</surname></persName>
+			<persName><forename type="first">K</forename><surname>Almas</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">Dmp</forename><surname>Spolidorio</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">F</forename><forename type="middle">D</forename><surname>Mollo</surname></persName>
+			<persName><forename type="first">R</forename><surname>Crespi</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Materials</title>
+		<title level="j">Implant Dent</title>
 		<imprint>
-			<biblScope unit="volume">6</biblScope>
-			<biblScope unit="page" from="5951" to="5966" />
-			<date type="published" when="2013">2013</date>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="40" to="46" />
+			<date type="published" when="2011">2011</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b22">
 	<analytic>
-		<title level="a" type="main">The influence of surface roughness and surface-free energy on supra-and subgingival plaque formation in man. A review of the literature</title>
+		<title level="a" type="main">Implant stability measurements of two immediate loading protocols for the edentulous mandible: Rigid and semi-rigid splinting of the implants</title>
 		<author>
-			<persName><forename type="first">E</forename><forename type="middle">D</forename><surname>De Avila</surname></persName>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Lee</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>De Molon</surname></persName>
+			<persName><forename type="first">Aparecida</forename><surname>De</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Vergani</surname></persName>
+			<persName><forename type="first">Mattias</forename><surname>Sartori</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">F</forename><forename type="middle">D</forename><surname>Mollo</surname></persName>
+			<persName><forename type="first">I</forename><surname>Alcântara</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">V</forename><surname>Salih</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">M</forename><surname>; Quirynen</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Bollen</surname></persName>
+			<persName><forename type="first">P</forename><forename type="middle">R</forename></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">J Clin Periodontol</title>
+		<title level="j">Implant Dent</title>
 		<imprint>
-			<biblScope unit="volume">7</biblScope>
-			<biblScope unit="page" from="1" to="14" />
-			<date type="published" when="1995">2014. 1995</date>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="486" to="490" />
+			<date type="published" when="2012">2012</date>
 		</imprint>
 	</monogr>
-	<note>Materials</note>
 </biblStruct>
 
 <biblStruct xml:id="b23">
 	<analytic>
-		<title level="a" type="main">Palomari Spolido ´rio DM, de Assis Mollo Junior F. Structural and quantitative analysis of a mature anaerobic biofilm on differnet implant abutment surfaces</title>
+		<title level="a" type="main">Implant primary stability determined by resonance frequency analysis in surgically created defects: A pilot cadaver study</title>
 		<author>
-			<persName><forename type="first">S</forename><forename type="middle">N</forename><surname>Anaraki</surname></persName>
+			<persName><forename type="first">H</forename><forename type="middle">L</forename><surname>Chan</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">S</forename><surname>Shahabi</surname></persName>
+			<persName><forename type="first">K</forename><surname>El-Kholy</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">N</forename><surname>Chiniforush</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">H</forename><surname>Nokhbatolfoghahaei</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">H</forename><surname>Assadian</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">B</forename><surname>Yousefi</surname></persName>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Fu</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">J Prosthet Dent</title>
-		<editor>
-			<persName><forename type="first">E</forename><forename type="middle">D</forename><surname>Avila</surname></persName>
-		</editor>
-		<editor>
-			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Avila-Campos</surname></persName>
-		</editor>
-		<editor>
-			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Vergani</surname></persName>
-		</editor>
+		<title level="j">Implant Dent</title>
 		<imprint>
-			<date type="published" when="2014">2014</date>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="509" to="519" />
+			<date type="published" when="2010">2010</date>
 		</imprint>
 	</monogr>
-	<note>Lasers Med Sci. In press</note>
 </biblStruct>
 
 <biblStruct xml:id="b24">
-	<analytic>
-		<title level="a" type="main">Bacteria-surface interactions</title>
-		<author>
-			<persName><forename type="first">H</forename><forename type="middle">H</forename><surname>Tuson</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Weibel</surname></persName>
-		</author>
-	</analytic>
 	<monogr>
-		<title level="j">Soft Matter</title>
-		<imprint>
-			<biblScope unit="volume">9</biblScope>
-			<biblScope unit="page" from="4368" to="4380" />
-			<date type="published" when="2013">2013</date>
-		</imprint>
+		<title level="m" type="main">An evaluation of the resonance frequency analysis device: Examiner reliability and repeatability of readings</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">K</forename><surname>Gupta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">V</forename><surname>Padmanabhan</surname></persName>
+		</author>
+		<imprint/>
 	</monogr>
+	<note>published online ahead of print October 4, 2011</note>
 </biblStruct>
 
 <biblStruct xml:id="b25">
 	<analytic>
-		<title level="a" type="main">What drives bacteria to produce a biofilm?</title>
-		<author>
-			<persName><forename type="first">K</forename><forename type="middle">K</forename><surname>Jefferson</surname></persName>
-		</author>
+		<title/>
+		<idno type="DOI">10.1563/AAID-JOI-D-11-00099</idno>
 	</analytic>
 	<monogr>
-		<title level="j">FEMS Microbiol Lett</title>
-		<imprint>
-			<biblScope unit="volume">236</biblScope>
-			<biblScope unit="page" from="163" to="173" />
-			<date type="published" when="2004">2004</date>
-		</imprint>
+		<title level="j">J Oral Implantol</title>
+		<imprint/>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b26">
 	<monogr>
-		<title level="m" type="main">The hydrophilicity and hydrophobicity of clayminerals</title>
+		<title/>
 		<author>
-			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Vanoss</surname></persName>
+			<persName><forename type="first">R</forename><surname>Nedir</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">R</forename><forename type="middle">F</forename><surname>Giese</surname></persName>
+			<persName><forename type="first">M</forename><surname>Bischof</surname></persName>
 		</author>
-		<imprint>
-			<date type="published" when="1995">1995</date>
-			<publisher>Clay Clay Miner</publisher>
-			<biblScope unit="volume">43</biblScope>
-			<biblScope unit="page" from="474" to="477" />
-		</imprint>
+		<author>
+			<persName><forename type="first">-</forename><surname>Szmukler</surname></persName>
+		</author>
+		<imprint/>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b27">
 	<analytic>
-		<title level="a" type="main">Structures of gram-negative cell walls and their derived membrane vesicles</title>
+		<title level="a" type="main">Predicting osseointegration by means of implant primary stability</title>
 		<author>
-			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Beveridge</surname></persName>
+			<persName><forename type="first">S</forename><surname>Moncler</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">J Bacteriol</title>
+		<title level="j">Clin Oral Implants Res</title>
 		<imprint>
-			<biblScope unit="volume">181</biblScope>
-			<biblScope unit="page" from="4725" to="4733" />
-			<date type="published" when="1999">1999</date>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="520" to="528" />
+			<date type="published" when="2004">2004</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b28">
 	<analytic>
-		<title level="a" type="main">Binding of a paramagnetic metal cation to Escherichia coli K-12 outer-membrane vesicles</title>
+		<title level="a" type="main">Quantitative determination of the stability of the implant-tissue interface using resonance frequency analysis</title>
 		<author>
-			<persName><forename type="first">F</forename><forename type="middle">G</forename><surname>Ferris</surname></persName>
+			<persName><forename type="first">N</forename><surname>Meredith</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Beveridge</surname></persName>
+			<persName><forename type="first">D</forename><surname>Alleyne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Cawley</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">FEMS Microbiol Lett</title>
+		<title level="j">Clin Oral Implants Res</title>
 		<imprint>
-			<biblScope unit="volume">24</biblScope>
-			<biblScope unit="page" from="43" to="46" />
-			<date type="published" when="1984">1984</date>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="261" to="267" />
+			<date type="published" when="1996">1996</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b29">
 	<analytic>
-		<title level="a" type="main">Characterization of the cell surface properties of drinking water pathogens by microbial adhesion to hydrocarbon and electrophoretic mobility measurements</title>
+		<title level="a" type="main">Relation between initial implant stability quotient and bone-implant contact percentage: An in vitro model study [published online ahead of print August 23, 2012]. Oral Surg Oral Med Oral Pathol Oral Radiol</title>
 		<author>
-			<persName><forename type="first">J</forename><surname>Popovici</surname></persName>
+			<persName><forename type="first">H</forename><forename type="middle">L</forename><surname>Huang</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">C</forename><forename type="middle">P</forename><surname>White</surname></persName>
+			<persName><forename type="first">M</forename><forename type="middle">T</forename><surname>Tsai</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">J</forename><surname>Hoelle</surname></persName>
+			<persName><forename type="first">K</forename><forename type="middle">C</forename><surname>Su</surname></persName>
 		</author>
-		<author>
-			<persName><forename type="first">B</forename><forename type="middle">K</forename><surname>Kinkle</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Lytle</surname></persName>
-		</author>
+		<idno type="DOI">.10.1016/j.oooo.2012.01.037.29</idno>
 	</analytic>
 	<monogr>
-		<title level="j">Colloids Surf B Biointerfaces</title>
+		<title level="j">J Oral Rehabil</title>
 		<imprint>
-			<biblScope unit="volume">118</biblScope>
-			<biblScope unit="page" from="126" to="132" />
-			<date type="published" when="2014">2014</date>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="page" from="151" to="159" />
+			<date type="published" when="2012">2012</date>
 		</imprint>
 	</monogr>
+	<note>The relationship between implant stability quotient values and implant insertion variables: A clinical study</note>
 </biblStruct>
 
 <biblStruct xml:id="b30">
 	<analytic>
-		<title level="a" type="main">Effect of O-side-chain-lipopolysaccharide chemistry on metal binding</title>
+		<title level="a" type="main">Implant stability measurements using resonance frequency analysis: Biological and biomechanical aspects and clinical implications</title>
 		<author>
-			<persName><forename type="first">S</forename><surname>Langley</surname></persName>
+			<persName><forename type="first">L</forename><surname>Sennerby</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Beveridge</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Busscher</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">M</forename><surname>Rinastiti</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">W</forename><surname>Siswomihardjo</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">H</forename><forename type="middle">C</forename><surname>Van Der Mei</surname></persName>
+			<persName><forename type="first">N</forename><surname>Meredith</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Appl Environ Microbiol</title>
+		<title level="j">Periodontol 2000</title>
 		<imprint>
-			<biblScope unit="volume">65</biblScope>
-			<biblScope unit="page" from="657" to="665" />
-			<date type="published" when="1999">1999. 2010</date>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="51" to="66" />
+			<date type="published" when="2008">2008</date>
 		</imprint>
 	</monogr>
-	<note>J Dent Res</note>
 </biblStruct>
 
 <biblStruct xml:id="b31">
 	<analytic>
-		<title level="a" type="main">Influence of saliva substitute films on initial Streptococcus mutans adhesion to enamel and dental substrata</title>
+		<title level="a" type="main">Different bone integration profiles of turned and acid-etched implants associated with modulated expression of extracellular matrix genes</title>
 		<author>
-			<persName><forename type="first">S</forename><surname>Hahnel</surname></persName>
+			<persName><forename type="first">T</forename><surname>Ogawa</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">M</forename><surname>Rosentritt</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">G</forename><surname>Handel</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">R</forename><surname>Burgers</surname></persName>
+			<persName><forename type="first">I</forename><surname>Nishimura</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">J Dent</title>
+		<title level="j">Int J Oral Maxillofac Implants</title>
 		<imprint>
-			<biblScope unit="volume">36</biblScope>
-			<biblScope unit="page" from="977" to="983" />
-			<date type="published" when="2008">2008</date>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="200" to="210" />
+			<date type="published" when="2003">2003</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b32">
 	<analytic>
-		<title level="a" type="main">Effect of material characteristics and/or surface topography on biofilm development</title>
+		<title level="a" type="main">Validity and clinical significance of biomechanical testing of implant/bone interface</title>
 		<author>
-			<persName><forename type="first">W</forename><surname>Teughels</surname></persName>
+			<persName><forename type="first">C</forename><surname>Aparicio</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">N</forename><surname>Van Assche</surname></persName>
+			<persName><forename type="first">N</forename><forename type="middle">P</forename><surname>Lang</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">I</forename><surname>Sliepen</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">M</forename><surname>Quirynen</surname></persName>
+			<persName><forename type="first">B</forename><surname>Rangert</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
 		<title level="j">Clin Oral Implants Res</title>
 		<imprint>
 			<biblScope unit="volume">17</biblScope>
-			<biblScope unit="issue">Suppl 2</biblScope>
-			<biblScope unit="page" from="68" to="81" />
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="2" to="7" />
 			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Methods used to assess implant stability: Current status</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Atsumi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">L</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Oral Maxillofac Implants</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="743" to="754" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Resonance frequency measurement of implant stability in vivo on implants with a sandblasted and acid-etched surface</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Barewal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">W</forename><surname>Oates</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Meredith</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Oral Maxillofac Implants</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="641" to="651" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Early detection of alterations in the resonance frequency assessment of oral implant stability on various bone types: A clinical study</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sençimen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Gülses</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Ozen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Oral Maxillofac Implants</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="755" to="760" />
+			<date type="published" when="2007">2011. 2007</date>
+		</imprint>
+	</monogr>
+	<note>J Oral Implantol</note>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Development of implant stability during early healing of immediately loaded implants</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Simunek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Kopecka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Brazda</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Oral Maxillofac Implants</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="619" to="627" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">All-on-4&quot; immediate-function concept for completely edentulous maxillae: A clinical report on the medium (3 years) and long-term (5 years) outcomes</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Maló</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>De Araújo Nobre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Lopes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Implant Dent Relat Res</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="139" to="e150" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">A longitudinal study of the survival of All-on-4 implants in the mandible with up to 10 years of follow-up</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Malo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>De Araújo Nobre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Lopes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Dent Assoc</title>
+		<imprint>
+			<biblScope unit="volume">142</biblScope>
+			<biblScope unit="page" from="310" to="320" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Patient selection and preparation</title>
+		<author>
+			<persName><forename type="first">U</forename><surname>Lekholm</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">A</forename><surname>Zarb</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Tissue Integrated Prostheses: Osseointegration in Clinical Dentistry</title>
+		<editor>
+			<persName><forename type="first">P</forename><forename type="middle">I</forename><surname>Brånemark</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">T</forename><surname>Albrektsson</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Chicago, IL</addrLine></address></meeting>
+		<imprint>
+			<publisher>Quitessence</publisher>
+			<date type="published" when="1985">1985</date>
+			<biblScope unit="page" from="199" to="209" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Early loading of maxillary fixed crossarch dental prostheses supported by six or eight oxidized titanium implants: Results after 1 year of loading, case series</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Olsson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Urde</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Andersen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Implant Dent Relat Res</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="81" to="87" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+	<note>suppl</note>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Immediate and early loading of oxidized tapered implants in the partially edentulous maxilla: A 1-year prospective clinical, radiographic, and resonance frequency analysis study</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Fischer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bäckström</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Sennerby</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Implant Dent Relat Res</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="69" to="80" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Monitoring of implant stability in grafted bone using resonance frequency analysis. A clinical study from implant placement to 6 months of loading</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sjöström</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Lundgren</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Nilson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Oral Maxillofac Surg</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="45" to="51" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Stability of dental implants in grafted bone in the anterior maxilla: Longitudinal study</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Al-Khaldi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Sleeman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Allen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Oral Maxillofac Surg</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="page" from="319" to="323" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Parameters of resonance frequency measurement values: A retrospective study of 385 ITI dental implants</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Karl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Graef</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Heckmann</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Oral Implants Res</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="214" to="218" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Stability evaluation of implants integrated in grafted and nongrafted maxillary bone: A clinical study from implant placement to abutment connection</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Rasmusson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Thor</forename><forename type="middle">A</forename><surname>Sennerby</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Implant Dent Relat Res</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="61" to="66" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Att W, Ogawa T. Biological aging of implant surfaces and its restoration with ultraviolet light treatment: A novel and breakthrough understanding of osseointegration</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Khandelwal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">W</forename><surname>Oates</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Vargas</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Oral Maxillofac Implants</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="753" to="761" />
+			<date type="published" when="2012">2013. 2012</date>
+		</imprint>
+	</monogr>
+	<note>Clin Oral Implants Res</note>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Inclusive measurement of the photon energy spectrum in b -. sgamma decays</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Koppenburg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Abe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Abe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys Rev Lett</title>
+		<imprint>
+			<biblScope unit="volume">93</biblScope>
+			<biblScope unit="page">61803</biblScope>
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">The effect of UV-photofunctionalization on the time-related bioactivity of titanium and chromium-cobalt alloys</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Att</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Hori</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Iwasa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biomaterials</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="4268" to="4276" />
+			<date type="published" when="2009">2009</date>
 		</imprint>
 	</monogr>
 </biblStruct>
