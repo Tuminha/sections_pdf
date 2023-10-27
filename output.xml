@@ -6,53 +6,177 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 	<teiHeader xml:lang="en">
 		<fileDesc>
 			<titleStmt>
-				<title level="a" type="main">IMPACT OF VARIOUS IMPRESSION TECHNIQUES ON MAXILLARY FLABBY RIDGE TISSUE DISPLACEMENT (WITHIN-SUBJECT EVALUATION)</title>
+				<title level="a" type="main">Impact of Physical Chemical Characteristics of Abutment Implant Surfaces on Bacteria Adhesion</title>
+				<funder>
+					<orgName type="full">Coordination for the Improvement of Higher Education Personnel (CAPES)</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Lemann Foundation</orgName>
+				</funder>
+				<funder ref="#_JVHg5qR">
+					<orgName type="full">Sa ˜o Paulo Research Foundation (FAPESP)</orgName>
+				</funder>
 			</titleStmt>
 			<publicationStmt>
 				<publisher/>
 				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2023-05-02">02 May 2023</date>
 			</publicationStmt>
 			<sourceDesc>
 				<biblStruct>
 					<analytic>
 						<author>
-							<persName><forename type="first">Amira</forename><surname>Gomaa</surname></persName>
+							<persName><roleName>DDS PhD</roleName><forename type="first">Erica</forename><surname>Dorigatti De Avila</surname></persName>
 							<affiliation key="aff0">
-								<orgName type="department" key="dep1">Associate Professor of Removable Prosthodontics</orgName>
-								<orgName type="department" key="dep2">Faculty of Dentistry</orgName>
-								<orgName type="institution">Mansoura University</orgName>
+								<orgName type="department" key="dep1">Department of Dental Materials and Prosthodontics</orgName>
+								<orgName type="department" key="dep2">School of Dentistry at Araraquara</orgName>
+								<orgName type="institution">Univ Estadual Paulista -Araraquara</orgName>
 								<address>
-									<settlement>Mansoura</settlement>
-									<country key="EG">Egypt</country>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Division of Oral Biology and Medicine</orgName>
+								<orgName type="department" key="dep2">School of Dentistry</orgName>
+								<orgName type="institution">University of California</orgName>
+								<address>
+									<settlement>Los Angeles</settlement>
+									<country>Calif</country>
 								</address>
 							</affiliation>
 						</author>
 						<author>
-							<persName><forename type="first">Nesreen</forename><forename type="middle">El</forename><surname>Mekawy</surname></persName>
-							<affiliation key="aff0">
-								<orgName type="department" key="dep1">Associate Professor of Removable Prosthodontics</orgName>
-								<orgName type="department" key="dep2">Faculty of Dentistry</orgName>
-								<orgName type="institution">Mansoura University</orgName>
+							<persName><roleName>DDS, MSc</roleName><forename type="first">Rafael</forename><surname>Scaf De Molon</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department" key="dep1">Department of Diagnostic and Surgery</orgName>
+								<orgName type="department" key="dep2">School of Dentistry at Araraquara</orgName>
+								<orgName type="institution">Sa ˜o Paulo State University</orgName>
 								<address>
-									<settlement>Mansoura</settlement>
-									<country key="EG">Egypt</country>
+									<settlement>Araraquara</settlement>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="department" key="dep1">Division of Diagnostic Surgical Science</orgName>
+								<orgName type="department" key="dep2">School of Dentistry</orgName>
+								<orgName type="institution">University of California</orgName>
+								<address>
+									<settlement>Los Angeles</settlement>
+									<country>Calif</country>
 								</address>
 							</affiliation>
 						</author>
-						<title level="a" type="main">IMPACT OF VARIOUS IMPRESSION TECHNIQUES ON MAXILLARY FLABBY RIDGE TISSUE DISPLACEMENT (WITHIN-SUBJECT EVALUATION)</title>
+						<author>
+							<persName><roleName>DDS, PhD</roleName><forename type="first">Bruno</forename><forename type="middle">P</forename><surname>Lima</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Division of Oral Biology and Medicine</orgName>
+								<orgName type="department" key="dep2">School of Dentistry</orgName>
+								<orgName type="institution">University of California</orgName>
+								<address>
+									<settlement>Los Angeles</settlement>
+									<country>Calif</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>PhD</roleName><forename type="first">Renate</forename><surname>Lux</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Division of Oral Biology and Medicine</orgName>
+								<orgName type="department" key="dep2">School of Dentistry</orgName>
+								<orgName type="institution">University of California</orgName>
+								<address>
+									<settlement>Los Angeles</settlement>
+									<country>Calif</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="department">Division of Constitutive and Regenerative Sciences</orgName>
+								<orgName type="institution">University of California School of Dentistry</orgName>
+								<address>
+									<settlement>Los Angeles</settlement>
+									<country>Calif</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>PhD</roleName><forename type="first">Wenyuan</forename><surname>Shi</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Division of Oral Biology and Medicine</orgName>
+								<orgName type="department" key="dep2">School of Dentistry</orgName>
+								<orgName type="institution">University of California</orgName>
+								<address>
+									<settlement>Los Angeles</settlement>
+									<country>Calif</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>MSc, PhD</roleName><forename type="first">Miguel</forename><forename type="middle">Jafelicci</forename><surname>Junior</surname></persName>
+							<affiliation key="aff5">
+								<orgName type="department">Department of Physical Chemical</orgName>
+								<orgName type="institution" key="instit1">Chemical Institute</orgName>
+								<orgName type="institution" key="instit2">Sa ˜o Paulo State University</orgName>
+								<address>
+									<settlement>Araraquara</settlement>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Denise</forename><surname>Madalena</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>MSc</roleName><forename type="first">Palomari</forename><surname>Spolidorio</surname></persName>
+							<affiliation key="aff6">
+								<orgName type="department" key="dep1">Department of Physiology and Pathology</orgName>
+								<orgName type="department" key="dep2">School of Dentistry at Araraquara</orgName>
+								<orgName type="institution">Sa ˜o Paulo State University</orgName>
+								<address>
+									<settlement>Araraquara</settlement>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>DDS, MSc</roleName><forename type="first">Carlos</forename><forename type="middle">Eduardo</forename><surname>Vergani</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Dental Materials and Prosthodontics</orgName>
+								<orgName type="department" key="dep2">School of Dentistry at Araraquara</orgName>
+								<orgName type="institution">Univ Estadual Paulista -Araraquara</orgName>
+								<address>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Francisco</forename><surname>De Assis</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>DDS, MSc, PhD</roleName><forename type="first">Mollo</forename><surname>Junior</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Dental Materials and Prosthodontics</orgName>
+								<orgName type="department" key="dep2">School of Dentistry at Araraquara</orgName>
+								<orgName type="institution">Univ Estadual Paulista -Araraquara</orgName>
+								<address>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Impact of Physical Chemical Characteristics of Abutment Implant Surfaces on Bacteria Adhesion</title>
 					</analytic>
 					<monogr>
 						<imprint>
-							<date/>
+							<date type="published" when="2023-05-02">02 May 2023</date>
 						</imprint>
 					</monogr>
-					<idno type="MD5">AA89E34A7C56B881EADF1B316BEF417E</idno>
+					<idno type="MD5">36AF4FAE3F169D38E1CCBEADF330E0DD</idno>
+					<idno type="DOI">10.1563/aaid-joi-D-14-00318</idno>
 				</biblStruct>
 			</sourceDesc>
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.0-SNAPSHOT" ident="GROBID" when="2023-10-25T18:17+0000">
+				<application version="0.8.0-SNAPSHOT" ident="GROBID" when="2023-10-27T16:38+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -61,285 +185,315 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<profileDesc>
 			<textClass>
 				<keywords>
-					<term>Maxillary anterior labby ridges</term>
-					<term>soft tissue displacement</term>
-					<term>mucocompressive impression technique</term>
-					<term>mucostatic impression techniques</term>
+					<term>abutment implants</term>
+					<term>titanium</term>
+					<term>zirconia</term>
+					<term>bacteria adhesion</term>
 				</keywords>
 			</textClass>
 			<abstract>
-<div xmlns="http://www.tei-c.org/ns/1.0"><p>Purpose: This study was conducted to determine the effect of various impression techniques on the displacement of labby tissues overlying the edentulous maxillary ridge. In this study Ten completely edentulous maxillary arches patients with anterior labby ridges participated in this study. For each patient ive secondary impressions were recorded and divided into ive groups according to impression technique used. Group I: comprised impressions following the mucocompressive technique. While, in Groups II, III, IV and V had used different mucostatic impression techniques. Soft tissue displacements in X, Y, Z axes and total 3-D in relation to a ixed reference point were recorded for each impression using modiied Measurescope. The data were collected and statistically analyzed. The results obtained showed that there were signiicant differences in soft tissue displacement of all tested groups in both three coordinates (X, Y and Z) and total 3-D. Also; the results showed signiicant difference in soft tissue displacement of tissues recorded by the four mucostatic impression technique groups compared to mucocompressive impression technique. A signiicant difference was found between one step mucostatic impression technique group, and two step mucostatic impression techniques.</p></div>
-<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusions:</head><p>Based on the results of this study, soft tissue displacement of maxillary labby ridge during impression procedure occurred along X, Y and Z directions for all tested impression techniques. The mucostatic impression techniques generated less soft tissue displacement than the mucocompressive technique. Two-step mucostatic impression techniques produced less soft tissue displacement compared to the one step mucostatic impression technique.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Surface attachment is the first step in biofilm formation, and the ability of bacteria to adhere to surfaces and develop a biofilm is directly influenced by electrostatic interactions between the bacteria and the chemical composition of material surfaces. Here, we investigated the influence of physical and chemical characteristics of titanium (Ti) and zirconia (ZrO 2 ) as implant abutment surfaces on the bacterial adhesion phase and compared the results to bovine enamel (BE) simulating a human tooth. To achieve this goal, we used 2 common pathogens of the oral cavity, Streptococcus mutans UA140 and Porphyromonas gingivalis 33277.T o investigate the influence of material surfaces on bacterial adhesion, we studied the surface free energy as well as the topography by atomic force microscopy, and the chemical elements composition by scanning electron microscopy equipped with an energy dispersive X-ray spectroscope. Our results indicated a hydrophobic characteristic for all of the materials; however, the presence of polar and nonpolar components could aid in understanding why greater numbers of bacteria had adhered to BE compared to the other surfaces. Our confocal microscopy data support the proposition that electrostatic interactions, indeed, affected the initial adhesion phase. Within the limitations of a laboratory study, the results revealed bacterial adhered on BE and no bacteria could be observed by confocal images on Ti and ZrO 2 implant abutment surfaces.</p></div>
 			</abstract>
 		</profileDesc>
 	</teiHeader>
 	<text xml:lang="en">
 		<body>
-<div xmlns="http://www.tei-c.org/ns/1.0"><head>INTRODUCTION</head><p>Complete dentures are functioning in the oral cavity of patients; they must be constructed in a way that they are in harmony with the oral muscular function. All oral functions, such as Esthetics, Phonetics, swallowing, mastication, laughing and, smiling, necessitate the interactive actions of muscles of the lips, tongue, loor of the mouth, and cheeks, which are extremely compound and highly independent. <ref type="bibr" target="#b0">(1)</ref> The accomplishment of a complete denture usually depends on fundamental principles of impression making, i.e. peripheral seal without involvement with muscular functional movements, maximum coverage of supporting area, and precise adaptation to the underlying tissues without damaging displacement. <ref type="bibr" target="#b1">(2)</ref> However, problems appear when the quality of the supporting areas is not suitable for this purpose. As, presence of labby ridge, which is a supericial area of mobile soft tissue affecting the maxillary or mandibular alveolar ridges, that gives rise to looseness relating to a complete denture that rests on them. <ref type="bibr" target="#b1">(2,</ref><ref type="bibr" target="#b2">3)</ref> Due to the recoil of labby tissue which is compressed during conventional impression making, resulting in dislodge of the overlying denture; that adversely affected stability, retention and support. Also, patient discomfort and gross occlusal disharmony are among the consequences. <ref type="bibr" target="#b3">(4)</ref> Treatment options for these patient's include surgery, implant retained prosthesis or conventional prosthodontics treatment without surgical intervention. <ref type="bibr" target="#b2">(3)</ref> Treatment modality has to be chosen depending on extent of labby foundation tissue, patient's state of health and need, inancial capacity and skill of the dentist. In generality circumstances, use of implants or surgical intervention is not reasonable or conservative management <ref type="bibr" target="#b4">(5)</ref> Two impression concepts have been reported to overcome the problem of labby foundation tissue. First, is the mucocompressive impression technique, which records the loose labby tissue in a compressed form in a try to obtain functional support for the denture. The other is the mucostatic impression technique, which relies on obtaining support from irm areas of the arch. <ref type="bibr" target="#b2">(3)</ref> Hence, for these patients, various impression techniques have been proposed for the impression of a labby ridge which will support the labby foundation tissue but at the same time will not displace it, <ref type="bibr" target="#b5">(6)</ref> these impression techniques were Mucocompressive impression technique, <ref type="bibr" target="#b6">(7)</ref> Single step mucostatic impression technique, <ref type="bibr" target="#b7">(8,</ref><ref type="bibr" target="#b8">9)</ref> injected two step mucostatic impression technique, <ref type="bibr" target="#b9">(10,</ref><ref type="bibr" target="#b10">11)</ref> two step window mucostatic impression technique, <ref type="bibr" target="#b11">(12,</ref><ref type="bibr" target="#b12">13)</ref> two step sectional tray mucostatic impression technique. <ref type="bibr" target="#b13">(14)</ref> Management of labby maxillary ridge can be a challenging problem. The impression of denture bearing area and occlusal surface detail is given utmost priority in managing it. <ref type="bibr" target="#b14">(15)</ref> Until now, the published evidence does not clearly support the superiority of either of these techniques from the maxillary labby ridge tissue displacement point of view. <ref type="bibr" target="#b15">(16)</ref> Thus, this study was conducted to evaluate the effect of various impression techniques on the displacement of labby maxillary ridges.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>INTRODUCTION</head><p>T he long-term success of dental implants is thought to be strongly dependent on the presence of healthy periimplant tissue. <ref type="bibr" target="#b0">1</ref> Although implant failure is a multifactorial process, 2 peri-implantitis has been proposed to be one of the most critical factors implicated in the loss of implants. <ref type="bibr" target="#b2">3,</ref><ref type="bibr" target="#b3">4</ref> In this context, the physical and chemical characteristics of implant abutment surfaces have been shown to directly affect bacterial adhesion. <ref type="bibr" target="#b4">5</ref> To date, titanium has been considered the gold standard due to its excellent properties, providing it with a dominant position among the available abutment and implant materials. <ref type="bibr" target="#b5">6</ref> Esthetic features favored the introduction of ceramic implant abutment materials. <ref type="bibr" target="#b6">7</ref> Similarly to titanium, zirconia is also biocompatible, highly resistant to corrosion, and provides great strength and toughness. <ref type="bibr" target="#b6">7,</ref><ref type="bibr" target="#b7">8</ref> Although, the effect of implant and abutment surfaces on bacterial adhesion and biofilm formation has been reported in both in vivo and in vitro studies, <ref type="bibr" target="#b8">[9]</ref><ref type="bibr" target="#b10">[10]</ref><ref type="bibr" target="#b11">[11]</ref> there is no unified consensus regarding how different materials affect bacterial colonization. <ref type="bibr" target="#b4">5,</ref><ref type="bibr" target="#b12">12,</ref><ref type="bibr">13</ref> Titanium and zirconia are hydrophobic materials. Hydrophobic attractive forces and electrostatic charge interactions between surfaces and bacteria have been proposed to play a key role in biofilm formation. <ref type="bibr">14,</ref><ref type="bibr" target="#b13">15</ref> Most bacteria have many ionizable groups on their surfaces, <ref type="bibr" target="#b14">[16]</ref><ref type="bibr" target="#b15">[17]</ref><ref type="bibr" target="#b16">[18]</ref> which confer a net negative charge, particularly during the early stationary phase of cell growth. <ref type="bibr" target="#b17">19</ref> However, the charge that is present on the cell surface of some types of bacteria can create a hydrophobic effect via nonpolar molecules and result in an affinity for other hydrophobic surfaces. <ref type="bibr" target="#b18">20</ref> This characteristic explains why some bacterial species preferentially interact with certain materials and why the findings reported in the literature are inconsistent depending on the type of bacterial species assessed. Given the complex relationship between bacteria and material surfaces and the clinical relevance of this topic, this study was conducted to investigate the influence of the physical and chemical properties of 2 different implant abutment materials, titanium and zirconia, on bacterial adhesion. In addition, bovine enamel (BE) was used as a control, simulating the human cervical tooth surface.</p></div>
 <div xmlns="http://www.tei-c.org/ns/1.0"><head>MATERIALS AND METHODS</head></div>
-<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study Setup and Patient Population</head><p>The study was conducted as a within-subject comparison for which permission from ethical committee of Faculty of Dentistry, Mansoura University was obtained. Ten healthy patients whose ages ranged between 50 to 60 years, with a mean of 55 years participated in this study. All the selected cases had completely edentulous maxilla with labby ridge in the anterior region. The study protocol and objectives were described to all participants and a written informed consent was obtained from each patient.</p></div>
-<div xmlns="http://www.tei-c.org/ns/1.0"><head>Prosthetic Procedures</head><p>For every patient preliminary impression of the maxillary denture bearing area was recorded with irreversible hydrocolloid impression material (CA37. Superio Pink. Cover. HOLLAND BV) the anterior maxillary labby ridge was marked intraorally using indelible pencil and transferred to the preliminary impression. Impression was poured in dental stone. Two uniform thicknesses of modeling wax were placed over the displaceable area as a spacer on the predetermined area of the cast and one thickness over non-displaceable area. Wax was cut at the planned tissue stop sites. Thin aluminum foil was adapted onto the wax spacer.</p><p>The special tray was made over the aluminum foil. The cast with the overlying waxed up special tray were lasked to standardize the polished surface of the trays, Flask was opened and the waxed up tray was removed and auto-polymerized acrylic resin dough was packed. Plaster index was constructed for the polished surface of the custom tray, (ig.1).</p><p>The Custom tray was used for making, ive secondary impressions and divided into ive groups according to impression technique used as follow:</p></div>
-<div xmlns="http://www.tei-c.org/ns/1.0"><head>Group I Mucocompressive impression technique:</head><p>The impression procedure for this technique was carried out following the technique described by Watt and MacGregor, <ref type="bibr" target="#b6">(7)</ref> based on the fact that thermoplastic properties of this material enables simultaneous manipulation to compress the normal tissues. without distortion of the labby tissues. Compound impression of the preliminary cast was made using custom tray. Periphery of the impression compound was softened and molded in the mouth. The labby area in the patient's mouth was outlined with indelible pencil and the impression compound was reinserted to transfer the</p></div>
-<div xmlns="http://www.tei-c.org/ns/1.0"><head>Group III injected two step mucostatic impression technique:</head><p>The impression procedure for this technique was carried out following the technique described by Hobkirk, <ref type="bibr" target="#b9">(10)</ref> and Singh et al., <ref type="bibr" target="#b10">(11)</ref> The impression was made using medium body poly siloxane condensation silicone impression material (C-Silicones, Thixolex M Zermack) for mark. The compound overlying the irm area of the ridge was softened leaving the compound overlying the labby area hard. The impression compound was tempered and reseated irmly in the mouth and a zinc oxide wash impression was made.</p></div>
-<div xmlns="http://www.tei-c.org/ns/1.0"><head>Group II Single step mucostatic impression technique:</head><p>The impression procedure for this technique was carried out following the technique described by Shum and Pow, <ref type="bibr" target="#b7">(8)</ref> Saluja et al., <ref type="bibr" target="#b8">(9)</ref> for recording labby ridges when minimal mucosal displacement. The custom tray was border molded with softened green stick compound. The wax spacer was removed and multiple holes were drilled in the labby tissue region, (ig. 2). The posterior area of normal tissues and the anterior labby tissue area were recorded in a single step impression technique using light bodied silicone based condensation type elastomeric impression material (BMS DENTAL sililight).  the posterior area of normal tissues. The anterior labby tissue area was recorded using syringed light body low viscosity silicone based condensation type elastomeric impression material (BMS DENTAL sililight), (ig. 3).</p></div>
-<div xmlns="http://www.tei-c.org/ns/1.0"><head>Group IV two step window mucostatic impression technique:</head><p>The impression procedure for this technique was carried out following the technique described by Watson <ref type="bibr" target="#b11">(12)</ref> in which a window was created in the custom tray at the area corresponding to the labby tissue, the healthy denture bearing tissues were recorded with zinc oxide eugenol impression paste (Cavex, Holland, BV) and the displaceable soft tissue area with impression plaster. This technique was modiied by Rashid et al., <ref type="bibr" target="#b12">(13)</ref> where addition cured silicone instead of impression plaster used to record the anterior labby area of the residual ridge. The impression technique used was the modiication by Rashid et al., <ref type="bibr" target="#b12">(13)</ref> the anterior area was recorded by using syringed light body elastomeric impression material, (ig. 4).</p></div>
-<div xmlns="http://www.tei-c.org/ns/1.0"><head>Group V two step sectional tray mucostatic impression technique:</head><p>The impression procedure for this dual impression technique was carried out using sectional tray following technique modiied from that described by kumarsundar et al., <ref type="bibr" target="#b13">(14)</ref> The custom tray was modiied to form the posterior part of the sectional tray as follow: labial lange was trimmed, the anterior third thickness was reduced from the polished surface and three rectangular projections were added. The posterior tray part was returned to the cast and double thickness of wax spacers were adapted on the palatal aspect of the labby ridge and extending to the crest. The posterior tray part was modiied by wax to extend anteriorly to the palatal slope of the labby ridge till the level of ridge crest. This is followed by waxing up the anterior part of the sectional tray that had three slots in the itting surface. Both tray parts were separated by aluminum foil on the relieved cast and lasked. The lask was opened, the waxed up anterior tray part was removed and self cure acrylic resin was packed. After polymerization, the lask was opened again and the waxed up posterior part of the tray was removed and self cure acrylic resin was packed. Both tray parts locked together through the slots and projections to form one unit sectional tray. During impression procedure unlocked the sectional tray and the anterior part was perforated. Border molding for the posterior part was carried out using green stick compound. Reassembled parts of the tray and border molding were carried out for the anterior part. Unlock two parts again; the impression for the posterior area was made using medium body poly siloxane condensation impression material. This was followed by removal of excess material. The posterior tray was placed in the patient's mouth, while the anterior tray was loaded with light body low viscosity silicone based condensation type elastomeric impression material and seated into position guided by the stops. The impression was removed as a single piece, (ig. 5).</p></div>
-<div xmlns="http://www.tei-c.org/ns/1.0"><head>Measuring Displacement of Flabby Maxillary Ridges</head><p>Displacement of labby maxillary ridges was measured using the two dimensional X&amp;Y axes measurescope (Monocular Measurescope type -10 Nikon -Japan). The device was modiied to provide three dimensional measurements; the main lens was replaced by sensitive dial gauge to measure the third dimension (Z-axis). For proper custom tray standard position during repeated measurements, a specially designed Perspex box with rounded metal post exhibiting a pointed deep depression on its top was manufactured and ixed on the traveling table of the device. This depression was considered as a reference point (R) from which, all measurements started. The base of the Perspex box had a recess for ixation of the plaster index of the custom tray's polished surface, (ig. 6).</p><p>Four ixed points were determined for measuring labby maxillary ridges displacement. These points were (point P) the highest point of the median palatine raphe, (point I) the deepest point of the incisive papilla and, (points, R1 and R2) the deepest points of the right and left tuberosities. The positions of these points were determined in three dimensions by recording their X, Y, and Z coordinates in relation to reference point (R).</p><p>The previous measurements were irst made on the wax spacer that used as a control for subsequent measurements. After removing of the wax spacer and secondary impression recording, the custom tray was reseated on its index, and the three-dimensional positions of (P, I, R1 and R2) points were recorded on the impressions. Flabby maxillary ridges displacement for each impression technique in X,Y and Z dimensions was determined by comparing the three coordinates of each of the four working points on the spacer and on the impression.</p></div>
-<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical analysis:</head><p>Results were subjected to revision and the collected data were coded, processed and analyzed through SPSS (Statistical Package for Social Sciences) (Standard version release 16.0). Descriptive statistics were applied using frequency analysis to detect mean X± SD for parametric data. Independent one way ANOVA was used for  </p></div>
-<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head><p>Means and standard deviations of labby maxillary ridges displacement in (mm) in (X) lateral, (Y) anteroposterior, (Z) vertical and total (3-D) directions for the ive tested groups are presented in table (1) and igure (7). Group I represent the highest labby maxillary ridges displacement value in X,Y,Z and total 3-D while Group IV represent the least value in X,Y,Z and total 3-D. A statistically signiicant difference in tissue displacement was found in X,Y,Z, and total 3-D) axes between all tested groups and the control. Table (1) and Figure Table (2) reveals the comparison between X, Y, and Z axes for each of the ive groups. A Statistically signiicant difference was found between X, Y and Z directions for all tested Group (I, II, III, IV and V). The highest labby maxillary ridges displacement value was related to Y direction in all groups followed by X direction. Z direction revealed the lowest value except in ive group mucocompressive technique group that shows the highest value. </p></div>
-<div xmlns="http://www.tei-c.org/ns/1.0"><head>DISCUSSION</head><p>Management of ibrous tissues overlying residual ridges often results in prosthodontic challenges.</p></div>
-<div xmlns="http://www.tei-c.org/ns/1.0"><head>Surgical removal of ibrous tissues is controversial</head><p>as it usually ends up with loss of in adequate bony foundation, which in turn affects the support, retention and stability of removable prostheses. Implant retained prostheses proposed to offer a solution to the problems of stability and retention of prostheses overlying labby ridges, however, the condition of residual ridge may hinder this treatment option. This conservative prosthodontic management of labby edentulous ridges seems a feasible and non-invasive treatment modality. When conserva-tive conventional prosthodontics approach is considered, impression techniques used for recording the ridge has a paramount role. <ref type="bibr" target="#b16">(17)</ref> For this reason; variety of impression techniques were proposed to address problems caused by the labby unsupported denture bearing mucosa. However, lack of scientiic evidence that supports the preference of any of these techniques is lacking in the dental literature, hence was the aim provoking this study.</p><p>In this study, light body rubber base impression material was used instead of plaster of Paris to record labby area in window mucostatic impression technique as it is dimensionally stable and do not need to be poured immediately. It is also less brittle than plaster of Paris and do not need to be handled as carefully. <ref type="bibr" target="#b8">(9)</ref> Soft tissue displacement produced with the mucocompressive technique was signiicantly higher than that produced by the four tested mucostatic impression techniques. This displacement could be related to the fact that this technique could conceivably cause a degree of compression of the mobile tissue aiming to achieve maximum support from it. But this compression proved to be hazard to the health status of the bony foundation. Also, it was proved to result in prosthesis instability due to rebound of the compressed mucosa when at rest and not in function. <ref type="bibr" target="#b17">(18)</ref> This result is in agreement with the results of a previous study that recommended to use the mucostatic impression techniques for labby ridge or even for normal residual ridge to avoid the effect of tissue compression of the supporting mucosa. <ref type="bibr" target="#b18">(19)</ref> This result is in contrast with study done by Lamb <ref type="bibr" target="#b19">(20)</ref> who claimed that, by performing the impression in this way, the original relatively undistorted shape of the ibrous tissues is retained while the tissues more capable of functional denture support are recorded in a displaced state.</p><p>The signiicantly less tissue displacement produced when using the two stage minimal pressure impression techniques compared to that produced by the one step minimal pressure impression technique is in agreement with the inding of many advocates supporting the two step impression technique. <ref type="bibr" target="#b9">(10,</ref><ref type="bibr" target="#b17">18,</ref><ref type="bibr" target="#b20">21)</ref> In addition, two tray technique represent a minimal degree of labby ridge distortion because the structure of the posterior tray that creates a space on the palatal aspect of the mobile area allowed the recording of posterior denture bearing tissue with slight anterior distortion. Furthermore, the presence of the supporting impression material should prevent backward displacement of the mobile ridge during the second stage of impression that record the labby area as explained by Osborne, <ref type="bibr" target="#b21">(22)</ref> who claimed that this technique aimed to maintain the contour of the easily displaceable tissue while the rest of the denture bearing area is recorded. And, added that the anterior tray should be inserted from in front to backwards to prevent backward displacement of the mobile ridge.</p><p>In window technique, structure of the tray that allowed recording the posterior denture bearing tissue separately without causing distortion and displacement to the anterior labby ridge area while the anterior labby area was recorded separately by injecting a high low impression material to ensure minimal displacement in X, Y, Z and total 3-D directions.</p><p>However, the importance of one step impression technique could not be ignored as it was proved to be beneicial and was previously recommended when the residual ridge exhibited little degree of displaceable labby tissues. <ref type="bibr" target="#b21">(22)</ref> From the results of this study, it was observed that no deinite impression technique produced the same reading as that of the control group. Hence tissue displacement evident established with different impression techniques followed in this study whether mucostatic or mucocompressive compared to the control group. This could be attributed to the previously reported opinion that any contact between tray material and mucosa may lead to soft tissue displacement even with the normal tissue.</p></div>
-<div xmlns="http://www.tei-c.org/ns/1.0"><head>CONCLUSION</head><p>Based on the results of this study, it can be concluded that</p><p>• Flabby ridges can be conservatively managed by using modiied impression techniques.</p><p>• Two step mucostatic impression technique is preferred for recording labby tissue as it allow the least amount of soft tissue displacement when compared to other impression techniques.</p><p>• The window mucostatic impression technique using light body impression material for recording labby area is the best impression technique from the point of tissue displacment.</p></div>
-<div xmlns="http://www.tei-c.org/ns/1.0"><head>RECOMMENDATION</head><p>Long term clinical study of the effect of various impression techniques on the health of the edentulous ridge and on the success of complete denture treatment modality is also recommended.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. ( 1 )</head><label>1</label><figDesc>Fig. (1) Plaster index for the polished surface of the tray.</figDesc></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. ( 2 )</head><label>2</label><figDesc>Fig. (2) Border molded special tray with a multiple holes in the labby tissue region.</figDesc></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. ( 3 )</head><label>3</label><figDesc>Fig. (3) The anterior labby tissue area was recorded using syringed light body low viscosity silicone</figDesc></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Fig. ( 5 )</head><label>5</label><figDesc>Fig. (5) A. anterior parts of the tray, B. border molding of anterior and posterior parts of the tray, C. impression of the posterior part of the tray, D. impression of anterior and posterior parts of the tray.</figDesc></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Fig. ( 6</head><label>6</label><figDesc>Fig. (6) Modiied Measurescope</figDesc></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>( 7 )</head><label>7</label><figDesc>also, show signiicant difference in (X,Y,Z, and total 3-D) axes between mucocompressive impression techniques Group I and the four mucostatic impression techniques (Group II, III, IV and V). Regarding four mucostatic impression techniques, soft tissue displacement measurements of two step impression techniques (Group III, IV, V) showed a statistically signiicant less labby maxillary ridges displacement in the X, Y, Z and total 3-D axes compared to the one step impression technique (Group II). Statistically insigniicant difference was found between the three groups of two step impression technique (Group III, IV, V) in the X, Y , Z and total 3-D axes. Group IV (mucostatic window impression technique demonstrates the lowest labby maxillary ridges displacement values. It was 0.62±0.03 in X direction, 1.02±0.094 in Y direction, 0.2±0.03 in Z direction and 0.61±0.07 in total 3D direction.</figDesc></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>TABLE ( 1</head><label>(</label><figDesc>) Means, Standard deviations and ANOVA test for soft tissue displacement measurements in (mm) in (X, Y,Z and total 3-D) directions for each tested impression technique.</figDesc><table><row><cell>Direction</cell><cell>X</cell><cell>Y</cell><cell>Z</cell><cell>Total 3-D</cell></row><row><cell>Technique</cell><cell>(X± SD)</cell><cell>(X± SD)</cell><cell>( X ± SD)</cell><cell>(X± SD)</cell></row><row><cell>Control</cell><cell>0.00±0.00 d</cell><cell>0.00±0.00 d</cell><cell>0.00±0.00 d</cell><cell>0.00±0.00 d</cell></row><row><cell>Group I</cell><cell>1.690.13± a</cell><cell>2.02±0.19 a</cell><cell>2.1±0.279 a</cell><cell>1.94±0.214 a</cell></row><row><cell>Group II</cell><cell>1.12±0.09 b</cell><cell>1.61±0.13 b</cell><cell>0.91±0.08 b</cell><cell>1.21±0.14 b</cell></row><row><cell>Group III</cell><cell>0.75±0.07 c</cell><cell>1.4±0.11 c</cell><cell>0.4±0.02 c</cell><cell>0.85±0.09 c</cell></row><row><cell>Group IV</cell><cell>0.62±0.03 c</cell><cell>1.02±0.094 c</cell><cell>0.2±0.03 c</cell><cell>0.61±0.07 c</cell></row><row><cell>Group V</cell><cell>0.72±0.059 c</cell><cell>1.1±0.10 c</cell><cell>0.35±0.042 c</cell><cell>0.72±0.054 c</cell></row><row><cell>F one way ANOVA</cell><cell>4.582</cell><cell>5.608</cell><cell>4.117</cell><cell>9.921</cell></row><row><cell>(P)</cell><cell>0.001*</cell><cell>0.001*</cell><cell>0.0001*</cell><cell>0.0001*</cell></row><row><cell>X = Arithmetic mean.</cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table><note><p><p>S.D. = Standard deviation.</p>Values having different letters are statistically signiicant different (p&lt; 0.05).</p></note></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>TABLE ( 2</head><label>(</label><figDesc>) Means, Standard deviations and ANOVA test for soft tissue displacement measurements in (mm) in X, Y and Z directions for all tested impression technique</figDesc><table><row><cell>Technique</cell><cell>Group I</cell><cell>Group II</cell><cell>Group III</cell><cell>Group IV</cell><cell>Group V</cell></row><row><cell>Direction</cell><cell>(X± SD)</cell><cell>(X± SD)</cell><cell>( X ± SD)</cell><cell>( X ± SD)</cell><cell>( X ± SD)</cell></row><row><cell>X</cell><cell>1.690.13±</cell><cell>1.12±0.09</cell><cell>0.75±0.07</cell><cell>0.62±0.03</cell><cell>0.72±0.059</cell></row><row><cell>Y</cell><cell>2.02±0.19</cell><cell>1.61±0.13</cell><cell>1.4±0.11</cell><cell>1.02± 0.094</cell><cell>1.1±0.10</cell></row><row><cell>Z</cell><cell>2.1±0.279</cell><cell>0.91±0.08</cell><cell>0.4±0.02</cell><cell>0.2±0.03</cell><cell>0.35±0.042</cell></row><row><cell>F one way ANOVA</cell><cell>6.388</cell><cell>7.074</cell><cell>8.119</cell><cell>8.117</cell><cell>6.253</cell></row><row><cell>(P)</cell><cell>0.0001</cell><cell>0.0001</cell><cell>0.0001</cell><cell>0.0001</cell><cell>0.0001</cell></row><row><cell cols="3">Fig. (7) Means of labby maxillary ridges displacement in</cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="3">(mm) in (X) lateral, (Y) anteroposterior, (Z) vertical directions for the ive tested groups</cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disc preparation and surface analysis</head><p>Standardized disc-shaped specimens with a diameter and thickness of 8 mm and 2 mm were obtained from machined pure titanium and yttrium-stabilized zirconia (Conexa ˜o Sistemas de Pro ´teses Ltda, Sa ˜o Paulo, SP, Brazil). Enamel discs of the same dimensions were prepared from bovine incisors and used as a control. The enamel was cut with a diamond drill for glass thread (Dinser Diamond Tools Ltda, Sa ˜o Paulo, Brazil) coupled to the drill bench vise (Schulz -FSB model 16 -chuck taper DIN 238-B18, Sa ˜o Paulo, SP, Brazil) and then subjected to surface polishing utilizing a procedure with waterproof paper grains of 800, 2500, and 4000 (T469-SF-Noton, Saint-Gobam Abrasives Ltd, Jundiaı ´,S a ˜o Paulo, SP, Brazil).</p><p>The surface roughness of all of the discs was quantitatively analyzed using a portable roughness analyzer (Mitutoyosurftest SJ-401, Mitutoyo Corporation, Kawasaki, Japan). To standardize the surface roughness measurements, we developed a device with 2 parallel slots to define the central area of the discs and a circular space to stabilize the samples during the readings. For each disc, 2 measurements were performed on each side, and to verify the reliability of the results, the analyses were repeated twice. The reproducibility of the readings was assessed by calculating the intraclass correlation coefficient (ICC) with a confidence interval of 95%.</p><p>To analyze the surface topography, we used 3 samples of each material and 3 randomized sites per sample (TopScan 3D), measuring an area of 2 3 2 lm and 10 3 10 lm (Figure <ref type="figure" target="#fig_0">1</ref>). A quantitative characterization of the nanoscale surface topography and roughness was conducted using atomic force microscopy (Agilent AFM system, Model 5500, Agilent Technologies, Chandler, Ariz). Contact-mode topographic images were obtained with an applied force constant of 42 N/m, resonance frequency of 320 kHz and silicon tips with a nominal apical radius of less than 8 nm. Next, we examined the chemical element composition of 3 discs from each material by scanning electron microscopy (FEG-MEV; JEOL 7500F model) equipped with an energy dispersive X-ray spectroscope (EDX) (JSM-5900LV, Joel Ltd, Tokyo, Japan).</p><p>To evaluate the wetting and surface tension, we used 5 discs of each material, and the measurement was repeated 3 times for each sample. The contact angle value determined for each wet agent was calculated using the Young-Laplace equation and then inserted into specialized drop-shape analysis software to perform the measurements (SCA-SOFTWARE / OCA-20, DataPhysics Instruments GmbH, Filderstadt, Baden-Wu ¨rttemberg, Germany). The SFE was obtained using the concept of polar and dispersion components according to the method described by Owen. <ref type="bibr" target="#b19">21</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Bacterial conditions and qualitative assessment of bacterial adhesion</head><p>Porphyromonas gingivalis 33277 was cultured in blood agar supplemented with 0.1% hemin and menadione, for 48 hours at 378C, under anaerobic condition (85% N 2 , 10% H 2 ,5 %C O 2 ). P. gingivalis colonies were transferred to a new tube containing fresh BHI broth medium supplemented by hemin and menadione and maintained for 24 hours (a period previously defined by the growth curve analysis) inside anaerobic chamber, and then the cultures were adjusted to OD 600nm 1.4 before the experiment. Streptococcus mutans UA140 was cultured in TH medium plates prepared by adding 1.5% (wt/ vol) agar to the medium and incubated at 378C, under anaerobic condition. One colony of S. mutans was diluted in TH broth medium and overnight cultures were diluted to an OD 600nm ¼ 0.02 in fresh TH medium containing 0.5% (wt/vol) sucrose. Eight-hundred microliters of each culture was transferred to a 24-well plate containing the discs of each material. The discs were completely immersed in the prepared bacterial suspensions and incubated at 378C under anaerobic conditions. S. mutans were analyzed after 16 hours incubation, while the discs that were immersed in the P. gingivalis culture were analyzed after 48 hours.</p><p>In order to evaluate the density of the bacteria adhered on Ti and ZrO 2 disc surfaces, after 16 and 48 hours incubation, the discs were transferred to a new 12-well plate and washed 3 times with 1 mL of sterile phosphate-buffered saline (PBS) to remove unattached bacteria. The bacteria were then labeled with 0.01 mM of Syto-9 and 0.06 mM of propidium iodide (PI), LIVE/DEAD stain BacLight Bacterial Viability Kit (Invitrogen Corporation, Grand Island, NY), for 15 minutes, according to the manufacturer's instructions. For visualization, the discs were placed on a glass cover slip, and the adhesion of the bacteria was visualized with a 40x oil-immersion (Plan NeoFluar NA 1.3 oil) objective using an LSM 510 confocal laser-scanning microscope (Version 4.2, Carl Zeiss MicroImaging Co, Ltd, Jena, Germany).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Physical and chemical characteristics</head><p>The roughness average (Ra) was used as a physical parameter, and the values for the Ti and ZrO 2 discs, respectively, were as follows: 0.21 lm(60.06) and 0.22 lm(60.03). For the BE discs, only discs with a roughness range between 0.05 and 0.1 lm were included in the study. Table <ref type="table">1</ref> shows the average surface roughness (Ra) and maximum surface roughness (Rmax) as determined using AFM and an optical profilometer.</p><p>The presence of Ti, as unique element contained in Ti discs, was confirmed by elemental analysis using an energy dispersive spectroscopy. For ZrO 2 , we detected zirconium (Zr), oxygen (O), and a small amount of carbon (C) in its chemical composition. And, to the BE, hydroxyapatite constituents were found: calcium (Ca), phosphor (P), and O were found. To analyze the physical and chemical characteristics of Ti, ZrO 2 and BE, we dropped 4 liquids of different polarities on each material and measured the contact angle between them. Among the surfaces studied, BE presented hydrophilic and lipophilic characteristics, in contrast, Ti and ZrO 2 presented the highest contact angle values with water and the lowest with hydrophobic wet agents (Figure <ref type="figure">2</ref>). The SFE was defined by the intersection between a straight line and the y-axis (Figure <ref type="figure" target="#fig_1">3a,</ref><ref type="figure">b,</ref><ref type="figure">c</ref>). ZrO 2 materials presented the highest SFE value, and BE showed the lowest.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Effect of surface hydrophobicity on bacterial adhesion</head><p>To identify the bacterial adhesion structure and viability of the cells that had adhered onto the different surfaces, we performed high-resolution analyses using CLSM. A wetting behavior effect of the 3 different materials on bacterial adhesion was confirmed by confocal microscopy analysis. Higher magnification confocal imaging (340) revealed that bacterial colonization on BE was clearly characterized by larger, taller, and more widespread microcolonies in comparison to the Ti and ZrO 2 surfaces for both S. mutans (Figure <ref type="figure">4</ref>) and P. gingivalis (Figure <ref type="figure">5</ref>). In the case of S. mutans, a small number of bacterial cells was observed on the ZrO 2 discs, but no bacteria were detected on the Ti discs.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DISCUSSION</head><p>The physical and chemical characteristics of material surfaces have been shown to have a direct impact on the adhesion phase in bacteria. <ref type="bibr" target="#b20">22</ref> Numerous studies have reported a relationship between the types of substrate and the bacterial species, <ref type="bibr" target="#b12">12,</ref><ref type="bibr">13,</ref><ref type="bibr" target="#b21">23,</ref><ref type="bibr" target="#b22">24</ref> and some of them have shown that the initial phase is highly influenced by a surface roughness above a threshold of 0.2 lm. <ref type="bibr">25</ref> Hence, to minimize the effect of roughness in our study, we only used discs with mean roughness values equal to or less than 0.22 lm. Furthermore, we introduced BE simulating the cervical of a human tooth, as a control to investigate the effect of the chemical composition on bacterial adhesion and to improve our understanding of the opposite effect on Ti and ZrO 2 materials. For control group, we selected only the discs with a superficial roughness ranging between 0.05 and 0.1 um, close to a human tooth. <ref type="bibr" target="#b23">26</ref> Both S. mutans and P. gingivalis 27 adhered better on BE than on Ti or ZrO 2 surfaces. This preference in adhesion was confirmed by confocal images and could be explained by the presence of intermolecular interactions between chemical groups on the cell walls of bacteria and polar and nonpolar regions of BE surfaces. Different intermolecular forces can dictate how bacteria interact with different surfaces. <ref type="bibr" target="#b24">28</ref> Depending on the characteristics of these forces, the interaction can be stronger or weaker. The cell wall of S. mutans consists of a thick layer of peptidoglycan that is covered mainly by neutral and acidic polysaccharides, several proteins and teichoic acid. <ref type="bibr" target="#b25">29</ref> Surface proteins on S. mutans confer the charge to these Gram-positive bacteria. The wetting behavior of BE with liquids of different polarities revealed that this type of material has polar and nonpolar characteristics, and consequently, it provides improved electrostatic interactions between the material and the bacteria. <ref type="bibr" target="#b26">30</ref> The hydrophobic regions of S. mutans can also interact with Ti and ZrO 2 ; however, the forces exhibited by the nonpolar molecules are weak. This weak interaction could have allowed the easy detachment of the bacteria from the Ti and ZrO 2 discs during the rinsing step.</p><p>In the case of Gram-negative bacteria, these species possess a thinner peptidoglycan layer and an outer membrane that consists of proteins, phospholipids and lipopolysaccharides (LPS). <ref type="bibr" target="#b27">31</ref> Although the presence of LPS confers a negative net charge, which has been found to contribute hydrophilic characteristics, <ref type="bibr" target="#b28">32</ref> the degree to which LPS plays a role in these hydrophilic features is largely dependent on the structural components, which vary between different species. <ref type="bibr" target="#b29">33,</ref><ref type="bibr" target="#b30">34</ref> According to our results, the high hydrophobic and lipophilic characteristics of Ti and ZrO 2 surfaces, which were evaluated based on the contact angle, could have influenced the ability of P. gingivalis to adhere to these materials. However, the charges present on the BE surfaces could have enhanced the electrostatic interaction with the bacterial cells.</p><p>Interactions between bacteria and materials are also influenced by salivary proteins. Although the salivary pellicle has a definitive impact on bacterial adhesion, <ref type="bibr">35,</ref><ref type="bibr" target="#b31">36</ref> in the current study, a salivary pellicle was not used to more distinctively identify the effects of the chemical characteristics of the material surfaces on bacterial adhesion. The composition of the materials and their physicochemical properties may modulate initial bacterial adhesion <ref type="bibr" target="#b32">37</ref> and, consequently, affect the microbial quality. However, our results cannot be generalized because we examined the impact of the material surfaces using 2 different species of bacteria and must consider the various contributions affecting the final results. These contributing factors include the intermolecular interactions between different species of bacteria, the salivary pellicle and the pH of the oral cavity, which can cause imbalances in the microbial community.</p><p>We believe that the results and concepts presented here will improve understanding regarding the inherent characteristics of materials that affect bacterial adhesion and can be helpful in the design of implant abutment material surfaces to prevent plaque accumulation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CONCLUSION</head><p>Within the limitations of a laboratory study, the present results suggest that bacterial adhesion on Ti was lower than that on ZrO 2 , independent of the bacterial species or Gram-positive or Gram-negative status, but it was consistently higher on BE than on abutment materials. ABBREVIATIONS BE: bovine enamel EDS: energy-dispersive X-ray spectroscopy LPS: lipopolysaccharides SFE: surface free energy</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>FIGURE 1 .</head><label>1</label><figDesc>FIGURE 1. Micrographs taken by an atomic force microscopy to describe the surfaces: (a) bovine enamel, (b) Ti, (c) ZrO 2 .</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>FIGURE 3 .</head><label>3</label><figDesc>FIGURE 3. Energy-free surface (mN/m) analysis in surfaces: (a) BE; (b) Ti, (c) ZrO 2.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>TABLE Average value</head><label>Average</label><figDesc>, surface roughness (Ra), peak to valley height (Maximum), median and average peak spacing (Rms) measured for the different surfaces: Ti, ZrO 2 , bovine enamel (BE) in nanometer (nm) Effect of material surface on the wettability. In each material, 4 liquids were used: water, ethylene glycol, polyethylene glycol, and diiodomethane. Red indicates Ti; blue, ZrO 2 ; green, BE.</figDesc><table><row><cell>Statistical Quantities</cell><cell>Ti</cell><cell>ZrO 2</cell><cell>BE</cell></row><row><cell>Average Value</cell><cell>60</cell><cell>294</cell><cell>206</cell></row><row><cell>Maximum</cell><cell>121</cell><cell>594</cell><cell>378</cell></row><row><cell>Median</cell><cell>60</cell><cell>297</cell><cell>203</cell></row><row><cell>Ra</cell><cell>10</cell><cell>72</cell><cell>18</cell></row><row><cell>Rms</cell><cell>13</cell><cell>88</cell><cell>25</cell></row><row><cell></cell><cell></cell><cell></cell><cell>FIGURE 2.</cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>Vol. XLII / No. Two / 2016 Biofilm on Abutment Surfaces Downloaded from http://meridian.allenpress.com/joi/article-pdf/42/2/153/2039634/aaid-joi-d-14-00318.pdf by guest on 02 May 2023</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_1"><p>Journal of Oral Implantology</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_2"><p>de Avila et al Downloaded from http://meridian.allenpress.com/joi/article-pdf/42/2/153/2039634/aaid-joi-d-14-00318.pdf by guest on 02 May 2023</p></note>
 		</body>
 		<back>
+
+			<div type="acknowledgement">
+<div><head>ACKNOWLEDGMENTS</head><p><rs type="person">Erica Dorigatti de Avila</rs> received funds from <rs type="funder">Sa ˜o Paulo Research Foundation (FAPESP)</rs>, Grant number: <rs type="grantNumber">2011/05106-6</rs>, <rs type="funder">Coordination for the Improvement of Higher Education Personnel (CAPES)</rs> and <rs type="funder">Lemann Foundation</rs>. The authors thank <rs type="person">Conexao Sistema de Protese</rs> for donating the pure titanium and zirconia stabilized with yttrium discs used in this study.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_JVHg5qR">
+					<idno type="grant-number">2011/05106-6</idno>
+				</org>
+			</listOrg>
 			<div type="references">
 
 				<listBibl>
 
 <biblStruct xml:id="b0">
 	<analytic>
-		<title level="a" type="main">Management of Maxillary Flabby Tissue &amp; Highly Resorbed Mandibular Ridges</title>
+		<title level="a" type="main">Infectious risks for oral implants: a review of the literature</title>
 		<author>
-			<persName><forename type="first">K</forename><surname>Lahoti</surname></persName>
+			<persName><forename type="first">M</forename><surname>Quirynen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">De</forename><surname>Soete</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Van Steenberghe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">J Dent Oral Health</title>
+		<title level="j">Clin Oral Implants Res</title>
 		<imprint>
-			<biblScope unit="volume">3</biblScope>
-			<biblScope unit="page" from="1" to="5" />
-			<date type="published" when="2016">2016</date>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="1" to="19" />
+			<date type="published" when="2002">2002</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b1">
 	<analytic>
-		<title level="a" type="main">Management of Flabby Ridge Cases: A Challenge in Clinical Practice</title>
+		<title level="a" type="main">Risk factors for endosseous dental implant failure</title>
 		<author>
-			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Jayaprakash</surname></persName>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Paquette</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">K</forename><surname>Sahu</surname></persName>
+			<persName><forename type="first">N</forename><surname>Brodala</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">M</forename><surname>Khan</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">S</forename><surname>Khoriya</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">S</forename><surname>Jadhav</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">B</forename><surname>Kendre</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">A</forename><surname>Lukaram</surname></persName>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Williams</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Int J Adv Health Sci</title>
+		<title level="j">Dent Clin North Am</title>
 		<imprint>
-			<biblScope unit="volume">1</biblScope>
-			<biblScope unit="issue">5</biblScope>
-			<biblScope unit="page" from="32" to="37" />
-			<date type="published" when="1169">2014. 1169</date>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="page" from="361" to="374" />
+			<date type="published" when="2006">2006</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b2">
 	<analytic>
-		<title level="a" type="main">A review of prosthodontic management of ibrous ridges</title>
+		<title level="a" type="main">Risk of implant failure and marginal bone loss in subjects with a history of periodontitis: a systematic review and meta-analysis</title>
 		<author>
-			<persName><forename type="first">R</forename><forename type="middle">W</forename><surname>Crawford</surname></persName>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Safii</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">A</forename><forename type="middle">D</forename><surname>Walmsley</surname></persName>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Palmer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">F</forename><surname>Wilson</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Br Dent J</title>
+		<title level="j">Clin Implant Dent Relat Res</title>
 		<imprint>
-			<biblScope unit="volume">199</biblScope>
-			<biblScope unit="page" from="715" to="719" />
-			<date type="published" when="2005">2005</date>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="165" to="174" />
+			<date type="published" when="2010">2010</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b3">
 	<analytic>
-		<title level="a" type="main">Management of the labby ridge: Using contemporary materials to solve an old problem</title>
+		<title level="a" type="main">The causes of early implant bone loss: myth or science?</title>
 		<author>
-			<persName><forename type="first">C</forename><forename type="middle">D</forename><surname>Lynch</surname></persName>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Oh</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">P</forename><forename type="middle">F</forename><surname>Allen</surname></persName>
+			<persName><forename type="first">J</forename><surname>Yoon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Misch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">L</forename><surname>Wang</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Br Dent J</title>
+		<title level="j">J Periodontol</title>
 		<imprint>
-			<biblScope unit="volume">200</biblScope>
-			<biblScope unit="page" from="258" to="261" />
-			<date type="published" when="2006">2006</date>
+			<biblScope unit="volume">73</biblScope>
+			<biblScope unit="page" from="322" to="333" />
+			<date type="published" when="2002">2002</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b4">
 	<analytic>
-		<title level="a" type="main">Management of labby ridges using liquid supported denture: a case report</title>
+		<title level="a" type="main">Biofilm formation and composition on different implant materials in vivo</title>
 		<author>
-			<persName><forename type="first">N</forename><surname>Keni</surname></persName>
+			<persName><forename type="first">A</forename><surname>Al-Ahmad</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">M</forename><surname>Aras</surname></persName>
+			<persName><forename type="first">M</forename><surname>Wiedmann-Al-Ahmad</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">V</forename><surname>Chitre</surname></persName>
+			<persName><forename type="first">J</forename><surname>Faust</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">J Adv Prosthodont</title>
+		<title level="j">J Biomed Mater Res B Appl Biomater</title>
 		<imprint>
-			<biblScope unit="volume">3</biblScope>
-			<biblScope unit="page" from="43" to="46" />
-			<date type="published" when="2011">2011</date>
+			<biblScope unit="volume">95</biblScope>
+			<biblScope unit="page" from="101" to="109" />
+			<date type="published" when="2010">2010</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Single-tooth restorations supported by osseointegrated implants: results and experiences from a prospective study after 2 to 3 years</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Andersson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Odman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Lindvall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Lithner</surname></persName>
+		</author>
+	</analytic>
 	<monogr>
-		<title level="m" type="main">A Single Step Impression Technique of Flabby Ridges Using Monophase Polyvinylsiloxane Material: A Case Report</title>
-		<author>
-			<persName><forename type="first">U</forename><forename type="middle">Y</forename><surname>Pai</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">V</forename><forename type="middle">S</forename><surname>Reddy</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">R</forename><forename type="middle">N</forename><surname>Hosi</surname></persName>
-		</author>
+		<title level="j">Int J Oral Maxillofac Implants</title>
 		<imprint>
-			<date type="published" when="2014">2014. 2014</date>
-			<publisher>Case Rep Dent</publisher>
-			<biblScope unit="page">104541</biblScope>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="702" to="711" />
+			<date type="published" when="1995">1995</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Zirconia as a ceramic biomaterial</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Piconi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Maccauro</surname></persName>
+		</author>
+	</analytic>
 	<monogr>
-		<title level="m" type="main">Designing complete dentures. 2nd ed</title>
-		<author>
-			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Watt</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Macgregor</surname></persName>
-		</author>
+		<title level="j">Biomaterials</title>
 		<imprint>
-			<date type="published" when="1986">1986</date>
-			<publisher>IOP Publishing Ltd</publisher>
-			<pubPlace>Bristol</pubPlace>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="1" to="25" />
+			<date type="published" when="1999">1999</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b7">
 	<analytic>
-		<title level="a" type="main">Management of excessive movable tissue: A modiied impression technique</title>
+		<title level="a" type="main">Behavior of CAL72 osteoblast-like cells cultured on zirconia ceramics with different surface topographies</title>
 		<author>
-			<persName><forename type="first">Hcm</forename><surname>Shum</surname></persName>
+			<persName><forename type="first">M</forename><surname>Bachle</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">Hne</forename><surname>Pow</surname></persName>
+			<persName><forename type="first">F</forename><surname>Butz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Hubner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Bakalinis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Kohal</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">J Prosthet Dent</title>
+		<title level="j">Clin Oral Implants Res</title>
 		<imprint>
-			<biblScope unit="volume">112</biblScope>
-			<biblScope unit="page" from="387" to="389" />
-			<date type="published" when="2014">2014</date>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="53" to="59" />
+			<date type="published" when="2007">2007</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b8">
-	<analytic>
-		<title level="a" type="main">Management of labby ridge: A case series</title>
-		<author>
-			<persName><forename type="first">B</forename><forename type="middle">S</forename><surname>Saluja</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">K</forename><forename type="middle">S</forename><surname>Ghai</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">A</forename><surname>Mahajan</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">H</forename><surname>Bajaj</surname></persName>
-		</author>
-	</analytic>
 	<monogr>
-		<title level="j">J Adv Med Dent Scie Res</title>
+		<title/>
+		<author>
+			<persName><forename type="first">C</forename><surname>Do Nascimento</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Da Rocha Aguiar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Pita</surname></persName>
+		</author>
 		<imprint>
-			<biblScope unit="volume">3</biblScope>
-			<biblScope unit="page" from="109" to="115" />
-			<date type="published" when="2015">2015</date>
+			<pubPlace>Pedrazzi V, de</pubPlace>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b9">
-	<monogr>
-		<title level="m" type="main">Complete dentures-a dental practitioner handbook</title>
+	<analytic>
+		<title level="a" type="main">Oral biofilm formation on the titanium and zirconia substrates</title>
 		<author>
-			<persName><forename type="first">J</forename><surname>Hobkirk</surname></persName>
+			<persName><forename type="first">R</forename><forename type="middle">F</forename><surname>Albuquerque</surname></persName>
 		</author>
+		<author>
+			<persName><surname>Jr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">F</forename><surname>Ribeiro</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Microsc Res Tech</title>
 		<imprint>
-			<date type="published" when="1986">1986. 1993</date>
-			<publisher>Wright</publisher>
-			<biblScope unit="page" from="44" to="45" />
-			<pubPlace>Bristol</pubPlace>
+			<biblScope unit="volume">76</biblScope>
+			<biblScope unit="page" from="126" to="132" />
+			<date type="published" when="2013">2013</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b10">
 	<analytic>
-		<title level="a" type="main">Prosthodontics Rehabilitation Of A Maxillary Fibrous Ridge -A Case Report</title>
+		<title level="a" type="main">Bacterial adhesion on the titanium and zirconia abutment surfaces</title>
 		<author>
-			<persName><forename type="first">D</forename><surname>Singh</surname></persName>
+			<persName><forename type="first">C</forename><surname>Nascimento</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">R</forename><surname>Dable</surname></persName>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Pita</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">P</forename><surname>Tandon</surname></persName>
+			<persName><forename type="first">F</forename><forename type="middle">H</forename><surname>Fernandes</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">A</forename><surname>Jain</surname></persName>
+			<persName><forename type="first">V</forename><surname>Pedrazzi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Albuquerque</forename><surname>De</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">F</forename><surname>Junior</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">F</forename><surname>Ribeiro</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">TMU J. Dent</title>
+		<title level="j">Clin Oral Implants Res</title>
 		<imprint>
-			<biblScope unit="volume">1</biblScope>
-			<biblScope unit="issue">4</biblScope>
-			<biblScope unit="page" from="164" to="167" />
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="337" to="343" />
 			<date type="published" when="2014">2014</date>
 		</imprint>
 	</monogr>
@@ -347,238 +501,576 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 
 <biblStruct xml:id="b11">
 	<analytic>
-		<title level="a" type="main">Impression technique for maxillary ibrous ridge</title>
+		<title level="a" type="main">In vivo and in vitro biofilm formation on two different titanium implant surfaces</title>
 		<author>
-			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Watson</surname></persName>
+			<persName><forename type="first">R</forename><surname>Burgers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Gerlach</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Hahnel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Schwarz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Handel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Gosau</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Br Dent J</title>
+		<title level="j">Clin Oral Implants Res</title>
 		<imprint>
-			<biblScope unit="volume">128</biblScope>
-			<biblScope unit="issue">11</biblScope>
-			<biblScope unit="page">552</biblScope>
-			<date type="published" when="1970">1970</date>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="156" to="164" />
+			<date type="published" when="2010">2010</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b12">
 	<analytic>
-		<title level="a" type="main">Zuhaib-uddin M. Revisiting the &quot;window technique</title>
+		<title level="a" type="main">Early bacterial colonization and soft tissue health around zirconia and titanium abutments: an in vivo study in man</title>
 		<author>
-			<persName><forename type="first">H</forename><surname>Rashid</surname></persName>
+			<persName><forename type="first">L</forename><surname>Rimondini</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">A</forename><surname>Nas</surname></persName>
+			<persName><forename type="first">L</forename><surname>Cerroni</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Ahmed</surname></persName>
+			<persName><forename type="first">A</forename><surname>Carrassi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P ;</forename><surname>Torricelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Van Brakel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Cune</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Van Winkelhoff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>De Putter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Verhoeven</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W ;</forename><surname>Van Der Reijden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Van Loosdrecht</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Norde</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Zehnder</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">J Pak Dent Assoc</title>
+		<title level="j">Int J Oral Maxillofac Implants</title>
 		<imprint>
-			<biblScope unit="volume">24</biblScope>
-			<biblScope unit="issue">4</biblScope>
-			<biblScope unit="page" from="210" to="214" />
-			<date type="published" when="2015">2015</date>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="91" to="106" />
+			<date type="published" when="1990">2002. 2011. 1990</date>
 		</imprint>
 	</monogr>
+	<note>J Biomater Appl.</note>
 </biblStruct>
 
 <biblStruct xml:id="b13">
 	<analytic>
-		<title/>
+		<title level="a" type="main">Correlation between cell-surface hydrophobicity of Candida albicans and adhesion to buccal epithelial cells</title>
 		<author>
-			<persName><forename type="first">M</forename><surname>Kumarsundar</surname></persName>
+			<persName><forename type="first">B</forename><surname>Ener</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">D</forename><surname>Mallikarjuna</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">M</forename><surname>Ragher</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">V</forename><surname>Swetha</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">B</forename><surname>Deepthi</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Pradeep</surname></persName>
-		</author>
-		<author>
-			<persName><surname>Simpliied</surname></persName>
+			<persName><forename type="first">L</forename><forename type="middle">J</forename><surname>Douglas</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Dual Tray Impression Technique For Anterior Maxillary Flabby Ridge -A Clinical Report. Sch. Acad. J. Biosci</title>
+		<title level="j">FEMS Microbiol Lett</title>
 		<imprint>
-			<biblScope unit="volume">3</biblScope>
-			<biblScope unit="issue">2B</biblScope>
-			<biblScope unit="page" from="202" to="206" />
-			<date type="published" when="2015">2015</date>
+			<biblScope unit="volume">78</biblScope>
+			<biblScope unit="page" from="37" to="42" />
+			<date type="published" when="1992">1992</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b14">
 	<analytic>
-		<title level="a" type="main">Modiied impression technique for labby maxilla-A clinical report</title>
+		<title level="a" type="main">Influence of growth phase on adhesion kinetics of Escherichia coli D21g</title>
 		<author>
-			<persName><forename type="first">B</forename><surname>Muthukumar</surname></persName>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Walker</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">K</forename><surname>Deepak</surname></persName>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Hill</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Ahila</surname></persName>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Redman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Elimelech</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">SRM J Res Dent Sci</title>
+		<title level="j">Appl Environ Microbiol</title>
 		<imprint>
-			<biblScope unit="volume">3</biblScope>
-			<biblScope unit="issue">1</biblScope>
-			<biblScope unit="page" from="71" to="74" />
-			<date type="published" when="2012">2012</date>
+			<biblScope unit="volume">71</biblScope>
+			<biblScope unit="page" from="3093" to="3099" />
+			<date type="published" when="2005">2005</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b15">
 	<analytic>
-		<title level="a" type="main">Management of labby ridge in complete denture construction</title>
+		<title level="a" type="main">Forces involved in adhesion of Bacillus cereus spores to solid surfaces under different environmental conditions</title>
 		<author>
-			<persName><forename type="first">A</forename><surname>Finbarr</surname></persName>
+			<persName><forename type="first">U</forename><surname>Husmark</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Ronner</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Dent Update</title>
+		<title level="j">J Appl Bacteriol</title>
 		<imprint>
-			<biblScope unit="volume">32</biblScope>
-			<biblScope unit="page" from="524" to="528" />
-			<date type="published" when="2005">2005</date>
+			<biblScope unit="volume">69</biblScope>
+			<biblScope unit="page" from="557" to="562" />
+			<date type="published" when="1990">1990</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">The effect of charge regulation on cell adhesion to substrates: salt-induced repulsion</title>
+		<author>
+			<persName><forename type="first">Dan</forename><forename type="middle">N</forename></persName>
+		</author>
+	</analytic>
 	<monogr>
-		<title level="m" type="main">A clinical guide to complete denture prosthodontics</title>
-		<author>
-			<persName><forename type="first">J</forename><surname>Mccord</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">A</forename><surname>Grant</surname></persName>
-		</author>
+		<title level="j">Colloids Surf B Biointerfaces</title>
 		<imprint>
-			<date type="published" when="2000">2000</date>
-			<publisher>British Dental Association</publisher>
-			<biblScope unit="page" from="10" to="21" />
-			<pubPlace>London</pubPlace>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="41" to="47" />
+			<date type="published" when="2003">2003</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b17">
 	<analytic>
-		<title level="a" type="main">Management of labby ridge: A case report</title>
+		<title level="a" type="main">Influence of growth phase on bacterial cell electrokinetic characteristics examined by soft particle electrophoresis theory</title>
 		<author>
-			<persName><forename type="first">A</forename><surname>Benaiffer</surname></persName>
+			<persName><forename type="first">H</forename><surname>Hayashi</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">A</forename><surname>Surendra</surname></persName>
+			<persName><forename type="first">H</forename><surname>Seiki</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">M</forename><surname>Anup</surname></persName>
+			<persName><forename type="first">S</forename><surname>Tsuneda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Hirata</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Sasaki</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Ind J Dent Sci</title>
+		<title level="j">J Colloid Interface Sci</title>
 		<imprint>
-			<biblScope unit="volume">3</biblScope>
-			<biblScope unit="issue">2</biblScope>
-			<biblScope unit="page" from="20" to="22" />
-			<date type="published" when="2011">2011</date>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="565" to="568" />
+			<date type="published" when="2003">2003</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b18">
 	<analytic>
-		<title level="a" type="main">Management of labby ridge: A case report</title>
+		<title level="a" type="main">Partial biochemical characterization of cell surface hydrophobicity and hydrophilicity of Candida albicans</title>
 		<author>
-			<persName><forename type="first">A</forename><surname>Benaiffer</surname></persName>
+			<persName><forename type="first">K</forename><forename type="middle">C</forename><surname>Hazen</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">A</forename><surname>Surendra</surname></persName>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Lay</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">M</forename><surname>Anup</surname></persName>
+			<persName><forename type="first">B</forename><forename type="middle">W</forename><surname>Hazen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Fu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Murthy</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Ind J Dent Sci</title>
+		<title level="j">Infect Immun</title>
 		<imprint>
-			<biblScope unit="volume">3</biblScope>
-			<biblScope unit="issue">2</biblScope>
-			<biblScope unit="page" from="20" to="22" />
-			<date type="published" when="2011">2011</date>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="page" from="3469" to="3476" />
+			<date type="published" when="1990">1990</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b19">
-	<monogr>
-		<title level="m" type="main">Problems and solutions in complete denture prosthodontics</title>
+	<analytic>
+		<title level="a" type="main">Estimation of the surface free energy of polymers</title>
 		<author>
-			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Lamb</surname></persName>
+			<persName><forename type="first">D</forename><forename type="middle">K</forename><surname>Owens</surname></persName>
 		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Wendt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Appl Polym Sci</title>
 		<imprint>
-			<date type="published" when="1993">1993</date>
-			<publisher>Quintessence</publisher>
-			<biblScope unit="page" from="57" to="60" />
-			<pubPlace>London</pubPlace>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="1741" to="1747" />
+			<date type="published" when="1969">1969</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b20">
 	<analytic>
-		<title level="a" type="main">A review of prosthodontic management of ibrous ridges</title>
+		<title level="a" type="main">Microbial surface thermodynamics and applications</title>
 		<author>
-			<persName><forename type="first">R</forename><surname>Crawford</surname></persName>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Strevett</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">A</forename><surname>Walmsley</surname></persName>
+			<persName><forename type="first">G</forename><surname>Chen</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Br Dent J</title>
+		<title level="j">Res Microbiol</title>
 		<imprint>
-			<biblScope unit="volume">199</biblScope>
-			<biblScope unit="issue">11</biblScope>
-			<biblScope unit="page" from="740" to="741" />
-			<date type="published" when="2005">2005</date>
+			<biblScope unit="volume">154</biblScope>
+			<biblScope unit="page" from="329" to="335" />
+			<date type="published" when="2003">2003</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b21">
 	<analytic>
-		<title level="a" type="main">Two impression methods for mobile ibrous ridges</title>
+		<title level="a" type="main">Implications of surface and bulk properties of abutment implants and their degradation in the health of periodontal tissue</title>
 		<author>
-			<persName><forename type="first">J</forename><surname>Osborne</surname></persName>
+			<persName><forename type="first">E</forename><forename type="middle">D</forename><surname>De Avila</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>De Molon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dmp</forename><surname>Spolidorio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">D</forename><surname>Mollo</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Br Dent J</title>
+		<title level="j">Materials</title>
 		<imprint>
-			<biblScope unit="volume">117</biblScope>
-			<biblScope unit="page" from="392" to="394" />
-			<date type="published" when="1964">1964</date>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="5951" to="5966" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">The influence of surface roughness and surface-free energy on supra-and subgingival plaque formation in man. A review of the literature</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">D</forename><surname>De Avila</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>De Molon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Vergani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">D</forename><surname>Mollo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Salih</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>; Quirynen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Bollen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Periodontol</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="1" to="14" />
+			<date type="published" when="1995">2014. 1995</date>
+		</imprint>
+	</monogr>
+	<note>Materials</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Palomari Spolido ´rio DM, de Assis Mollo Junior F. Structural and quantitative analysis of a mature anaerobic biofilm on differnet implant abutment surfaces</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">N</forename><surname>Anaraki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Shahabi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Chiniforush</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Nokhbatolfoghahaei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Assadian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Yousefi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Prosthet Dent</title>
+		<editor>
+			<persName><forename type="first">E</forename><forename type="middle">D</forename><surname>Avila</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Avila-Campos</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Vergani</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+	<note>Lasers Med Sci. In press</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Bacteria-surface interactions</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">H</forename><surname>Tuson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Weibel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Soft Matter</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="4368" to="4380" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">What drives bacteria to produce a biofilm?</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">K</forename><surname>Jefferson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">FEMS Microbiol Lett</title>
+		<imprint>
+			<biblScope unit="volume">236</biblScope>
+			<biblScope unit="page" from="163" to="173" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<title level="m" type="main">The hydrophilicity and hydrophobicity of clayminerals</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Vanoss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">F</forename><surname>Giese</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1995">1995</date>
+			<publisher>Clay Clay Miner</publisher>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="page" from="474" to="477" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Structures of gram-negative cell walls and their derived membrane vesicles</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Beveridge</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Bacteriol</title>
+		<imprint>
+			<biblScope unit="volume">181</biblScope>
+			<biblScope unit="page" from="4725" to="4733" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Binding of a paramagnetic metal cation to Escherichia coli K-12 outer-membrane vesicles</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">G</forename><surname>Ferris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Beveridge</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">FEMS Microbiol Lett</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="43" to="46" />
+			<date type="published" when="1984">1984</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Characterization of the cell surface properties of drinking water pathogens by microbial adhesion to hydrocarbon and electrophoretic mobility measurements</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Popovici</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">P</forename><surname>White</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hoelle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">K</forename><surname>Kinkle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Lytle</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Colloids Surf B Biointerfaces</title>
+		<imprint>
+			<biblScope unit="volume">118</biblScope>
+			<biblScope unit="page" from="126" to="132" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Effect of O-side-chain-lipopolysaccharide chemistry on metal binding</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Langley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Beveridge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Busscher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Rinastiti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Siswomihardjo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">C</forename><surname>Van Der Mei</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Appl Environ Microbiol</title>
+		<imprint>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="page" from="657" to="665" />
+			<date type="published" when="1999">1999. 2010</date>
+		</imprint>
+	</monogr>
+	<note>J Dent Res</note>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Influence of saliva substitute films on initial Streptococcus mutans adhesion to enamel and dental substrata</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Hahnel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Rosentritt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Handel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Burgers</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Dent</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="977" to="983" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Effect of material characteristics and/or surface topography on biofilm development</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Teughels</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Van Assche</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Sliepen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Quirynen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Oral Implants Res</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">Suppl 2</biblScope>
+			<biblScope unit="page" from="68" to="81" />
+			<date type="published" when="2006">2006</date>
 		</imprint>
 	</monogr>
 </biblStruct>

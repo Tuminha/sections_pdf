@@ -30,7 +30,7 @@ except requests.exceptions.RequestException as e:
 # Wait for the GROBID service to start
 time.sleep(10)
 
-pdf_path = '/Users/franciscoteixeirabarbosa/projects/test/sections_pdf/data/IMPACT_OF_VARIOUS_IMPRESSION_TECHNIQUES.pdf'
+pdf_path = '/Users/franciscoteixeirabarbosa/projects/test/sections_pdf/data/Impact_of_Physical_Chemical_Characterist.pdf'
 
 # Send the PDF to GROBID
 with open(pdf_path, 'rb') as f:
@@ -51,9 +51,12 @@ ns = {'tei': 'http://www.tei-c.org/ns/1.0'}
 tree = ET.parse('output.xml')
 root = tree.getroot()
 
-def extract_results(xml_root, ns):
+def extract_results(xml_root, namespace):
+    # Flag to indicate whether we are in the 'results' section
+    in_results = False
+
     # Find all 'div' elements in the XML
-    for div in xml_root.findall('.//tei:div', ns):
+    for div in xml_root.findall('.//tei:div', namespace):
         # Get the title of the section
         title = div.find('tei:head', ns)
         if title is not None:
@@ -62,7 +65,18 @@ def extract_results(xml_root, ns):
             # Check if the title contains 'results'
             if 'results' in title:
                 print('Results section found:\n')
-                print(div.find('tei:p', ns).text)  # Print the paragraph text
+                in_results = True
+
+            # If we are in the 'results' section and encounter a 'div' with 'discussion' or 'conclusion' in the title, stop printing
+            if in_results and ('discussion' in title or 'conclusion' in title):
+                break
+
+        if in_results:
+            # Recursively find all 'p' elements in the 'div'
+            paragraphs = div.findall('.//tei:p', ns)
+            for paragraph in paragraphs:
+                if paragraph is not None and paragraph.text:  # Check if the paragraph exists and has text
+                    print(paragraph.text)  # Print the paragraph text
 
 def extract_tables(xml_root, namespace):
     # Find all 'figure' elements in the XML
