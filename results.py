@@ -32,8 +32,7 @@ except requests.exceptions.RequestException as e:
 time.sleep(10)
 
 PDF_PATH = (
-    '/Users/franciscoteixeirabarbosa/projects/test/sections_pdf/data/'
-    'Implant stability change and osseointegration speed of immediately loaded photofunctionalized implants.pdf'
+    '/Users/franciscoteixeirabarbosa/projects/test/sections_pdf/data/Implant survival rates after osteotome_mediated maxillary sinus augmentation_ a systematic review.pdf'
 )
 
 # Send the PDF to GROBID
@@ -93,8 +92,16 @@ def extract_results(xml_root: ET.Element, namespace: dict) -> None:
             # Recursively find all 'p' elements in the 'div'
             paragraphs = div.findall('.//tei:p', ns)
             for paragraph in paragraphs:
-                if paragraph is not None and paragraph.text:  # Check if the paragraph exists and has text
-                    print(paragraph.text)  # Print the paragraph text
+                if paragraph is not None:  # Check if the paragraph exists
+                    # Print the paragraph text
+                    print(paragraph.text, end='')  # Don't add a newline after the paragraph text
+
+                    # Print the text of any 'ref' elements within the paragraph
+                    for ref in paragraph.findall('.//tei:ref', ns):
+                        if ref.text:
+                            print(ref.text, end='')  # Don't add a newline after the reference text
+
+                    print()  # Add a newline after the paragraph
 
 def extract_tables(xml_root: Any, namespace: Any) -> None:
     """

@@ -1,8 +1,12 @@
+"""
+This module is used to interact with the GROBID service, send a PDF to it, 
+and process the XML output to find and print specific sections.
+"""
+
 import subprocess
 import time
-import os
-import requests
 import xml.etree.ElementTree as ET
+import requests
 
 # Path to the GROBID service
 grobid_path = '/Users/franciscoteixeirabarbosa/projects/test/sections_pdf/grobid'
@@ -17,10 +21,10 @@ pdf_path = '/Users/franciscoteixeirabarbosa/projects/test/sections_pdf/data/IMPA
 
 # Send the PDF to GROBID
 with open(pdf_path, 'rb') as f:
-    response = requests.post('http://localhost:8070/api/processFulltextDocument', files={'input': f})
+    response = requests.post('http://localhost:8070/api/processFulltextDocument', files={'input': f}, timeout=10)
 
 # Save the XML output
-with open('output.xml', 'w') as f:
+with open('output.xml', 'w', encoding='utf-8') as f:
     f.write(response.text)
 
 # Parse the XML output
