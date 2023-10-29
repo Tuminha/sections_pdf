@@ -99,12 +99,27 @@ def extract_year(xml_root: ET.Element, namespace: dict) -> None:
     Returns:
     None
     """
-    date = xml_root.find('.//tei:imprint/tei:date', namespaces=namespace)
-    if date is not None and 'when' in date.attrib:
-        year = date.attrib['when']
-        print(f'Year of Publication: {year}')
-    else:
-        print('Year of Publication: Unknown')
+    date_element = xml_root.find('.//tei:monogr/tei:imprint/tei:date', namespaces=namespace)
+    
+    if date_element is not None:
+        # Check if 'when' attribute is present
+        year = date_element.attrib.get('when', None)
+        if year:
+            print(f'Year of Publication: {year}')
+            return
+        
+        # If 'when' attribute is not present, use element text
+        year_text = date_element.text
+        if year_text is not None:
+            year_match = re.search(r'\d{4}', year_text)
+            if year_match:
+                print(f'Year of Publication: {year_match.group()}')
+                return
+
+    print('Year of Publication: Unknown')
+
+# Call the function
+extract_year(root, ns)
 
 def extract_abstract(xml_root: ET.Element, namespace: dict) -> None:
     """
@@ -128,3 +143,4 @@ extract_year(root, ns)
 extract_abstract(root, ns)
 
 # New line
+
