@@ -1,14 +1,13 @@
 # Here we will create a function extract_introduction to extract the introduction from the XML root.
 
 # First import the necessary modules
-import xml.etree.ElementTree as ET
-import re
-import requests
 import subprocess
 import time
+import xml.etree.ElementTree as ET
+import requests
 
 # Path to the GROBID service
-grobid_path = '/Users/franciscoteixeirabarbosa/projects/test/sections_pdf/grobid'
+GROBID_PATH = '/Users/franciscoteixeirabarbosa/projects/test/sections_pdf/grobid'
 
 
 # First check if the GROBID service is already running, and if it already running do not start it again
@@ -19,13 +18,13 @@ try:
         print("GROBID service is already running.")
     else:
         # Start the GROBID service
-        p = subprocess.Popen(['./gradlew', 'run', '--stacktrace'], cwd=grobid_path)
+        p = subprocess.Popen(['./gradlew', 'run', '--stacktrace'], cwd=GROBID_PATH)
         # Wait for the GROBID service to start
         time.sleep(10)
 except requests.exceptions.RequestException as e:
     # If the request fails, it means the service is not running
     print("GROBID service is not running. Starting it now...")
-    p = subprocess.Popen(['./gradlew', 'run', '--stacktrace'], cwd=grobid_path)
+    p = subprocess.Popen(['./gradlew', 'run', '--stacktrace'], cwd=GROBID_PATH)
     # Wait for the GROBID service to start
     time.sleep(10)
 
@@ -33,7 +32,7 @@ except requests.exceptions.RequestException as e:
 time.sleep(10)
 
 PDF_PATH = (
-    '/Users/franciscoteixeirabarbosa/projects/test/sections_pdf/data/Implant survival rates after osteotome_mediated maxillary sinus augmentation_ a systematic review.pdf'
+    '/Users/franciscoteixeirabarbosa/projects/test/sections_pdf/data/Implant_survival_rates_after_osteotome_mediated_maxillary_sinus_augmentation_a_systematic_review.pdf'
 )
 
 # Send the PDF to GROBID

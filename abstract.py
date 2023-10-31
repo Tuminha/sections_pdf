@@ -1,13 +1,15 @@
+"""
+This module is used for parsing XML files, managing subprocesses, and handling time-related functions.
+"""
+
+import re
 import xml.etree.ElementTree as ET
 import subprocess
 import time
-import xml.etree.ElementTree as ET
-from typing import Any
 import requests
-import re
 
 # Path to the GROBID service
-grobid_path = '/Users/franciscoteixeirabarbosa/projects/test/sections_pdf/grobid'
+GROBID_PATH = '/Users/franciscoteixeirabarbosa/projects/test/sections_pdf/grobid'
 
 
 # First check if the GROBID service is already running, and if it already running do not start it again
@@ -18,13 +20,13 @@ try:
         print("GROBID service is already running.")
     else:
         # Start the GROBID service
-        p = subprocess.Popen(['./gradlew', 'run', '--stacktrace'], cwd=grobid_path)
+        p = subprocess.Popen(['./gradlew', 'run', '--stacktrace'], cwd=GROBID_PATH)
         # Wait for the GROBID service to start
         time.sleep(10)
 except requests.exceptions.RequestException as e:
     # If the request fails, it means the service is not running
     print("GROBID service is not running. Starting it now...")
-    p = subprocess.Popen(['./gradlew', 'run', '--stacktrace'], cwd=grobid_path)
+    p = subprocess.Popen(['./gradlew', 'run', '--stacktrace'], cwd=GROBID_PATH)
     # Wait for the GROBID service to start
     time.sleep(10)
 
