@@ -85,5 +85,9 @@ def extract_introduction(xml_root: ET.Element, namespace: dict) -> None:
                     print(f'\n{section}:\n')
                     
                     # Get the paragraphs of the section
-                    paragraphs = [p.text for p in div.findall('.//tei:p', namespace) if p.text]
-                    print('\n'.join(paragraphs))
+                    paragraphs = [''.join(p.itertext()) for p in div.findall('.//tei:p', namespace)]
+                    full_text = ' '.join(paragraphs)
+                    print(full_text)
+
+# Call the function
+extract_introduction(root, ns)
