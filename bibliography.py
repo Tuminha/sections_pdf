@@ -17,7 +17,12 @@ import time
 import xml.etree.ElementTree as ET
 import requests
 
-# First check if the GROBID service is already running, and if it already running do not start it again
+# Path to the GROBID service
+GROBID_PATH = '/Users/franciscoteixeirabarbosa/projects/test/sections_pdf/grobid'
+
+
+# First check if the GROBID service is already running 
+# and if it already running do not start it again
 # Check if the GROBID service is already running
 try:
     response = requests.get('http://localhost:8070/api/isalive', timeout=10)
@@ -74,22 +79,20 @@ def extract_bibliography(xml_root: ET.Element, namespace: dict) -> None:
         if analytic is not None:
             title = analytic.find('tei:title', namespace)
             authors = analytic.findall('tei:author', namespace)
+            author_names = []
             for author in authors:
                 persName = author.find('tei:persName', namespace)
                 if persName is not None:
                     author_surname = persName.find('tei:surname', namespace)
                     if author_surname is not None:
-                        author_name = author_surname.text
-                    else:
-                        author_name = "surname not found"
-                else:
-                    author_name = "persName not found"
+                        author_names.append(author_surname.text)
 
         if monogr is not None:
-            title = monogr.find('tei:title', namespace)
+            publication = monogr.find('tei:title', namespace)
             date = monogr.find('tei:imprint/tei:date', namespace)
-            if title is not None and date is not None:
-                print(f"Title: {title.text}, Author: {author_name}, Published in: {title.text}, Date: {date.get('when')}")
+
+        if title is not None and publication is not None and date is not None:
+            print(f"Title: {title.text}, Authors: {', '.join(author_names)}, Published in: {publication.text}, Date: {date.get('when')}")
 
 # Extract the bibliography
 extract_bibliography(root, ns)
