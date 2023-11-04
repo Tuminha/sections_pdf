@@ -98,36 +98,52 @@ root = tree.getroot()
 def extract_material_and_methods(xml_root: ET.Element, namespace: dict) -> None:
     """
     This function extracts the 'Materials and Methods' section and its subheadings from the XML root.
+
+    Parameters:
+    xml_root (ET.Element): The root of the XML document.
+    namespace (dict): The namespace for the XML document.
+
+    Returns:
+    None
     """
+    # Flag to indicate whether we are in the 'Materials and Methods' section
+    in_material_and_methods = False
+
     # Find all 'div' elements in the XML
     for div in xml_root.findall('.//tei:div', namespace):
         # Get the title of the section
-        title = div.find('.//tei:head', namespace)
+        title = div.find('tei:head', namespace)
         if title is not None:
-            # If the title of the section is 'Materials and Methods' or any derivative name of 'Materials and Methods',
-            # print the title and the text of the section
-            if title.text in section_mappings['Methods']:
-                print_section(div, namespace)
+            title = title.text.strip().lower()  # Remove leading/trailing whitespace and convert to lower case
 
-def print_section(div: ET.Element, namespace: dict) -> None:
-    """
-    This function prints the title and the text of a section and its subheadings.
-    """
-    # Print the title of the section
-    title = div.find('.//tei:head', namespace)
-    if title is not None:
-        print(title.text)
+            # Check if the title contains 'Materials and Methods'
+            if any(name.lower() in title for name in section_mappings['Methods']):
+                print('Materials and Methods section found:\n')
+                in_material_and_methods = True
 
-    # Print the text of the section
-    for p in div.findall('.//tei:p', namespace):
-        print(p.text)
-        for ref in p.findall('.//tei:ref', namespace):
-            print(ref.text)
-    print()
+            # If we are in the 'Materials and Methods' section and encounter a 'div' with 'Results' or 'Discussion' in the title, stop printing
+            if in_material_and_methods and ('results' in title or 'discussion' in title):
+                break
 
-    # Recursively print the title and the text of the subheadings
-    for sub_div in div.findall('.//tei:div', namespace):
-        print_section(sub_div, namespace)
+        if in_material_and_methods:
+            # Print the title of the subsection
+            if title and not any(name.lower() in title for name in section_mappings['Methods']):
+                print(title)
+
+            # Recursively find all 'p' elements in the 'div'
+            paragraphs = div.findall('.//tei:p', namespace)
+            for paragraph in paragraphs:
+                if paragraph is not None:  # Check if the paragraph exists
+                    # Print the paragraph text
+                    print(paragraph.text, end='')  # Don't add a newline after the paragraph text
+
+                    # Print the text of any 'ref' elements within the paragraph
+                    for ref in paragraph.findall('.//tei:ref', namespace):
+                        if ref.text:
+                            print(ref.text, end='')  # Don't add a newline after the reference text
+
+                    print()  # Add a newline after the paragraph
+
 
 # Call the extract_material_and_methods function
 extract_material_and_methods(root, ns)
