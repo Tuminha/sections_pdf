@@ -22,7 +22,7 @@ try:
         print("GROBID service is already running.")
     else:
         # Start the GROBID service
-        p = subprocess.Popen(['./gradlew', 'run', '--stacktrace'], cwd=GROBID_PATH)
+        grobid_process = subprocess.Popen(['./gradlew', 'run', '--stacktrace'], cwd=GROBID_PATH)
         # Wait for the GROBID service to start
         time.sleep(10)
 except requests.exceptions.RequestException as e:
@@ -71,14 +71,15 @@ def extract_discussion(xml_root: ET.Element, namespace: dict) -> None:
         if title in ['discussion', 'discussion and conclusion', 'discussion and conclusions', 'discussion and future work', 'discussion and future directions', 'discussion and future perspectives', 'discussion and future research', 'discussion and implications', 'discussion and limitations', 'discussion and outlook', 'discussion and practical implications', 'discussion and recommendations', 'discussion and summary', 'discussion and conclusions', 'discussion/conclusion', 'discussion/conclusions', 'discussion/conclusions and future work', 'discussion/conclusions and future directions', 'discussion/conclusions and future perspectives', 'discussion/conclusions and future research', 'discussion/conclusions and implications', 'discussion/conclusions and limitations', 'discussion/conclusions and outlook', 'discussion/conclusions and practical implications', 'discussion/conclusions and recommendations', 'discussion/conclusions and summary', 'discussion/conclusions and summary and future work', 'discussion/conclusions/implications', 'discussion/conclusions/recommendations', 'discussion/summary', 'discussion/summary and conclusion', 'discussion/summary and conclusions', 'discussion/summary and future work', 'discussion/summary and future directions', 'discussion/summary and future perspectives', 'discussion/summary and future research', 'discussion/summary and implications', 'discussion/summary and limitations', 'discussion/summary and outlook', 'discussion/summary and practical implications', 'discussion/summary and recommendations', 'discussion/summary and summary', 'discussion/summary/conclusion', 'discussion/summary/conclusions', 'discussion/summary/recommendations']:
             print(f'Processing section: {title}')  # Debug print
             # Find all 'p' elements in the 'div'
-            for p in div.findall('tei:p', namespace):
+            for paragraph in div.findall('tei:p', namespace):
                 # Get the paragraph text
-                paragraph_text = p.text if p.text is not None else ''
+                paragraph_text = paragraph.text if paragraph.text is not None else ''
                 paragraph_text = paragraph_text.strip()  # Remove leading/trailing
                 # Print the paragraph text
                 print(paragraph_text)
                 # Find all 'ref' elements in the 'p'
-                for ref in p.findall('tei:ref', namespace):
+                # Find all 'ref' elements in the 'p'
+                for ref in paragraph.findall('tei:ref', namespace):
                     # Get the text of the 'ref' element
                     ref_text = ref.text if ref.text is not None else ''
                     ref_text = ref_text.strip()
@@ -91,3 +92,7 @@ def extract_discussion(xml_root: ET.Element, namespace: dict) -> None:
 
 # Extract the discussion
 extract_discussion(root, ns)
+
+#New line
+
+#

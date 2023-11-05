@@ -6,7 +6,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 	<teiHeader xml:lang="en">
 		<fileDesc>
 			<titleStmt>
-				<title level="a" type="main">Implant Stability Change and Osseointegration Speed of Immediately Loaded Photofunctionalized Implants</title>
+				<title level="a" type="main">Implant Survival Rates after Osteotome-Mediated Maxillary Sinus Augmentation: A Systematic Reviewc id_399 159..168</title>
 			</titleStmt>
 			<publicationStmt>
 				<publisher/>
@@ -15,66 +15,113 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 			<sourceDesc>
 				<biblStruct>
 					<analytic>
-						<author>
-							<persName><roleName>DDS</roleName><forename type="first">Senichi</forename><surname>Suzuki</surname></persName>
+						<author role="corresp">
+							<persName><roleName>BSc</roleName><forename type="first">Massimo</forename><forename type="middle">Del</forename><surname>Fabbro</surname></persName>
+							<email>massimo.delfabbro@unimi.it</email>
 							<affiliation key="aff0">
-								<orgName type="department" key="dep1">Director, Lion Implant Center</orgName>
-								<orgName type="department" key="dep2">Department of Hospital Administration</orgName>
-								<orgName type="department" key="dep3">The Weintraub Center for Reconstructive Biotechnology</orgName>
-								<orgName type="department" key="dep4">Division of Advanced Prosthodontics</orgName>
-								<orgName type="institution">Juntendo University School of Medicine</orgName>
+								<orgName type="department" key="dep1">Researcher</orgName>
+								<orgName type="department" key="dep2">Department of Health Technologies</orgName>
+								<orgName type="department" key="dep3">Research Center for Oral Health (CRSO)</orgName>
+								<orgName type="institution" key="instit1">IRCCS Istituto Ortopedico Galeazzi</orgName>
+								<orgName type="institution" key="instit2">Università degli Studi di Milano</orgName>
 								<address>
-									<settlement>Kanagawa, Tokyo</settlement>
-									<country>Japan. †Professor, Japan. ‡Professor</country>
+									<settlement>Milan</settlement>
+									<country key="IT">Italy</country>
 								</address>
 							</affiliation>
 							<affiliation key="aff1">
-								<orgName type="department">School of Dentistry</orgName>
-								<orgName type="institution">University of California</orgName>
+								<orgName type="institution">Università degli Studi di Milano</orgName>
 								<address>
-									<settlement>Los Angeles, Los Angeles</settlement>
-									<region>CA</region>
+									<settlement>Milan</settlement>
+									<country key="IT">Italy</country>
 								</address>
 							</affiliation>
 						</author>
 						<author>
-							<persName><roleName>MD</roleName><forename type="first">Hiroyuki</forename><surname>Kobayashi</surname></persName>
-						</author>
-						<author role="corresp">
-							<persName><roleName>DDS</roleName><forename type="first">Takahiro</forename><surname>Ogawa</surname></persName>
-							<email>togawa@dentistry.ucla.edu</email>
-						</author>
-						<author>
+							<persName><roleName>DDS</roleName><forename type="first">Stefano</forename><surname>Corbella</surname></persName>
 							<affiliation key="aff2">
-								<orgName type="department" key="dep1">Jerry Weintraub Center for Reconstructive Biotechnology</orgName>
-								<orgName type="department" key="dep2">Division of Advanced Prosthodontics</orgName>
-								<orgName type="department" key="dep3">Biomaterials and Hospital Dentistry</orgName>
-								<orgName type="department" key="dep4">School of Dentistry</orgName>
-								<orgName type="laboratory">Laboratory for Bone and Implant Sciences (LBIS)</orgName>
-								<orgName type="institution">University of California</orgName>
+								<orgName type="department" key="dep1">Specialisation School in Oral Surgery Student</orgName>
+								<orgName type="department" key="dep2">Department of Health Technologies</orgName>
+								<orgName type="institution" key="instit1">IRCCS Istituto Orto-pedico Galeazzi</orgName>
+								<orgName type="institution" key="instit2">Università degli Studi di Milano</orgName>
 								<address>
-									<addrLine>The Jane, 10833 Le Conte Avenue (B3-081 CHS)</addrLine>
-									<postBox>Box 951668</postBox>
-									<postCode>90095-1668</postCode>
-									<settlement>Los Angeles, Los Angeles</settlement>
-									<region>CA</region>
-									<country>Phone</country>
+									<settlement>Milan</settlement>
+									<country key="IT">Italy</country>
 								</address>
 							</affiliation>
 						</author>
-						<title level="a" type="main">Implant Stability Change and Osseointegration Speed of Immediately Loaded Photofunctionalized Implants</title>
+						<author>
+							<persName><roleName>DDS; ‡</roleName><forename type="first">Tommaso</forename><surname>Weinstein</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">Department of Health Technologies</orgName>
+								<orgName type="institution" key="instit1">IRCCS Istituto Ortope-dico Galeazzi</orgName>
+								<orgName type="institution" key="instit2">Università degli Studi di Milano</orgName>
+								<address>
+									<settlement>Milan</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>BMT; §</roleName><forename type="first">Valentina</forename><surname>Ceresoli</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department" key="dep1">Department of Health Technologies</orgName>
+								<orgName type="department" key="dep2">Department of Health Technologies</orgName>
+								<orgName type="institution" key="instit1">IRCCS Istituto Ortope-dico Galeazzi</orgName>
+								<orgName type="institution" key="instit2">Università degli Studi di Milano</orgName>
+								<address>
+									<settlement>Milan</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff5">
+								<orgName type="department">Center for Oral Health (CRSO)</orgName>
+								<orgName type="institution" key="instit1">IRCCS Istituto Orto-pedico Galeazzi</orgName>
+								<orgName type="institution" key="instit2">Università degli Studi di Milano</orgName>
+								<address>
+									<settlement>Milan</settlement>
+									<country>Italy, and Research</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff6">
+								<orgName type="institution">Università degli Studi di Milano</orgName>
+								<address>
+									<settlement>Milan</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>MD, DDS ¶</roleName><forename type="first">Silvio</forename><surname>Taschieri</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff7">
+								<orgName type="department">Department of Health Technologies</orgName>
+								<orgName type="institution" key="instit1">IRCCS Istituto Ortopedico Galeazzi</orgName>
+								<orgName type="institution" key="instit2">University of Milan</orgName>
+								<address>
+									<addrLine>Via Riccardo Galeazzi, 4</addrLine>
+									<postCode>20161</postCode>
+									<settlement>Milan</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Implant Survival Rates after Osteotome-Mediated Maxillary Sinus Augmentation: A Systematic Reviewc id_399 159..168</title>
 					</analytic>
 					<monogr>
-						<idno type="ISSN">1056-6163/13/02205-481</idno>
+						<imprint>
+							<date/>
+						</imprint>
 					</monogr>
-					<idno type="MD5">E56AB2A5E23B96C9595B61797071CC74</idno>
-					<idno type="DOI">10.1097/ID.0b013e31829deb62</idno>
+					<idno type="MD5">2A77E045078AD472EE41371D61F3456D</idno>
+					<idno type="DOI">10.1111/j.1708-8208.2011.00399.x</idno>
 				</biblStruct>
 			</sourceDesc>
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.0-SNAPSHOT" ident="GROBID" when="2023-11-04T19:24+0000">
+				<application version="0.8.0-SNAPSHOT" ident="GROBID" when="2023-11-05T20:24+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -83,1033 +130,1118 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<profileDesc>
 			<textClass>
 				<keywords>
-					<term>ultraviolet</term>
-					<term>titanium</term>
-					<term>superhydrophilic</term>
-					<term>hydrocarbon</term>
-					<term>super osseointegration</term>
+					<term>atrophic maxilla</term>
+					<term>dental implants</term>
+					<term>maxillary sinus</term>
+					<term>osteotome</term>
+					<term>sinus lift</term>
 				</keywords>
 			</textClass>
 			<abstract>
-<div xmlns="http://www.tei-c.org/ns/1.0"><p>reported in literature for various asreceived implants after a longer healing time of 2 to 6 months. No stability dip was observed for photofunctionalized implants regardless of the initial ISQ values. The OSI for photofunctionalized implants was 6.3 and 3.1 when their initial ISQ was 65 to 70 and 71 to 75, respectively, whereas the OSI values for asreceived implants calculated from literature ranged from -3.0 to 1.17 with an average of -0.10.</p><p>Conclusions: Photofunctionalization accelerated and enhanced osseointegration of dental implants, providing novel and practical avenues for further advancement in implant therapy.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Purpose:</head><p>The aim of the present study was to systematically evaluate the implant survival rate after osteotome-mediated maxillary sinus augmentation with or without using grafting materials.</p><p>Materials and Methods: MEDLINE database was searched using a combination of specific search terms. Furthermore, a hand searching of the relevant journals and of the bibliographies of reviews was performed. Prospective and retrospective clinical studies with at least 20 patients treated by osteotome-mediated sinus floor elevation were included.</p><p>Results: Nineteen studies were selected for data analysis. A total of 1,822 patients, accounting for 3,131 implants were considered. Mean weighted cumulative implant survival at 1, 2, 3, and 5 years was estimated as 98.12%, 97.40%, 96.75%, and 95.81%, respectively. No significant difference was found in relation to the use of grafting material nor in relation to implant length. Overall implant survival was 92.7% for 331 implants placed in &lt;5 mm ridge height and 96.9% for 2,525 implants inserted in 35 mm ridge height. The difference was significant (p = .0003).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusions:</head><p>The transalveolar sinus augmentation technique could be a viable treatment in case of localized atrophy in the posterior maxilla even in case of minimal residual bone height. The prognosis can be more favorable when the residual ridge is at least 5 mm high.</p></div>
 			</abstract>
 		</profileDesc>
 	</teiHeader>
 	<text xml:lang="en">
 		<body>
-<div xmlns="http://www.tei-c.org/ns/1.0"><head>P</head><p>hotofunctionalization of titanium implants, the comprehensive physicochemical and biological effects of ultraviolet (UV)-light treatment, has earned considerable interest and attention in the fields of titanium science, biomaterials research, and implant therapy. <ref type="bibr" target="#b0">[1]</ref><ref type="bibr" target="#b1">[2]</ref><ref type="bibr" target="#b2">[3]</ref><ref type="bibr" target="#b3">[4]</ref><ref type="bibr" target="#b4">[5]</ref><ref type="bibr" target="#b5">[6]</ref> Photofunctionalization of titanium implants increased the bone-implant contact from 55% to 98.2%, approximating an ideal level of 100%, in an animal model. <ref type="bibr" target="#b4">5</ref> Consequently, the strength of bone-implant integration increases more than 3 times at the early stage of healing. <ref type="bibr" target="#b4">5</ref> Subsequent in vivo animal studies further revealed the advantage of photofunctionalization to overcome challenging conditions. One of the studies showed that, when the implant was 40% shorter, the strength of bone-implant integration decreased by 50%. <ref type="bibr" target="#b6">7</ref> More importantly, when 40% shorter implants were photofunctionalized, the strength of boneimplant integration was even greater than that of standard-length implants.</p><p>Another study examined the effect of a periimplant gap in the cortical bone. <ref type="bibr" target="#b7">8</ref> The presence of a periimplant gap, equivalent to half the implant diameter, resulted in significant reduction of the strength of bone-implant integration by 70% compared with the implants with cortical support. When photofunctionalized implants were placed in the same gap healing, the strength of boneimplant integration increased to the same level of the implants with cortical support. Detailed microcomputed tomography analysis revealed that the effect can be explained by an enhanced osteomorphogenesis around photofunctionalized implants. <ref type="bibr" target="#b7">8</ref> There was robust osteogenesis around photofunctionalized implants, which initiated at the implant interface and rapidly spread to and connected with the surrounding bone, whereas osteogenesis around untreated implants initiated at the surface of the remote cortical bone and slowly approached the implant interface.</p><p>The mechanism underlying the biological effects of photofunctionalization includes 3 property changes on Objectives: This study evaluated the degree and rate of implant stability development for photofunctionalized dental implants in humans.</p><p>Materials and Methods: Thirtythree implants (7 patients) placed in the maxilla and immediate loaded were evaluated. Photofunctionalization was performed by treating implants with ultraviolet for 15 minutes immediately before placement. Implant stability was assessed by measuring the implant stability quotient (ISQ) weekly starting from implant placement up to 3 months. Osseointegration speed index (OSI), defined as ISQ increase per month, was also evaluated.</p><p>Results: The average ISQ for photofunctionalized implants at week 6 was 78.0, which was considerably higher than the average ISQ of 66.1, titanium surfaces. Photofunctionalization converts titanium surfaces from hydrophobic to superhydrophilic and from electronegative to electropositive. <ref type="bibr" target="#b1">2,</ref><ref type="bibr" target="#b2">3,</ref><ref type="bibr" target="#b4">5,</ref><ref type="bibr" target="#b8">[9]</ref><ref type="bibr" target="#b9">[10]</ref><ref type="bibr" target="#b10">[11]</ref><ref type="bibr" target="#b11">[12]</ref><ref type="bibr">[13]</ref> In addition, titanium surfaces, which are unavoidably covered by a significant amount of hydrocarbon during aging, can be cleaned by photofunctionalization. <ref type="bibr" target="#b1">2,</ref><ref type="bibr" target="#b2">3,</ref><ref type="bibr" target="#b4">5,</ref><ref type="bibr" target="#b12">14</ref> Because of these surface changes, the recruitment, attachment, retention, spread, proliferation, and the expression of functional phenotypes of osteogenic cells are remarkably increased. <ref type="bibr" target="#b0">1,</ref><ref type="bibr" target="#b4">5,</ref><ref type="bibr" target="#b7">8,</ref><ref type="bibr" target="#b10">11,</ref><ref type="bibr" target="#b11">12,</ref><ref type="bibr" target="#b13">15,</ref><ref type="bibr" target="#b14">16</ref> Among cellular behavior and function, this study paid attention to the potential benefits obtained by the enhanced attachment and retention of the cells. Mechanical stimulation, such as vibration of the titanium substrate, is known to detach a large number of cells from titanium surfaces even after the cells are adhered. <ref type="bibr" target="#b5">6,</ref><ref type="bibr" target="#b9">10,</ref><ref type="bibr" target="#b10">11,</ref><ref type="bibr" target="#b13">15,</ref><ref type="bibr" target="#b15">17</ref> When an immediate loading protocol is applied to dental implants, there is a reasonable concern that only a limited number of remnant cells could play a subsequent role in osseointegration. If photofunctionalization is proven to increase cellular attachment and retention, it may, in particular, help improve the process of osseointegration in immediately loaded dental implants.</p><p>Measuring implant stability at placement and its subsequent change during healing provides useful information for monitoring the process of osseointegration, planning a loading protocol, and evaluating various conditions of osseointegration on implant and host sides. <ref type="bibr" target="#b16">[18]</ref><ref type="bibr" target="#b18">[19]</ref><ref type="bibr" target="#b19">[20]</ref><ref type="bibr" target="#b20">[21]</ref><ref type="bibr" target="#b21">[22]</ref><ref type="bibr" target="#b22">[23]</ref><ref type="bibr" target="#b23">[24]</ref> The use of implant stability quotient (ISQ) values based on the resonance frequency analysis has been extensively reported for its reasonable reliability and validity. <ref type="bibr" target="#b19">20,</ref><ref type="bibr" target="#b24">[25]</ref><ref type="bibr" target="#b26">[26]</ref><ref type="bibr" target="#b28">[27]</ref><ref type="bibr" target="#b29">[28]</ref><ref type="bibr">[29]</ref><ref type="bibr" target="#b30">[30]</ref> Periimplant osteogenesis consists of postsurgical reaction and remodeling of the bone and the initiation and progression of de novo bone formation, which are represented as a reduction in primary stability and development of secondary stability, respectively. <ref type="bibr" target="#b31">[31]</ref><ref type="bibr" target="#b32">[32]</ref><ref type="bibr" target="#b33">[33]</ref> The rate of losing primary stability is known to be faster than the development of secondary stability and, thereby, causes a merging gap between the 2 processes to maintain overall implant stability, resulting in the occurrence of a stability dip <ref type="bibr" target="#b32">32,</ref><ref type="bibr" target="#b33">33</ref> (Fig. <ref type="figure" target="#fig_0">1</ref>). The stability dip, including the progressive reduction of overall stability when the initial stability is high, is considered difficult to eliminate with current implants, and in fact, ISQ values are adequately sensitive to detect the stability dip between weeks 1 and 8 after implant placement. <ref type="bibr" target="#b18">19,</ref><ref type="bibr" target="#b20">21,</ref><ref type="bibr" target="#b26">26,</ref><ref type="bibr" target="#b34">[34]</ref><ref type="bibr" target="#b35">[35]</ref><ref type="bibr">[36]</ref><ref type="bibr" target="#b36">[37]</ref> Because of the stability dip, there is a principle in clinical protocol that implants should be kept unloaded until after the dip has passed, which limits the application of immediate and early loading.</p><p>Thus, an important question is whether photofunctionalization is effective in obtaining similar results in humans compared with animal studies and, thereby, providing clinical advantages or therapeutic significance. In particular, we hypothesized that photofunctionalization may affect the commonly understood time course of a change in implant stability because of its capability to expedite and enhance osseointegration as demonstrated in animal studies. This is a perspective cohort study to evaluate the change in stability of photofunctionalized dental implants placed in the edentulous maxilla and immediately loaded during their early healing time up to 3 months.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>INTRODUCTION</head><p>Implant placement in the posterior maxilla is a challenging procedure when the available bone is reduced because of atrophy of the bone crest. Different materials and techniques have been proposed to augment bone volume in the posterior maxilla in order to allow for implant placement. Maxillary sinus augmentation technique is a common surgical procedure for creating adequate bone volume before implant placement.</p><p>While a lateral approach in sinus lifting is generally indicated in case of less than 4 to 5 mm of residual bone height, 1-3 a crestal approach was described as a viable treatment in the presence of greater bone height. <ref type="bibr" target="#b2">[3]</ref><ref type="bibr" target="#b3">[4]</ref><ref type="bibr" target="#b4">[5]</ref> Tatum described the first technique for transalveolar maxillary sinus lift and subsequent placement of implants in 1986. <ref type="bibr" target="#b5">6</ref> In the original technique, after fracturing sinus floor, an implant was placed and submerged during healing phase. A modification of this protocol was then proposed by Summers in 1994. <ref type="bibr" target="#b6">7</ref> In this technique, implant site is prepared using a set of osteotomes that also allow increasing bone density through a lateral compression. The osteotomemediated technique allows preservation of bone because drilling is avoided.</p><p>Such transalveolar approach is more conservative than the lateral approach because only a small osteotomy is performed at crestal level. <ref type="bibr" target="#b3">4</ref> Though, the main drawback is that both the sinus floor lifting and the bone grafting procedure is conducted blindly. <ref type="bibr" target="#b3">4</ref> In both procedures, after lifting of the Schneiderian membrane, various types of bone grafting material can fill the resulting space. However, several studies showed that even without using bone grafting material, the stabilization of blood clot after elevation of the sinus floor can be sufficient to obtain new bone formation. <ref type="bibr" target="#b7">[8]</ref><ref type="bibr" target="#b8">[9]</ref><ref type="bibr" target="#b9">[10]</ref> The aim of this systematic review was to evaluate implant survival rate (SR) after osteotome-mediated sinus lift procedure and evaluate factors potentially affecting the clinical outcome.</p></div>
 <div xmlns="http://www.tei-c.org/ns/1.0"><head>MATERIALS AND METHODS</head></div>
-<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patients</head><p>Among the patients who visited Lion Implant Center during November 2011 and March 2012 for implant therapy and who provided consent for documentation and public presentation of their cases, 7 male patients were selected consecutively for this study. Patients were included if they were at least 20 years old, if they complied with oral health care instructions and necessary visits, and if they showed indications for immediate loading in the edentulous maxilla. Patients with systemic or behavioral conditions that could potentially affect bone and soft tissue healing, such as osteoporosis, diabetes, radiation treatment, bruxism, or smoking, were excluded. In total, 33 implants were placed in the 7 patients. The patient and implant information is provided in Table <ref type="table">1</ref>.</p></div>
-<div xmlns="http://www.tei-c.org/ns/1.0"><head>Surgical Procedure and Photofunctionalization of Dental Implants</head><p>Standardized consultation and diagnostic procedures were provided to all patients, and a treatment plan was presented and approved by the patients. Following the routine procedures of local anesthesia and full-thickness flap reflection, implants were placed following the standard surgical procedure recommended by the manufacturer and described in-depth elsewhere. <ref type="bibr" target="#b37">38,</ref><ref type="bibr" target="#b38">39</ref> Four to 6 implants were placed per edentulous maxilla. The implant neck was positioned at bone level. Multiunit straight abutments or 17-degree or 30-degree angulated abutments were used as appropriate to correct the fixture inclination. The soft tissues were readapted and sutured.</p><p>Implants used in this study had a tapered root form and identical surface microscale morphology by oxidation (TiUnite, NobelReplace Tapered Groovy RP; Nobel Biocare, Yorba Linda, CA). The dimensions of the implants are presented in Table <ref type="table">1</ref>. All implants were photofunctionalized by treating with UV light for 15 minutes using a photo device (TeraBeam Affiny; Ushio, Inc., Tokyo, Japan) at the chair side immediately before implantation (Fig. <ref type="figure">2,</ref><ref type="figure">A</ref>). The photofunctionalization-induced change in surface property from hydrophobic to superhydrophilic (defined as a contact angle of water less than 5 degrees) was confirmed before patient visits by examining several implants for their wettability to double-distilled water (Fig. <ref type="figure">2,</ref><ref type="figure">B</ref>). The total stability, as determined by the addition of primary stability and secondary stability, normally shows a merging gap, which is called the stability dip. The stability dip is considered unavoidable in current dental implants because the rate of losing primary stability is faster than the development of secondary stability.</p><p>These tested implants were from a separate group of the same type of implants and not used for the patients. Furthermore, photofunctionalized surfaces were confirmed by watching the patient's blood spiral up the implant immediately after it was in contact with the drilled site, as typically seen in Figure <ref type="figure">2,</ref><ref type="figure">C</ref>. Bone quality was categorized as type 1, 2, 3, or 4 during the surgery following the criteria proposed by Lekholm and Zarb. <ref type="bibr" target="#b39">40</ref> </p></div>
-<div xmlns="http://www.tei-c.org/ns/1.0"><head>Immediate Provisional Restoration</head><p>Full-arch acrylic resin temporary prostheses were placed on the same day. The prostheses were fabricated following the manufacturer's instructions and as described elsewhere <ref type="bibr" target="#b37">38,</ref><ref type="bibr" target="#b38">39</ref> using autopolymerizing resin (Unifast II; GC, Tokyo, Japan) and temporary abutments (Nobel Biocare) in the in-house laboratory. Anterior occlusal contacts and canine guidance during lateral movements were preferably established on the provisional prostheses. No cantilevers contact was given on the provisional prostheses. Fig. <ref type="figure">2</ref>. Photofunctionalization of dental implants and its visualized effects on implant surface property. A, A photo device (TeraBeam; Affiny, Ushio, Inc.) used for photofunctionalization. Dental implants were treated for 15 minutes immediately before implantation. B, Implants, which were hydrophobic as received, were converted to superhydrophilic after photofunctionalization. Photographic images of 3 mL of ddH 2 O droplets placed on implant surfaces are shown. Two droplets (6 mL) were sufficient to entirely cover a photofunctionalized implant. C, Clinical images of untreated (as-received) and photofunctionalized dental implants when they were in contact with an implant site. A hemophilic conversion of the implant surfaces is evidently seen after photofunctionalization. The generated hemophilicity was robust enough to soak up blood along the implant thread. The ISQ values at implant placement and week 6 of healing plotted for photofunctionalized implants. Note that all implants with an initial ISQ that was 75 or lower showed an increase at week 6, and consequently, the ISQ values at week 6 were all 75 or higher.</p></div>
-<div xmlns="http://www.tei-c.org/ns/1.0"><head>Implant Stability Measurement and Osseointegration Speed Index</head><p>Implant stability was evaluated by measuring the ISQ at implant placement (ISQi) and during the healing period with a 1-week interval up to 11 weeks using Osstell ISQ (Osstell AB, Gothenburg, Sweden). Furthermore, the rate of establishing implant stability was evaluated by the osseointegration speed index (OSI) defined as an ISQ increase per month, that is, ([ISQ at week 6] -[ISQi])/1.5.</p></div>
-<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical Analysis</head><p>The effect of healing time on ISQ values was evaluated by ANOVA; P , 0.05 indicated statistical significance. When the effect was significant, further post hoc analysis of Bonferroni was performed to compare the ISQi with the ISQ at each of the subsequent time points. The ISQ values were compared among implants with different lengths using ANOVA. Furthermore, the effect of different bone types where implants were placed was evaluated.</p></div>
-<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head></div>
-<div xmlns="http://www.tei-c.org/ns/1.0"><head>Implant Dimensions and Bone Type</head><p>The diameter of all implants used in this study was 4.3 mm, whereas their length varied; 13 mm implants were used most often (Table <ref type="table">1</ref>). A majority of implants (57.6%) were placed in the type 2 bone, whereas 24.2% and 18.2% implants were placed in the type 1 and type 3 bones, respectively. There was no type 4 bone because the cases included in the study were selected for immediate loading.</p></div>
-<div xmlns="http://www.tei-c.org/ns/1.0"><head>Change in Implant Stability</head><p>To visualize the overall trend of change in implant stability, ISQi values and the ISQ values at week 6 were individually plotted (Fig. <ref type="figure">3</ref>). The ISQi varied widely from 65 to 85, whereas the ISQ values at week 6 were converged to the higher level. There was a variation in ISQ fluctuation between the time of implant placement and week 6, an increase, no change, or a decrease, for implants with ISQi that were 77 or higher. In contrast, all implants with IS-Qi 75 or lower showed an increase at week 6. There was a clear trend that lower the ISQi, the greater the subsequent ISQ increase. As a result, the ISQ values at week 6 were all 75 or higher.</p><p>Next, the implants were divided into 3 groups depending on the range of their ISQi (ISQi 65-70, ISQi 71-75, and ISQi $ 76), and the ISQ values starting from the implant placement up to 11th week were plotted in a line graph for each group (Fig. <ref type="figure" target="#fig_2">4</ref>). When the ISQi values was 65 to 70, the ISQ line graph showed a rapid and continuous increase up to week 6, followed by the plateau at the increased level (Fig. <ref type="figure" target="#fig_2">4,</ref><ref type="figure">A</ref>). ANOVA showed a statistically significant effect of healing time on the ISQ values (P , 0.05). The post hoc analysis showed that the ISQ values at week 3 and after week 3 were significantly higher than the ISQi, supporting the rapid increase and subsequent maintenance of ISQ. No significant ISQ decrease was found compared with the ISQi in the entire assessment period (P . 0.05). There also was no significant ISQ dip (a significantly lower ISQ value compared with neighbor time points) throughout the healing period (P . 0.05).</p><p>Similar to the ISQi 65 to 70 group, when the ISQi was 71 to 75, the subsequent ISQ showed an increasing course of change (Fig. <ref type="figure" target="#fig_2">4,</ref><ref type="figure">B</ref>). Although the rate of ISQ increase appeared less than that in ISQi 65 to 70 group because of the higher baseline, the ISQ values in the later time points appeared to be similar between the ISQi 71 to 75 and ISQi 65 to 70 groups. A significant ISQ increase compared with ISQi was found starting at week 2 and continued until week 11, except at week 3. Compared with ISQi, subsequent ISQ values did not show a significant decrease or a significant dip throughout the healing period. In contrast with these 2 results, there was no time-dependent ISQ increase, decrease, or dip when the ISQi was 76 or higher (Fig. <ref type="figure" target="#fig_2">4,</ref><ref type="figure">C</ref>). The mean ISQ values remained higher than 76 throughout the healing period without significant fluctuation in this group.</p></div>
-<div xmlns="http://www.tei-c.org/ns/1.0"><head>Osseointegration Speed Index</head><p>For each of the ISQi 65 to 70, ISQi 71 to 75, and ISQi $ 76 groups, change in implant stability between the implant placement and week 6 was tallied in Table <ref type="table" target="#tab_1">2</ref>. A statistically significant ISQ increase was seen in ISQi 65 to 70 and ISQi 71 to 75 groups but not in ISQi $ 76 group. For the significant ISQ changes found, the osseointegration speed index (OSI) defined as the ISQ increase per month was calculated (Table <ref type="table" target="#tab_1">2</ref>). The OSI in ISQi 65 to 70 group was 6.3 6 0.9 and approximately 2 times higher than that in ISQi 71 to 75 group. The OSI for ISQi 71 to 75 group was 3.1 6 1.2.</p></div>
-<div xmlns="http://www.tei-c.org/ns/1.0"><head>Effect of Bone Type and Implant Length</head><p>To find potential specificity or exclusivity of the effect of photofunctionalization, ISQ values were analyzed in different bone types. At implant placement, ISQi significantly varied with bone type (Table <ref type="table" target="#tab_2">3</ref>). The ISQ values were significantly lower for the type 2 and 3 groups than for the type 1 group at placement. The interbone type difference became insignificant at week 6, indicating that photofunctionalization was effective in increasing the stability of implants with lower initial ISQ in the type 2 and 3 groups. Next, ISQ values were analyzed depending on the implant length (Table <ref type="table" target="#tab_3">4</ref>). The ISQi was not different between "#11.5-mm" and "$13-mm" groups. Although ISQ increased in both groups at week 6, there was no difference between the 2 groups, indicating the even effect of photofunctionalization regardless of the implant length.</p></div>
-<div xmlns="http://www.tei-c.org/ns/1.0"><head>DISCUSSION</head><p>By using ISQ values, this study quantitatively evaluated the level, change, and rate of osseointegration of photofunctionalized dental implants under the immediate loading condition. One of the hypotheses we tested was whether clinical effects of photofunctionalization similar to those found in animal studies can be obtained in humans. As mentioned in Introduction, a series of animal studies demonstrated the accelerated and enhanced capability of osseointegration by photofunctionalization. To compare the osseointegration capability of photofunctionalized dental implants with that of the asreceived untreated implants, we defined and calculated the OSI. The proposed OSI value represents a rate of developing implant stability standardized by healing time, providing more precise and reasonable information rather than the use of an ISQ per se at a certain time point or an ISQ increase during undefined period of time and, more importantly, allowing for a comparison among different sources of data.    Implants were divided into 2 groups depending on the implant length. This table shows mean ISQ values at implant placement and week 6 postimplantation for each group. Both groups showed a significant increase between the placement and week 6 of healing. Therefore, there was no significant difference between the 2 groups at week 6, indicating that photofunctionalization was effective in increasing ISQ values regardless of the implant length. *Not significant between the 2 groups.</p><p>along with the calculated OSI in the literature. <ref type="bibr" target="#b16">18,</ref><ref type="bibr" target="#b18">19,</ref><ref type="bibr" target="#b26">26,</ref><ref type="bibr" target="#b34">[34]</ref><ref type="bibr" target="#b35">[35]</ref><ref type="bibr">[36]</ref><ref type="bibr" target="#b36">[37]</ref><ref type="bibr" target="#b40">[41]</ref><ref type="bibr" target="#b41">[42]</ref><ref type="bibr" target="#b42">[43]</ref><ref type="bibr" target="#b43">[44]</ref><ref type="bibr" target="#b44">[45]</ref><ref type="bibr" target="#b45">[46]</ref> The OSI values from this study are also listed at the bottom of the table. Because the initial ISQ values were all higher than 65 in this study, we focused on the publications dealing with initial ISQ values higher than around 60 and at the same time, with data availability at least 2 time points. The following were the 3 major findings (Table <ref type="table" target="#tab_0">5</ref>): (1) a greater increase between the initial and secondary ISQ values in photofunctionalized implants than in literature; (2) the majority of OSI in literature was lower than 1.0 and the OSI of photofunctionalized implants was notably higher than those in literature; and (3) the ISQ values at secondary time points obtained in this study between 77.5 and 78.1 were higher than any values in literature, even within a shorter healing time of 1.5 months.</p><p>The ISQ values are known to increase when the initial ISQ is lower than 60, whereas ISQ values mostly stay unchanged or decrease when the initial ISQ is higher than 60. <ref type="bibr" target="#b18">19,</ref><ref type="bibr" target="#b20">21,</ref><ref type="bibr" target="#b26">26,</ref><ref type="bibr" target="#b35">35,</ref><ref type="bibr" target="#b46">47</ref> This common understanding can be reaffirmed from the data in literature listed in Table <ref type="table" target="#tab_0">5</ref>, showing OSI of lower than 1.0 or even in the negative range below 0. In this regard, the OSI of 6.3 when the initial ISQ was 65 to 70 and the OSI of 3.1 even when the initial ISQ was 71 to 75 obtained in this study should be considered remarkable. In fact, the calculated OSI for all as-received conventional implants in Table <ref type="table" target="#tab_0">5</ref> ranged from -3.0 to 1.17, with an average of -0.10. If only data with their initial ISQ being in a similar range to this study (65-75) are selected, the OSI ranged from -1.8 to 1.17 with an average of 0.21. In both cases, the OSI values in literature were substantially low.</p><p>Although any interpretation should be carefully made because of the differences in macroscopic design and surface morphology among implants, considerably high ISQ values obtained in this study at week 6 may imply the advantage of photofunctionalization to not only expedite the process but also The ISQ change during healing and calculated OSI are compared between untreated implants in literature and photofunctionalized implants. Note that the OSI values for photofunctionalized implants are considerably higher than those from literature. In addition, the ISQ values achievable at week 6 of healing (1.5-month healing) in photofunctionalized implants are higher than those in any untreated implants even after longer healing time. *Some data were obtained at loading, whereas some at prescheduled follow-up time points. †Values were read from the graph. ‡Data were provided only for ISQ difference between the implant placement and 3-month follow-up. ISQi, initial ISQ at implant placement; OSI, osseointegration speed index ¼ ISQ increase per month. achieve a higher level of osseointegration. The results were particularly surprising because of the following 2 reasons: initial ISQ values of 65 or higher are not expected to increase further, as reported in literature, and high ISQ values were obtained after a healing time as short as 6 weeks. Future studies are needed to follow-up on the subsequent change of the ISQ values of photofunctionalized implants. The higher level of osseointegration may lead to better success rates and long-term predictability of implant therapy, which will be a very interesting research topic in the future. Thus, the current ISQ data and its comparison with literature were indeed consistent with the results obtained from animal studies that showed highly increased implant fixation in the early and late stage of healing, accelerated rate of periimplant bone formation, and the establishment of bone-implant contact nearing 100%, <ref type="bibr" target="#b4">5</ref> supporting the hypothesis that photofunctionalized implants in humans are as effective as in animal experiments.</p><p>Discussing cases of immediate loading and with a similar type of implants would be of another particular interest. A study examined the stability change of implants loaded 1 to 9 days after implant placement to support a full-arch fixed bridge in the maxilla. <ref type="bibr" target="#b40">41</ref> A total of 61 oxidized implants (6 or 8 implants per maxilla) were examined. The mean ISQ, which was 60.1 6 3.6 at placement, increased to 62.8 6 1.6 after 4 months, giving an OSI of 0.68. Another study evaluated implants placed in the partially edentulous maxilla and loaded 0 to 16 days after placement. <ref type="bibr" target="#b41">42</ref> A total of 53 oxidized implants (16 for single tooth replacement and 37 for partial fixed bridges) were examined. The initial ISQ of 63.3 6 6.1 slightly increased to 64.3 6 5.3 after 3 months, giving an OSI of 0.33. Again, there is a general understanding regarding ISQ values that the lower the initial value the more increase is expected during the subsequent healing. Despite the initial ISQ being higher than these studies, OSI values obtained at week 6 in this study were remarkably greater. Knowing that these studies were carried out under a similar clinical protocol and host conditions to this study and with the implant texture being identical to an oxidized surface used in this study, the current results may genuinely demonstrate the effect of photofunctionalization in enabling a faster and more complete process of osseointegration. As mentioned in Introduction, the clinical benefit of photofunctionalization was particularly anticipated in such early/immediate loading cases because of the increased attachment and retention of osteogenic cells, which indeed has been proven by the quantitative assessment of implant stability.</p><p>Another important result of this study was the elimination of the stability dip or significant decrease of total stability throughout the healing period for photofunctionalized implants. High initial ISQ values of approximately 70 to 80 are bound to show a typical dip during the subsequent healing period or, if not a typical dip, a decrease and remain at the decreased level. <ref type="bibr" target="#b18">19,</ref><ref type="bibr" target="#b20">21,</ref><ref type="bibr" target="#b26">26,</ref><ref type="bibr" target="#b35">35,</ref><ref type="bibr" target="#b46">47</ref> In this study, as shown in Table <ref type="table" target="#tab_1">2</ref> and Figure <ref type="figure" target="#fig_2">4</ref>, C, implants with very high initial ISQs (higher than 78) did not experience a stability dip or significant decrease during the healing period, providing the compelling evidence to support immediate loading. Together with the rapid ISQ increase observed in the implants with lower initial ISQ, the current results will help explore a new strategy for early or immediate loading protocols. On the basis of the current results on ISQ dynamics combined with Fig. <ref type="figure">5</ref>. Proposed mechanisms of appearance and disappearance of stability dip in schematic description. The stability dip is anticipated for as-received untreated implants as commonly understood whether the primary stability is high (A) or low (C). In contrast, the stability dip is eliminated by the use of photofunctionalization, regardless of the degree of primary stability (B, D), because of faster (when the primary stability is high) and even faster (when the primary stability is low) development of secondary stability. Note that photofunctionalization did not only expedite the rate of establishing the total stability but also increased the degree of the total stability. Refer to the main text for detailed explanation.</p><p>the common understanding on how the stability dip appears, we propose a mechanism underlying the disappearance of the stability dip by the use of photofunctionalized implants (Fig. <ref type="figure">5</ref>). There are 2 scenarios to explain the phenomenon of stability dip, depending on the level of primary stability. The notions applied to construct the mechanism were as follows: (1) OSI for photofunctionalized implants was considerably higher than untreated implants reported in literature, which led to a rapid and steep secondary stability curve slope during the early healing period; (2) regardless of the use of photofunctionalization, implants with lower initial ISQ values tend to show higher OSI as understood commonly;</p><p>(3) in this study, an OSI with an initial ISQ of 65 to 70 was, in fact, 2 times greater than an OSI with an initial ISQ of 71 to 75; (4) not only the rate of implant stability but also the final level was increased by photofunctionalization, which indicates that the level of secondary stability could be higher with photofunctionalized implants than conventional implants; and (5) the rate of losing primary stability is assumed to be the same with or without photofunctionalization. In Figure <ref type="figure">5, A</ref> and<ref type="figure">C</ref>, high-level and low-level stability dips unavoidably take place in untreated conventional implants because of the quicker loss of primary stability than the development of secondary stability. The rate of secondary stability establishment, which is faster in Figure <ref type="figure">5</ref>, C than in Figure <ref type="figure">5</ref>, A, as indicated by "a' . a," is unlikely to help eliminate the stability dip. In contrast, because of the early shift of the secondary stability curve, as indicated by "b . a," the stability dip is effectively eliminated in photofunctionalized implants (Fig. <ref type="figure">5,</ref><ref type="figure">B</ref>). The increased level of total stability by the increased degree of secondary stability should not be overlooked. In addition, because of further increased rate in the secondary stability, as indicated by "y ¼ 2bx," the stability dip can be avoided even when the primary stability was low (Fig. <ref type="figure">5,</ref><ref type="figure">D</ref>). We believe that the proposed schemes will help understand how the overall anchorage of photofunctionalized implants is uniquely established and provide a novel platform to build a new strategy for future clinical protocols and the development of implant surfaces.</p><p>Although the interpretation should be limited to the results obtained during the initial period of osseointegration of up to 3 months, the quantitative analysis of implant stability by the consecutive measurement of ISQ values in a cohort design may have provided an invaluable data set to demonstrate the expedited and enhanced process of osseointegration in photofunctionalized dental implants and warrants further clinical studies to establish photofunctionalization as an effective measure to improve the current implant dentistry in multiple aspects. Photofunctionalization is a simple, practical, chair-side treatment of dental implants that requires only 15 minutes and has proven effective on all surface topographies of titanium-based materials tested, implying the versatile applicability in a wide range of dental and orthopedic implants. <ref type="bibr" target="#b8">9,</ref><ref type="bibr">[48]</ref><ref type="bibr" target="#b47">[49]</ref><ref type="bibr" target="#b48">[50]</ref> If future surface technologies are anticipated to expand the indications of implant therapy, shorten the healing time, increase the success rate for compromised bone conditions, and explore minimally invasive approaches, photofunctionalization as presented here may provide a novel insight and a practical avenue to pursue those goals. Finally, the application of photofunctionalization should not be restricted to use in dental implants. Orthopedic implants face many, longunsolved challenges. Photofunctionalization can be applied regardless of the shape and size of implants. Various orthopedic implants, including but not limited to spine screws, femoral stem, knee joint implants, plates, and pins, can potentially be enhanced for their osteoconduction.</p></div>
-<div xmlns="http://www.tei-c.org/ns/1.0"><head>CONCLUSIONS</head><p>This study reports a quantitative evaluation of the effect of photofunctionalization on clinical performance, specifically osseointegration capability, of dental implants. Photofunctionalization was conducted by treating implants with UV light for 15 minutes. The generation of superhydrophilicity and hemophilicity was confirmed after photofunctionalization. The osseointegration capability of photofunctionalized implants placed in the maxilla and immediately loaded was assessed by consecutive measurements of ISQ during the early stage of healing up to 3 months along with the rate of ISQ increase per month, defined as the OSI. Implants with their initial ISQ at placement between 65 and 70 showed a rapid and robust ISQ increase during the subsequent healing period. Implants with their initial ISQ between 71 and 75 also showed a rapid and significant increase. Implants with their initial ISQ of 76 or greater maintained a high level of ISQ throughout the healing period without showing any drop or progressive decrease in ISQ. Regardless of the initial ISQ, ISQ values were 75 or greater for all implants by week 6. The ISQ at week 6 for photofunctionalized implants ranged from 77.5 to 78.1 with an average of 78.0, whereas ISQ values after a longer healing period (mostly 2-6 months) observed in literature ranged between 60.2 and 74.8 with an average of 66.1. The OSI was considerably high for photofunctionalized implants (6.3 for implants with an initial ISQ of 65-70 and 3.1 for implants with an initial ISQ of 71-75) than for untreated conventional implants in literature ranging from -3.0 to 1.17 with an average of -0.10. In conclusion, photofunctionalization resulted in the acceleration and enhancement of osseointegration in commercial dental implants. As a result, the rate of establishing implant stability was substantially increased when initial stability was relatively low. When the initial stability was relatively high, the ISQ was maintained at a high value, eliminating the commonly accepted phenomenon of the stability dip. In both instances, the level of stability that implants may experience was considerably increased. These results imply that photofunctionalization may provide a novel and practical possibility to further advance implant therapy for its expanded indications, shortened healing time, improved predictability in challenging cases, and the exploration of minimally invasive approaches during the treatment. indirectly, in the products or information listed in the article.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1 .</head><label>1</label><figDesc>Fig.1. A suggested mechanism of the occurrence of stability dip in dental implants. The total stability, as determined by the addition of primary stability and secondary stability, normally shows a merging gap, which is called the stability dip. The stability dip is considered unavoidable in current dental implants because the rate of losing primary stability is faster than the development of secondary stability.</figDesc></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>TABLE 1 .</head><label>1</label><figDesc>Fig.3. The ISQ values at implant placement and week 6 of healing plotted for photofunctionalized implants. Note that all implants with an initial ISQ that was 75 or lower showed an increase at week 6, and consequently, the ISQ values at week 6 were all 75 or higher.</figDesc></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. 4 .</head><label>4</label><figDesc>Fig. 4. Change in implant stability for photofunctionalized implants, evaluated by ISQ values at implant placement and subsequent healing time. Line graphs are drawn in 3 different groups depending on the initial ISQ values at implant placement (ISQi). A, ISQi 65 -70; B, ISQi 71 -75; and C, ISQi $ 76. *P , 0.05, **P , 0.01, statistically significant difference from the ISQi.</figDesc></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 5</head><label>5</label><figDesc></figDesc><table /><note><p>lists ISQ values from 2 time points</p></note></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 .</head><label>2</label><figDesc>ISQ Change and OSI in Photofunctionalized Implants</figDesc><table><row><cell></cell><cell></cell><cell>ISQ</cell><cell></cell><cell></cell></row><row><cell>Primary Stability Range</cell><cell>At</cell><cell></cell><cell></cell><cell></cell></row><row><cell>(ISQi)</cell><cell>Placement</cell><cell>At Week 6</cell><cell>Change</cell><cell>OSI</cell></row><row><cell>65-70</cell><cell cols="2">68.4 6 1.5 77.5 6 1.4</cell><cell>9.5 6 1.3*</cell><cell>6.3 6 0.9</cell></row><row><cell>71-75</cell><cell cols="2">73.0 6 1.5 78.1 6 2.3</cell><cell>4.6 6 1.8*</cell><cell>3.1 6 1.2</cell></row><row><cell>$76</cell><cell cols="3">78.5 6 1.6 78.1 6 2.1 -0.3 6 2.1 †</cell><cell>NA</cell></row><row><cell cols="5">Implants were divided into 3 groups depending on the initial ISQ value at implant placement. This table shows mean ISQ values at</cell></row><row><cell cols="5">implant placement and week 6 postimplantation as well as the ISQ change between the 2 time points for each group. Furthermore,</cell></row><row><cell cols="5">the ISQ change divided by healing time of 1.5 months (6 weeks) is shown as the OSI value. The ISQ change was significant and</cell></row><row><cell cols="2">positive when the initial ISQ was 75 and lower.</cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">*P , 0.01; statistically significant change between 2 time points.</cell><cell></cell><cell></cell><cell></cell></row><row><cell>†Not significant.</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="5">NA, not applicable; ISQi, initial ISQ at implant placement; OSI, osseointegration speed index ¼ ISQ increase per month.</cell></row></table></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3 .</head><label>3</label><figDesc>ISQ in Different Bone Types</figDesc><table><row><cell></cell><cell>ISQ</cell><cell></cell></row><row><cell>Bone</cell><cell>At</cell><cell>At Week</cell></row><row><cell>Type</cell><cell>Placement*</cell><cell>6 †</cell></row><row><cell>Type 1</cell><cell>78.6 6 2.0</cell><cell>77.0 6 0.0</cell></row><row><cell>Type 2</cell><cell>74.1 6 4.5</cell><cell>78.2 6 1.6</cell></row><row><cell>Type 3</cell><cell>74.0 6 2.5</cell><cell>78.2 6 3.2</cell></row></table><note><p><p>Implants were divided into 3 groups depending on the bone type in which implants were placed. This table shows mean ISQ values at implant placement and week 6 postimplantation for each group. The ISQ values in type 2 and 3 groups increased between the placement and week 6, and there were no significant difference among the 3 groups at week 6. *P , 0.05; statistically significant difference among the three 3 groups.</p>†Not significant.</p></note></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 4 .</head><label>4</label><figDesc>ISQ in Groups of Different</figDesc><table><row><cell cols="2">Implant Length</cell></row><row><cell>Implant</cell><cell>ISQ</cell></row><row><cell>Length,</cell><cell>At</cell></row><row><cell>mm</cell><cell>Placement* At Week 6*</cell></row><row><cell>#11.5</cell><cell>73.6 6 3.6 77.5 6 3.8</cell></row><row><cell>$13</cell><cell>75.6 6 4.2 78.1 6 1.6</cell></row></table></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>Table 5 .</head><label>5</label><figDesc>ISQ Change and Calculated OSI in the Literature and This Study</figDesc><table><row><cell></cell><cell></cell><cell>ISQ</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell>Initial (at</cell><cell></cell><cell>Healing</cell><cell>OSI (ISQ</cell></row><row><cell>Implant Surface</cell><cell>Conditions</cell><cell>Placement)</cell><cell>Secondary*</cell><cell>Time (mo)</cell><cell>increase/mo)</cell></row><row><cell>TiUnite 41 (oxidized)</cell><cell>Immediate/early loading</cell><cell>60.1 6 3.6</cell><cell>62.8 6 1.6</cell><cell>4</cell><cell>0.68</cell></row><row><cell></cell><cell>maxilla</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>TiUnite 42</cell><cell>Immediate/early loading</cell><cell>63.3 6 6.1</cell><cell>64.3 6 5.3</cell><cell>3</cell><cell>0.33</cell></row><row><cell></cell><cell>maxilla</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>TiUnite 19  †</cell><cell>Includes GBR and</cell><cell>68.0</cell><cell>63.0</cell><cell>3</cell><cell>-1.67</cell></row><row><cell></cell><cell>extraction socket</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>TiUnite 43</cell><cell>Anterior maxilla</cell><cell>58.5 6 4.7</cell><cell>60.9 6 4.3</cell><cell>6</cell><cell>0.4</cell></row><row><cell></cell><cell>Grafted anterior maxilla</cell><cell>61.5 6 9.0</cell><cell>60.2 6 6.9</cell><cell>6</cell><cell>-0.2</cell></row><row><cell>TiUnite 44</cell><cell>Grafted anterior maxilla</cell><cell>61.9 6 6.6</cell><cell>63.5 6 5.7</cell><cell>6</cell><cell>0.26</cell></row><row><cell>SLA 26 (sandblasted, acid-etched) ‡</cell><cell>ISQi 65-69</cell><cell></cell><cell></cell><cell>3</cell><cell>-1.8</cell></row><row><cell></cell><cell>ISQi $ 70</cell><cell></cell><cell></cell><cell>3</cell><cell>-3.0</cell></row><row><cell>SLA 45</cell><cell>Anterior maxilla</cell><cell>69.4 6 9.3</cell><cell>73.4 6 6.6</cell><cell>3.4</cell><cell>1.17</cell></row><row><cell></cell><cell>Posterior maxilla</cell><cell>69.9 6 8.5</cell><cell>74.4 6 6.9</cell><cell>4</cell><cell>1.12</cell></row><row><cell>SLA 18</cell><cell>Type 1 bone</cell><cell>62.8 6 7.2</cell><cell>60.7 6 3.6</cell><cell>3</cell><cell>-0.7</cell></row><row><cell>SLA 34  †</cell><cell>Mandible</cell><cell>60.0</cell><cell>62.7</cell><cell>2.5</cell><cell>1.1</cell></row><row><cell>SLA 36</cell><cell>Mandible</cell><cell>65.5 6 5.5</cell><cell>62.8 6 5.4</cell><cell>1.5</cell><cell>-1.8</cell></row><row><cell>SLActive 36 (sandblasted, acid-etched,</cell><cell>Mandible</cell><cell>64.2 6 5.0</cell><cell>64.1 6 3.5</cell><cell>1.5</cell><cell>-0.06</cell></row><row><cell>chemically modified)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Impladent 37 (sandblasted, acid and</cell><cell>ISQi 68-72</cell><cell>70.2 6 1.5</cell><cell>71.5 6 1.3</cell><cell>2.5</cell><cell>0.52</cell></row><row><cell>alkali treated)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>ISQi $ 72</cell><cell>76.7 6 3.1</cell><cell>74.8 6 1.3</cell><cell>2.5</cell><cell>-0.76</cell></row><row><cell>SPI 35 (sandblasted, acid etched)</cell><cell>Type 3 bone</cell><cell>73.6 6 5.8</cell><cell>74.8 6 5.4</cell><cell>2</cell><cell>0.6</cell></row><row><cell></cell><cell>Type 4 bone</cell><cell>68.9 6 4.3</cell><cell>69.9 6 4.3</cell><cell>2</cell><cell>0.51</cell></row><row><cell>TiOblast 46 (sandblasted)</cell><cell>Maxilla</cell><cell>62.3 6 5.1</cell><cell>63.9 6 5.5</cell><cell>6</cell><cell>0.27</cell></row><row><cell></cell><cell>Grafted maxilla</cell><cell>60.7 6 6.1</cell><cell>61.4 6 5.2</cell><cell>6</cell><cell>0.12</cell></row><row><cell>Photofunctionalized surface</cell><cell>Immediate loading,</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>(TiUnite, oxidized)</cell><cell>maxilla</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>ISQi, 65-70</cell><cell>68.4 6 1.5</cell><cell>77.5 6 1.4</cell><cell>1.5</cell><cell>6.3</cell></row><row><cell></cell><cell>ISQi, 71-75</cell><cell>73.0 6 1.5</cell><cell>78.1 6 2.3</cell><cell>1.5</cell><cell>3.1</cell></row></table></figure>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Search Strategy</head><p>An electronic search was conducted via MEDLINE (Pubmed) in the dental literature to select only human clinical trials published from 1986 to December 2010. The search terms used were "sinus lift," "sinus augmentation," "sinus grafting," "sinus elevation," "osteotome AND implants," "osteotome AND sinus lift," "osteotome AND sinus augmentation," "osteotome AND sinus grafting," "osteotome AND sinus elevation," "crestal AND sinus lift," "crestal AND sinus augmentation," "crestal AND sinus grafting," and "crestal AND sinus elevation" and were chosen accordingly with previously published reviews. <ref type="bibr" target="#b0">1,</ref><ref type="bibr" target="#b2">[3]</ref><ref type="bibr" target="#b3">[4]</ref><ref type="bibr" target="#b4">[5]</ref> No language restriction was placed.</p><p>A manual search was performed of the bibliographies of the selected articles and of the reviews resulting from the electronic search. In addition, a hand search of issues from 1995 to December 2010 was undertaken on the following journals: British Journal of </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Inclusion Criteria</head><p>This systematic review included prospective and retrospective cohort studies according to the following inclusion criteria:</p><p>• publications concerning transcrestal sinus lift in combination with implant placement; • follow-up time of at least 1 year after prosthetic rehabilitation;</p><p>• studies with at least 20 patients treated; and • studies presenting data on implant SR.</p><p>When papers from the same group of authors were identified, with very similar databases of patients, materials, methods, and outcomes, the authors were contacted to clarify whether the pool of patients was indeed the same. In case of multiple publications relative to consecutive phases of the same study, only the most recent data (those with the longer follow-up) were considered.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Selection of the Studies</head><p>Two reviewers (SC and ST) independently screened abstracts and full-text of the eligible articles for possible inclusion. In case of disagreement, a joint decision was taken by discussion.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data Extraction</head><p>Two reviewers (SC and MDF) independently recorded data from the selected studies on a previously designed data extraction form.</p><p>Data regarding population (sample size, mean age) and the characteristics of the sinus lifting technique were extracted. Implant length was categorized into subclasses (less than 8.5 mm, 8.5 to 10 mm, &gt;10 mm). Mean weighted SRs at 1 year, 2 years, 3 years, and 5 years of follow-up from implant placement were estimated, taking into account the sample size, the follow-up duration, and the timing of failures of each study. Data concerning surgical complications (like nose bleeding and membrane perforation) were also recorded.</p><p>Residual bone height was classified according to a threshold value (less than 5 mm and more than or equal to 5 mm). For studies that provided only the mean residual bone height value, it was assumed that all implants had been placed in crest with residual bone height equal to the mean value. One-year SRs were estimated for implants placed in &lt;5 mm or e160</p><p>Clinical Implant Dentistry and Related Research, Volume 14, Supplement 1, 2012 different studies.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data Analysis</head><p>All comparisons between subgroups for any variable (follow-up duration, use of bone graft, implant length, residual bone height) were made by using Pearson's chisquare test. A probability level of p = .05 was considered as the threshold for significance. Odd ratios (ORs) and 95% confidence intervals (CIs) were also estimated.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head><p>Figure <ref type="figure" target="#fig_0">1</ref> summarizes the article selection process. The initial electronic search provided 420 items. After screening of the titles and abstracts, 351 articles were excluded because of not strictly pertinent to the aims of this review. A total of 69 full-text articles were eligible and underwent full-text evaluation. Of these, 50 articles were excluded because of not fulfilling the inclusion criteria. The most frequent reasons for exclusion were inadequate sample size, too short follow-up, and inadequate data reporting. A total of 19 studies were finally included for data analysis. <ref type="bibr" target="#b10">[11]</ref><ref type="bibr" target="#b11">[12]</ref><ref type="bibr" target="#b12">[13]</ref><ref type="bibr" target="#b13">[14]</ref><ref type="bibr" target="#b15">[15]</ref><ref type="bibr" target="#b16">[16]</ref><ref type="bibr" target="#b17">[17]</ref><ref type="bibr" target="#b18">[18]</ref><ref type="bibr" target="#b19">[19]</ref><ref type="bibr" target="#b20">[20]</ref><ref type="bibr" target="#b21">[21]</ref><ref type="bibr" target="#b22">[22]</ref><ref type="bibr" target="#b23">[23]</ref><ref type="bibr" target="#b24">[24]</ref><ref type="bibr" target="#b25">[25]</ref><ref type="bibr" target="#b26">[26]</ref><ref type="bibr" target="#b27">[27]</ref><ref type="bibr" target="#b28">[28]</ref><ref type="bibr" target="#b29">[29]</ref> The characteristics of the included studies are summarized in Table <ref type="table">1</ref>. A total of 1,822 patients and 3,131 implants were considered in this review. In one study, <ref type="bibr" target="#b12">13</ref> the number of patients was not reported, and the reviewers assumed it was equivalent to the reported number of interventions.</p><p>The included studies were published between 1998 and 2010. Nine studies described the use of graft materials in combination with sinus membrane elevation, <ref type="bibr" target="#b10">11,</ref><ref type="bibr" target="#b11">12,</ref><ref type="bibr" target="#b15">15,</ref><ref type="bibr" target="#b17">17,</ref><ref type="bibr" target="#b19">19,</ref><ref type="bibr" target="#b20">20,</ref><ref type="bibr" target="#b24">24,</ref><ref type="bibr" target="#b26">26,</ref><ref type="bibr" target="#b27">27</ref> while in 11 studies, no graft was used. <ref type="bibr" target="#b12">13,</ref><ref type="bibr" target="#b13">14,</ref><ref type="bibr" target="#b16">16,</ref><ref type="bibr" target="#b18">18,</ref><ref type="bibr" target="#b21">[21]</ref><ref type="bibr" target="#b22">[22]</ref><ref type="bibr" target="#b23">[23]</ref><ref type="bibr" target="#b24">[24]</ref><ref type="bibr" target="#b25">[25]</ref><ref type="bibr" target="#b28">28,</ref><ref type="bibr" target="#b29">29</ref> In one of the included studies, 35% of the implants were inserted in combination with bone grafting procedure, and for 65% of the implants, no graft was used. <ref type="bibr" target="#b24">24</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Implant SR and Failures</head><p>Cumulative implant SRs were estimated for each study at the 1-, 2-, 3-, and 5-year follow-up (Table <ref type="table" target="#tab_1">2</ref>). Overall weighted mean SR was estimated to 98.12% at 1-year, 97.40% at 2-year, 96.75% at 3-year, and 95.81% at 5-year follow-up.</p><p>The pattern of implant failure in studies with at least 3-year follow-up is presented in Figure <ref type="figure" target="#fig_2">2</ref>. A total of 2,884 implants in 14 studies <ref type="bibr" target="#b11">[12]</ref><ref type="bibr" target="#b12">[13]</ref><ref type="bibr" target="#b13">[14]</ref><ref type="bibr" target="#b15">[15]</ref><ref type="bibr" target="#b17">17,</ref><ref type="bibr" target="#b18">18,</ref><ref type="bibr" target="#b20">20,</ref><ref type="bibr" target="#b22">[22]</ref><ref type="bibr" target="#b23">[23]</ref><ref type="bibr" target="#b24">[24]</ref><ref type="bibr" target="#b26">[26]</ref><ref type="bibr" target="#b27">[27]</ref><ref type="bibr" target="#b28">[28]</ref><ref type="bibr" target="#b29">[29]</ref> were considered in this analysis with a total of 92 failures over the years.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Effect of Bone Graft</head><p>Considering separately studies using <ref type="bibr" target="#b10">11,</ref><ref type="bibr" target="#b11">12,</ref><ref type="bibr" target="#b15">15,</ref><ref type="bibr" target="#b17">17,</ref><ref type="bibr" target="#b19">19,</ref><ref type="bibr" target="#b20">20,</ref><ref type="bibr" target="#b24">24,</ref><ref type="bibr" target="#b26">26,</ref><ref type="bibr" target="#b27">27</ref> and not using <ref type="bibr" target="#b12">13,</ref><ref type="bibr" target="#b13">14,</ref><ref type="bibr" target="#b16">16,</ref><ref type="bibr" target="#b18">18,</ref><ref type="bibr" target="#b21">[21]</ref><ref type="bibr" target="#b22">[22]</ref><ref type="bibr" target="#b23">[23]</ref><ref type="bibr" target="#b24">[24]</ref><ref type="bibr" target="#b25">[25]</ref><ref type="bibr" target="#b28">28,</ref><ref type="bibr" target="#b29">29</ref> bone graft materials, the SR at 1 year was respectively 97.37% for 1,367 implants and 97.90% for 1,764 implants. No statistically significant difference was found between the outcomes of the two groups using Pearson's test (p = .32; OR = 0.79; 95% CI 0.50, 1.26).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Effect of Implant Length</head><p>Table <ref type="table" target="#tab_2">3</ref> shows the distribution of implants according to implant length and residual ridge height. The mean values of these variables are also reported for each study, when available. A total of 1,791 implants in 15 studies <ref type="bibr" target="#b10">11,</ref><ref type="bibr" target="#b12">[13]</ref><ref type="bibr" target="#b13">[14]</ref><ref type="bibr" target="#b15">[15]</ref><ref type="bibr" target="#b17">17,</ref><ref type="bibr" target="#b19">[19]</ref><ref type="bibr" target="#b20">[20]</ref><ref type="bibr" target="#b21">[21]</ref><ref type="bibr" target="#b22">[22]</ref><ref type="bibr" target="#b23">[23]</ref><ref type="bibr" target="#b24">[24]</ref><ref type="bibr" target="#b25">[25]</ref><ref type="bibr" target="#b26">[26]</ref><ref type="bibr" target="#b27">[27]</ref><ref type="bibr" target="#b29">29</ref> were considered: 387 implants shorter than 8.5 mm, 769 from 8.5 mm to 10 mm long, and 635 longer than 10 mm. Overall implant survival was, respectively, 97.16%, 97.66%, and 98.11% for the subgroups. No significant difference was found between subgroups, suggesting that implant length had no consistent relation with implant survival.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Effect of Residual Ridge Height</head><p>Residual ridge height was analyzed dichotomously and pooled according to the use of bone graft. Two studies did not provide sufficient data to be included in this subanalysis. <ref type="bibr" target="#b13">14,</ref><ref type="bibr" target="#b19">19</ref> The mean residual bone height varied from 6.5 1 1.7 mm 19 to 8.8 1 2.5 mm <ref type="bibr" target="#b10">11</ref> for implants placed in combination with bone graft and from  2.5 1 1.7 25 to 9.1 1 0.3 mm <ref type="bibr" target="#b16">16</ref> for implants placed without the use of bone graft. Overall implant survival was 92.7% for 331 implants placed in &lt;5 mm ridge height and 96.9% for 2525 implants inserted in 35 mm ridge height. The difference was significant (p = .0003; OR = 0.43; 95% CI = 0.27, 0.69), suggesting that the prognosis can be more favorable when the residual ridge height is greater than 5 mm.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>TABLE 1 General Characteristics of the Included Studies</head><note type="other">Author</note></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Combined Effect of Grafting and Ridge Height</head><p>The data were further split by combining the analysis on grafting and that on ridge height. When a grafting procedure was performed, overall implant survival was 87.0% and 96.2% for residual ridge height of &lt;5 mm (n = 46) and 35 mm (n = 1198), respectively. The difference was significant (p = .002; OR = 0.26; 95% CI = 0.10, 0.64). For implants placed without a grafting procedure, implant survival was 94.2% and 97.2% for residual ridge height of &lt;5 mm (n = 241) and 35 mm (n = 1151), respectively (p = .016; OR = 0.46; 95% CI = 0.24, 0.88). This analysis confirmed that, independent of using a grafting procedure, better implant survival may be achieved when residual ridge height is at least 5 mm. In such a case, no significant difference was found between the outcomes of implants placed in combination or not with a grafting procedure (p = .18; OR = 0.73; 95% CI = 0.46, 1.16). Also for lower residual     </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>No</head><p>The number of failed implants is indicated within parentheses. Details on failed implants as residual ridge height and implant length were not always available. n.r.</p><p>= not reported.</p><p>ridges, no significant difference was found (p = .08; OR = 0.41; 95% CI = 0.15, 1.13), although the higher variation suggests that implant survival might be less predictable. The article by Pjetursson and colleagues, in which the transalveolar technique was performed either with or without grafting, had to be excluded from the latter analysis as it did not provide sufficient details for splitting the data as required. <ref type="bibr" target="#b24">24</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Intrasurgical Complications</head><p>Nose bleeding was reported in 0.3% of cases in which a grafting procedure was adopted (n = 1367) and in 1.6% of cases performed without grafting (n = 1764). The difference was significant (p = .0003; OR = 5.50; 95% CI = 1.92, 15.71). Sinus membrane perforation was reported in 2.5% and 1.7% of cases performed with or without grafting, respectively. Such difference was not significant (p = .12; OR = 0.68; 95% CI = 0.41, 1.11).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DISCUSSION</head><p>Previous systematic reviews suggested that the cumulative SRs for implants placed with transalveolar technique are comparable with those relative to implants placed in native maxillary bone. <ref type="bibr" target="#b3">4,</ref><ref type="bibr" target="#b4">5</ref> However, the advantage of using bone grafting material in the osteotome technique was not clearly demonstrated and discussed in the above-mentioned reviews. <ref type="bibr" target="#b3">4,</ref><ref type="bibr" target="#b4">5</ref> In the present study, the SR for implants placed in combination with osteotome-mediated sinus floor elevation was around 95% at 3-year follow-up demonstrating the high standard of performance of this treatment option. Implant failures occurred mainly during the first year after prosthetic loading, while only about one-third of the total failures occurred subsequently.</p><p>Several studies showed that neo-osteogenesis may occur even when the sinus membrane is lifted and the underneath space filled by blood clot. <ref type="bibr" target="#b8">9,</ref><ref type="bibr" target="#b30">[30]</ref><ref type="bibr" target="#b31">[31]</ref><ref type="bibr" target="#b32">[32]</ref><ref type="bibr" target="#b33">[33]</ref><ref type="bibr" target="#b34">[34]</ref> It was hypothesized that blood clot can induce neoosteogenesis through the stimulation of osteoprogenitor cells from the periosteum. <ref type="bibr" target="#b35">35</ref> Other authors observed the spontaneous bone formation under the Schneiderian membrane after tooth extraction or cyst removal in the posterior maxilla. <ref type="bibr" target="#b8">9,</ref><ref type="bibr" target="#b36">36</ref> It was also postulated that the membrane itself has osteogenic potential that may support bone neoformation. <ref type="bibr" target="#b32">32</ref> These considerations provided the biological background to perform the transalveolar sinus lifting procedure without the use of any graft material. As evidenced in the present review, studies in which the sinus membrane is lifted without using bone grafts are relatively recent in comparison with those using grafting material. Moreover no statistically significant difference was observed as regard to implant SR at 1-year follow-up (p = .32) between studies using or not using a grafting material. Thus, it could be postulated that the use of grafting material should not be considered fundamental for achieving successful outcomes in the transalveolar technique.</p><p>Some of the included studies emphasized the finding that implant failures occur more frequently when using short implants, <ref type="bibr" target="#b17">17,</ref><ref type="bibr" target="#b24">24</ref> suggesting an inverse relation between implant failure rate and implant length. Such relation, however, could not be confirmed by the present review. Implants less than 8.5 mm long displayed an SR comparable with longer ones, as also reported in previous studies. <ref type="bibr" target="#b37">[37]</ref><ref type="bibr" target="#b38">[38]</ref><ref type="bibr" target="#b39">[39]</ref> If the implant length is appropriately chosen in function of the available bone, and the prosthetic design is correct, the use of short or extra-short implants is not contraindicated and may as well lead to successful outcomes as shown by recent literature. <ref type="bibr" target="#b40">[40]</ref><ref type="bibr" target="#b41">[41]</ref><ref type="bibr" target="#b42">[42]</ref> Analysis of residual ridge height was limited by incomplete reported data. It was observed that, generally, the use of bone grafting procedure was not correlated with initial bone height, although no significant correlation could be obtained. Otherwise, also in studies where reported mean initial bone height was less than 3 mm, the sinus lifting procedure without grafting was successful and without severe adverse sequelae. <ref type="bibr" target="#b12">13,</ref><ref type="bibr" target="#b25">25,</ref><ref type="bibr" target="#b29">29</ref> While residual ridge height is considered a fundamental factor to achieve implant primary stability immediately after placement, which is critical to successful osseointegration, residual ridge height analysis lead to other relevant considerations. It could be postulated that bone neoformation in the transalveolar technique may not depend only on residual bone height because all anatomical local components (including Schneiderian membrane and periosteum) together may contribute. This concept implies that, in order to obtain neo-osteogenesis without the use of bone grafting material, the integrity of these structures should be preserved as much as possible during surgical procedure. The analysis concerning intrasurgical complications showed substantial equivalence in membrane perforation rate between cases treated using and not using grafting procedure, the incidence being rather low as compared with perforation rates reported for the lateral approach. <ref type="bibr" target="#b43">[43]</ref><ref type="bibr" target="#b44">[44]</ref><ref type="bibr" target="#b45">[45]</ref> It should be noted, however, that a number of unnoticed perforations of the membrane should be reasonably taken into account, due to the blindness of the procedure regarding this aspect. Therefore, the results of such analysis should be interpreted cautiously.</p><p>Thus, similar to the scientific literature pertinent to sinus lifting with lateral approach, <ref type="bibr" target="#b5">6,</ref><ref type="bibr" target="#b46">46,</ref><ref type="bibr" target="#b47">47</ref> successful implant rehabilitation could be achieved with transalveolar technique also in cases with scarce residual bone height.</p><p>The low implant SR found when grafting procedure is used in the presence of a ridge less than 5 mm high (87%), even though not significantly different from the outcome of procedures without grafting in similar ridge height, could be misleading. Indeed, such a value was estimated using a very low sample size (n = 46) respect to the other subgroups, and most failures derive from a single study. <ref type="bibr" target="#b15">15</ref> Clearly, a higher sample size is needed to get more insight in this issue. Some limitations could be identified in the present paper. First, the absence of randomized controlled trials prevents the estimation of the true efficacy of the use of bone grafting material in the transalveolar maxillary sinus augmentation procedure. Incomplete data reporting in most of the included studies precluded the possibility to perform a consistent meta-analysis. Only weighted mean implant SRs could be estimated and used for comparisons. Furthermore, the absence of individual patients' data for most variables, such as the residual bone height, could be a confounding factor in all comparative analyses. Finally, the use of the implant instead of the patient as the analysis unit was due as most of the included studies did not provide information at patient level about the failures.</p><p>Within the limitations of the study, we can assume that the transalveolar sinus augmentation technique could be a viable treatment in case of localized atrophy in the posterior maxilla even in case of minimal residual bone height. The authors could find no differences in terms of SRs in relation with the use of bone grafting material or not.</p><p>Further RCT studies with larger sample size and precise description of anatomical features of the bone crest could be useful for gaining more insight on this treatment option.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1</head><label>1</label><figDesc>Figure1Flow of articles during the selection process.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head></head><label></label><figDesc>ABB</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 2</head><label>2</label><figDesc>Figure 2 Pattern of implant failure over time in studies with at least 3-year follow-up.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>TABLE 2 Implant Survival Rates Over Time</head><label>2</label><figDesc></figDesc><table><row><cell></cell><cell></cell><cell>CSR %</cell><cell></cell><cell>CSR %</cell><cell></cell><cell>CSR %</cell><cell></cell><cell>CSR %</cell></row><row><cell>Study</cell><cell>N</cell><cell>1 Year</cell><cell>N</cell><cell>2 Years</cell><cell>N</cell><cell>3 Years</cell><cell>N</cell><cell>5 Years</cell></row><row><cell>Zitzmann and Scharer 11</cell><cell>59</cell><cell>94.92</cell><cell>56</cell><cell>94.92</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell></row><row><cell>Rosen and colleagues 12</cell><cell>174</cell><cell>98.28</cell><cell>79</cell><cell>97.03</cell><cell>43</cell><cell>97.03</cell><cell>-</cell><cell>-</cell></row><row><cell>Cavicchia and colleagues 13</cell><cell>97</cell><cell>89.69</cell><cell>87</cell><cell>89.69</cell><cell>87</cell><cell>89.69</cell><cell>86</cell><cell>88.65</cell></row><row><cell>Fugazzotto 14</cell><cell>116</cell><cell>98.28</cell><cell>83</cell><cell>98.28</cell><cell>40</cell><cell>98.28</cell><cell>-</cell><cell>-</cell></row><row><cell>Toffler 15</cell><cell>276</cell><cell>96.38</cell><cell>266</cell><cell>95.29</cell><cell>263</cell><cell>93.48</cell><cell>258</cell><cell>93.48</cell></row><row><cell>Leblebicioglu and colleagues 16</cell><cell>75</cell><cell>97.33</cell><cell>73</cell><cell>97.33</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell></row><row><cell>Ferrigno and colleagues 17</cell><cell>588</cell><cell>99.83</cell><cell>431</cell><cell>99.60</cell><cell>359</cell><cell>99.32</cell><cell>230</cell><cell>98.46</cell></row><row><cell>Jurisic and colleagues 18</cell><cell>40</cell><cell>100.00</cell><cell>40</cell><cell>100.00</cell><cell>40</cell><cell>100.00</cell><cell>-</cell><cell>-</cell></row><row><cell>Diss and colleagues 19</cell><cell>35</cell><cell>97.14</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell></row><row><cell>Kermalli and colleagues 20</cell><cell>57</cell><cell>96.49</cell><cell>55</cell><cell>96.49</cell><cell>55</cell><cell>96.49</cell><cell>55</cell><cell>96.49</cell></row><row><cell>Schmidlin and colleagues 21</cell><cell>24</cell><cell>100.00</cell><cell>24</cell><cell>100.00</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell></row><row><cell>Gabbert and colleagues 22</cell><cell>92</cell><cell>95.65</cell><cell>83</cell><cell>95.65</cell><cell>83</cell><cell>95.65</cell><cell>-</cell><cell>-</cell></row><row><cell>Fermergard and Astrand 23</cell><cell>53</cell><cell>96.23</cell><cell>-</cell><cell>-</cell><cell>50</cell><cell>94.30</cell><cell>-</cell><cell>-</cell></row><row><cell>Pjetursson and colleagues 24</cell><cell>252</cell><cell>98.81</cell><cell>200</cell><cell>97.82</cell><cell>144</cell><cell>97.14</cell><cell>38</cell><cell>97.14</cell></row><row><cell>Nedir and colleagues 25</cell><cell>54</cell><cell>100.00</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell></row><row><cell>Calvo-Guirado and colleagues 26</cell><cell>60</cell><cell>96.67</cell><cell>58</cell><cell>96.67</cell><cell>58</cell><cell>96.67</cell><cell>-</cell><cell>-</cell></row><row><cell>Crespi and colleagues 27</cell><cell>30</cell><cell>100.00</cell><cell>30</cell><cell>100.00</cell><cell>30</cell><cell>100.00</cell><cell>-</cell><cell>-</cell></row><row><cell>Tetsch and colleagues 28</cell><cell>983</cell><cell>98.88</cell><cell>887</cell><cell>97.88</cell><cell>805</cell><cell>97.39</cell><cell>529</cell><cell>96.84</cell></row><row><cell>Bruschi and colleagues 29</cell><cell>66</cell><cell>95.45</cell><cell>63</cell><cell>95.45</cell><cell>63</cell><cell>95.45</cell><cell>63</cell><cell>95.45</cell></row><row><cell></cell><cell>3,131</cell><cell>98.12*</cell><cell>2,515</cell><cell>97.40*</cell><cell>2,120</cell><cell>96.75*</cell><cell>1,259</cell><cell>95.81*</cell></row></table><note><p>*Weighted mean cumulative implant survival. CSR = cumulative survival rate; N = number of implants at the beginning of the interval.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>TABLE 3 Implant Distribution According to Residual Ridge Height, Implant Length, and Use of Graft Material</head><label>3</label><figDesc></figDesc><table><row><cell></cell><cell>Bone Graft</cell><cell>Yes</cell><cell>Yes</cell><cell>No</cell><cell></cell></row><row><cell></cell><cell>&gt;10 mm</cell><cell>22 (1)</cell><cell>n.r.</cell><cell>63</cell><cell></cell></row><row><cell>Implant Length</cell><cell>&lt;8.5 mm 8.5-10 mm</cell><cell>0 37 (2)</cell><cell>n.r. n.r.</cell><cell>6 28</cell><cell></cell></row><row><cell></cell><cell>Average, mm</cell><cell>n.r.</cell><cell>n.r.</cell><cell>12.3</cell><cell></cell></row><row><cell></cell><cell>35 mm</cell><cell>59 (3)</cell><cell>160 (6)</cell><cell>0</cell><cell>n.r.</cell></row><row><cell>Residual Ridge Height</cell><cell>Average, mm &lt;5 mm</cell><cell>8.8 0</cell><cell>n.r. 14 (2)</cell><cell>2.9 97 (11)</cell><cell>n.r. n.r.</cell></row><row><cell></cell><cell>Total n Implants</cell><cell>59 (3)</cell><cell>174 (8)</cell><cell>97 (11)</cell><cell>116 (2)</cell></row><row><cell></cell><cell>Study</cell><cell>Zitzmann and Scharer 11</cell><cell>Rosen and colleagues 12</cell><cell>Cavicchia and colleagues 13</cell><cell>Fugazzotto 14</cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>Clinical Implant Dentistry and Related Research, Volume 14,Supplement 1, 2012   </p></note>
 		</body>
 		<back>
-			<div type="annex">
-<div xmlns="http://www.tei-c.org/ns/1.0"><head>DISCLOSURE</head><p>The authors claim to have no financial interest, either directly or</p></div>			</div>
 			<div type="references">
 
 				<listBibl>
 
 <biblStruct xml:id="b0">
 	<analytic>
-		<title level="a" type="main">UV photofunctionalization of titanium implants</title>
+		<title level="a" type="main">Implant survival rates after maxillary sinus augmentation</title>
 		<author>
-			<persName><forename type="first">T</forename><surname>Ogawa</surname></persName>
+			<persName><forename type="first">Del</forename><surname>Fabbro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Rosano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Taschieri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">J Craniofac Tissue Eng</title>
+		<title level="j">Eur J Oral Sci</title>
 		<imprint>
-			<biblScope unit="volume">2</biblScope>
-			<biblScope unit="page" from="151" to="158" />
-			<date type="published" when="2012">2012</date>
+			<biblScope unit="volume">116</biblScope>
+			<biblScope unit="page" from="497" to="506" />
+			<date type="published" when="2008">2008</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b1">
 	<analytic>
-		<title level="a" type="main">Biological aging of implant surfaces and their restoration with ultraviolet light treatment: A novel understanding of osseointegration</title>
+		<title level="a" type="main">Predictability of simultaneous implant placement in the severely atrophic posterior maxilla: a 9-year longitudinal experience study of 2132 implants placed into 731 human sinus grafts</title>
 		<author>
-			<persName><forename type="first">W</forename><surname>Att</surname></persName>
+			<persName><forename type="first">M</forename><surname>Peleg</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">T</forename><surname>Ogawa</surname></persName>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Garg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Mazor</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
 		<title level="j">Int J Oral Maxillofac Implants</title>
 		<imprint>
-			<biblScope unit="volume">27</biblScope>
-			<biblScope unit="page" from="753" to="761" />
-			<date type="published" when="2012">2012</date>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="94" to="102" />
+			<date type="published" when="2006">2006</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b2">
 	<analytic>
-		<title level="a" type="main">The biological aging of titanium implants</title>
+		<title level="a" type="main">Effectiveness of sinus lift procedures for dental implant rehabilitation: a Cochrane systematic review</title>
 		<author>
-			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Lee</surname></persName>
+			<persName><forename type="first">M</forename><surname>Esposito</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">T</forename><surname>Ogawa</surname></persName>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Grusovin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Rees</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Implant Dent</title>
+		<title level="j">Eur J Oral Implantol</title>
 		<imprint>
-			<biblScope unit="volume">21</biblScope>
-			<biblScope unit="page" from="415" to="421" />
-			<date type="published" when="2012">2012</date>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="7" to="26" />
+			<date type="published" when="2010">2010</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b3">
 	<analytic>
-		<title level="a" type="main">Photofunctionalization of TiO 2 for optimal integration of titanium with bone</title>
+		<title level="a" type="main">A systematic review of the success of sinus floor elevation and survival of implants inserted in combination with sinus floor elevation. Part II: transalveolar technique</title>
 		<author>
-			<persName><forename type="first">T</forename><surname>Ogawa</surname></persName>
+			<persName><forename type="first">W</forename><forename type="middle">C</forename><surname>Tan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">P</forename><surname>Lang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Zwahlen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">E</forename><surname>Pjetursson</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="s">Benign Photocatalysts. Applications of Titanium Oxide-based Materials</title>
-		<editor>
-			<persName><forename type="first">P</forename><surname>Kamat</surname></persName>
-		</editor>
-		<editor>
-			<persName><forename type="first">M</forename><surname>Anpo</surname></persName>
-		</editor>
+		<title level="j">J Clin Periodontol</title>
 		<imprint>
-			<biblScope unit="page" from="699" to="713" />
-			<date type="published" when="2010">2010</date>
-			<publisher>Springer</publisher>
-			<pubPlace>New York</pubPlace>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="241" to="254" />
+			<date type="published" when="2008">2008</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b4">
 	<analytic>
-		<title level="a" type="main">The effect of ultraviolet functionalization of titanium on integration with bone</title>
+		<title level="a" type="main">Sinus floor elevation using osteotomes: a systematic review and meta-analysis</title>
 		<author>
-			<persName><forename type="first">H</forename><surname>Aita</surname></persName>
+			<persName><forename type="first">D</forename><surname>Emmerich</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">N</forename><surname>Hori</surname></persName>
+			<persName><forename type="first">W</forename><surname>Att</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">M</forename><surname>Takeuchi</surname></persName>
+			<persName><forename type="first">C</forename><surname>Stappert</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Biomaterials</title>
+		<title level="j">J Periodontol</title>
 		<imprint>
-			<biblScope unit="volume">30</biblScope>
-			<biblScope unit="page" from="1015" to="1025" />
-			<date type="published" when="2009">2009</date>
+			<biblScope unit="volume">76</biblScope>
+			<biblScope unit="page" from="1237" to="1251" />
+			<date type="published" when="2005">2005</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b5">
 	<analytic>
-		<title level="a" type="main">Synergistic effects of UV photofunctionalization and micro-nano hybrid topography on the biological properties of titanium</title>
+		<title level="a" type="main">Maxillary and sinus implant reconstructions</title>
 		<author>
-			<persName><forename type="first">N</forename><surname>Tsukimura</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">M</forename><surname>Yamada</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">F</forename><surname>Iwasa</surname></persName>
+			<persName><forename type="first">H</forename><surname>Tatum</surname><genName>Jr</genName></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Biomaterials</title>
+		<title level="j">Dent Clin North Am</title>
 		<imprint>
-			<biblScope unit="volume">32</biblScope>
-			<biblScope unit="page" from="4358" to="4368" />
-			<date type="published" when="2011">2011</date>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="207" to="229" />
+			<date type="published" when="1986">1986</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b6">
 	<analytic>
-		<title level="a" type="main">Effect of ultraviolet photoactivation of titanium on osseointegration in a rat model</title>
+		<title level="a" type="main">The osteotome technique: part 3 -less invasive methods of elevating the sinus floor</title>
 		<author>
-			<persName><forename type="first">T</forename><surname>Ueno</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">M</forename><surname>Yamada</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">N</forename><surname>Hori</surname></persName>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Summers</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Int J Oral Maxillofac Implants</title>
+		<title level="j">Compendium</title>
 		<imprint>
-			<biblScope unit="volume">25</biblScope>
-			<biblScope unit="page" from="287" to="294" />
-			<date type="published" when="2010">2010</date>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page">710</biblScope>
+			<date type="published" when="1994">1994</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b7">
 	<analytic>
-		<title level="a" type="main">Enhancement of bone-titanium integration profile with UV-photofunctionalized titanium in a gap healing model</title>
+		<title level="a" type="main">Bone reformation with sinus membrane elevation: a new surgical technique for maxillary sinus floor augmentation</title>
 		<author>
-			<persName><forename type="first">T</forename><surname>Ueno</surname></persName>
+			<persName><forename type="first">S</forename><surname>Lundgren</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">M</forename><surname>Yamada</surname></persName>
+			<persName><forename type="first">S</forename><surname>Andersson</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">T</forename><surname>Suzuki</surname></persName>
+			<persName><forename type="first">F</forename><surname>Gualini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Sennerby</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Biomaterials</title>
+		<title level="j">Clin Implant Dent Relat Res</title>
 		<imprint>
-			<biblScope unit="volume">31</biblScope>
-			<biblScope unit="page" from="1546" to="1557" />
-			<date type="published" when="2010">2010</date>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="165" to="173" />
+			<date type="published" when="2004">2004</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b8">
 	<analytic>
-		<title level="a" type="main">Ultraviolet treatment overcomes time-related degrading bioactivity of titanium</title>
+		<title level="a" type="main">Bone reformation and implant integration following maxillary sinus membrane elevation: an experimental study in primates</title>
 		<author>
-			<persName><forename type="first">T</forename><surname>Suzuki</surname></persName>
+			<persName><forename type="first">V</forename><forename type="middle">C</forename><surname>Palma</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">N</forename><surname>Hori</surname></persName>
+			<persName><forename type="first">O</forename><surname>Magro-Filho</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">W</forename><surname>Att</surname></persName>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>De Oliveria</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Lundgren</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Salata</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Sennerby</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Tissue Eng Part A</title>
+		<title level="j">Clin Implant Dent Relat Res</title>
 		<imprint>
-			<biblScope unit="volume">15</biblScope>
-			<biblScope unit="page" from="3679" to="3688" />
-			<date type="published" when="2009">2009</date>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="11" to="24" />
+			<date type="published" when="2006">2006</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b9">
 	<analytic>
-		<title level="a" type="main">TiO2 micro-nano-hybrid surface to alleviate biological aging of UV-photofunctionalized titanium</title>
+		<title level="a" type="main">Spontaneous bone formation in the maxillary sinus after removal of a cyst: coincidence or consequence?</title>
 		<author>
-			<persName><forename type="first">F</forename><surname>Iwasa</surname></persName>
+			<persName><forename type="first">S</forename><surname>Lundgren</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">N</forename><surname>Tsukimura</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">Y</forename><surname>Sugita</surname></persName>
-		</author>
-	</analytic>
-	<monogr>
-		<title level="j">Int J Nanomedicine</title>
-		<imprint>
-			<biblScope unit="volume">6</biblScope>
-			<biblScope unit="page" from="1327" to="1341" />
-			<date type="published" when="2011">2011</date>
-		</imprint>
-	</monogr>
-</biblStruct>
-
-<biblStruct xml:id="b10">
-	<analytic>
-		<title level="a" type="main">Enhancement of osteoblast adhesion to UV-photofunctionalized titanium via an electrostatic mechanism</title>
-		<author>
-			<persName><forename type="first">F</forename><surname>Iwasa</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">N</forename><surname>Hori</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">T</forename><surname>Ueno</surname></persName>
-		</author>
-	</analytic>
-	<monogr>
-		<title level="j">Biomaterials</title>
-		<imprint>
-			<biblScope unit="volume">31</biblScope>
-			<biblScope unit="page" from="2717" to="2727" />
-			<date type="published" when="2010">2010</date>
-		</imprint>
-	</monogr>
-</biblStruct>
-
-<biblStruct xml:id="b11">
-	<analytic>
-		<title level="a" type="main">Electrostatic control of protein adsorption on UV-photofunctionalized titanium</title>
-		<author>
-			<persName><forename type="first">N</forename><surname>Hori</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">T</forename><surname>Ueno</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">H</forename><surname>Minamikawa</surname></persName>
-		</author>
-	</analytic>
-	<monogr>
-		<title level="j">Acta Biomater</title>
-		<imprint>
-			<biblScope unit="volume">6</biblScope>
-			<biblScope unit="page" from="663" to="667" />
-			<date type="published" when="2009">2010. 2009</date>
-		</imprint>
-	</monogr>
-	<note>J Dent Res</note>
-</biblStruct>
-
-<biblStruct xml:id="b12">
-	<analytic>
-		<title level="a" type="main">Time-dependent degradation of titanium osteoconductivity: An implication of biological aging of implant materials</title>
-		<author>
-			<persName><forename type="first">W</forename><surname>Att</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">N</forename><surname>Hori</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">M</forename><surname>Takeuchi</surname></persName>
-		</author>
-	</analytic>
-	<monogr>
-		<title level="j">Biomaterials</title>
-		<imprint>
-			<biblScope unit="volume">30</biblScope>
-			<biblScope unit="page" from="5352" to="5363" />
-			<date type="published" when="2009">2009</date>
-		</imprint>
-	</monogr>
-</biblStruct>
-
-<biblStruct xml:id="b13">
-	<analytic>
-		<title level="a" type="main">Enhancement of adhesion strength and cellular stiffness of osteoblasts on mirror-polished titanium surface by UV-photofunctionalization</title>
-		<author>
-			<persName><forename type="first">M</forename><surname>Yamada</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">T</forename><surname>Miyauchi</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">A</forename><surname>Yamamoto</surname></persName>
-		</author>
-	</analytic>
-	<monogr>
-		<title level="j">Acta Biomater</title>
-		<imprint>
-			<biblScope unit="volume">6</biblScope>
-			<biblScope unit="page" from="4578" to="4588" />
-			<date type="published" when="2010">2010</date>
-		</imprint>
-	</monogr>
-</biblStruct>
-
-<biblStruct xml:id="b14">
-	<analytic>
-		<title level="a" type="main">The enhanced characteristics of osteoblast adhesion to photofunctionalized nanoscale TiO2 layers on biomaterials surfaces</title>
-		<author>
-			<persName><forename type="first">T</forename><surname>Miyauchi</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">M</forename><surname>Yamada</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">A</forename><surname>Yamamoto</surname></persName>
-		</author>
-	</analytic>
-	<monogr>
-		<title level="j">Biomaterials</title>
-		<imprint>
-			<biblScope unit="volume">31</biblScope>
-			<biblScope unit="page" from="3827" to="3839" />
-			<date type="published" when="2010">2010</date>
-		</imprint>
-	</monogr>
-</biblStruct>
-
-<biblStruct xml:id="b15">
-	<analytic>
-		<title level="a" type="main">Enhanced bone-integration capability of alkali-and heat-treated nanopolymorphic titanium in micro-to-nanoscale hierarchy</title>
-		<author>
-			<persName><forename type="first">T</forename><surname>Ueno</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">N</forename><surname>Tsukimura</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">M</forename><surname>Yamada</surname></persName>
-		</author>
-	</analytic>
-	<monogr>
-		<title level="j">Biomaterials</title>
-		<imprint>
-			<biblScope unit="volume">32</biblScope>
-			<biblScope unit="page" from="7297" to="7308" />
-			<date type="published" when="2011">2011</date>
-		</imprint>
-	</monogr>
-</biblStruct>
-
-<biblStruct xml:id="b16">
-	<monogr>
-		<title/>
-		<author>
-			<persName><forename type="first">M</forename><surname>Bischof</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">R</forename><surname>Nedir</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">-</forename><surname>Szmukler</surname></persName>
-		</author>
-		<imprint/>
-	</monogr>
-</biblStruct>
-
-<biblStruct xml:id="b17">
-	<analytic>
-		<title level="a" type="main">Implant stability measurement of delayed and immediately loaded implants during healing</title>
-		<author>
-			<persName><forename type="first">S</forename><surname>Moncler</surname></persName>
-		</author>
-	</analytic>
-	<monogr>
-		<title level="j">Clin Oral Implants Res</title>
-		<imprint>
-			<biblScope unit="volume">15</biblScope>
-			<biblScope unit="page" from="529" to="539" />
-			<date type="published" when="2004">2004</date>
-		</imprint>
-	</monogr>
-</biblStruct>
-
-<biblStruct xml:id="b18">
-	<analytic>
-		<title level="a" type="main">Resonance frequency analysis of implants subjected to immediate or early functional occlusal loading. Successful vs. failing implants</title>
-		<author>
-			<persName><forename type="first">R</forename><surname>Glauser</surname></persName>
+			<persName><forename type="first">S</forename><surname>Andersson</surname></persName>
 		</author>
 		<author>
 			<persName><forename type="first">L</forename><surname>Sennerby</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">N</forename><surname>Meredith</surname></persName>
-		</author>
-	</analytic>
-	<monogr>
-		<title level="j">Clin Oral Implants Res</title>
-		<imprint>
-			<biblScope unit="volume">15</biblScope>
-			<biblScope unit="page" from="428" to="434" />
-			<date type="published" when="2004">2004</date>
-		</imprint>
-	</monogr>
-</biblStruct>
-
-<biblStruct xml:id="b19">
-	<analytic>
-		<title level="a" type="main">Factors influencing resonance frequency analysis assessed by Osstell mentor during implant tissue integration: II. Implant surface modifications and implant diameter</title>
-		<author>
-			<persName><forename type="first">J</forename><surname>Han</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">M</forename><surname>Lulic</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">N</forename><forename type="middle">P</forename><surname>Lang</surname></persName>
-		</author>
-	</analytic>
-	<monogr>
-		<title level="j">Clin Oral Implants Res</title>
-		<imprint>
-			<biblScope unit="volume">21</biblScope>
-			<biblScope unit="page" from="605" to="611" />
-			<date type="published" when="2010">2010</date>
-		</imprint>
-	</monogr>
-</biblStruct>
-
-<biblStruct xml:id="b20">
-	<analytic>
-		<title level="a" type="main">Implant primary stability determined by resonance frequency analysis: Correlation with insertion torque, histologic bone volume, and torsional stability at 6 weeks</title>
-		<author>
-			<persName><forename type="first">C</forename><surname>Makary</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">A</forename><surname>Rebaudi</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">G</forename><surname>Sammartino</surname></persName>
-		</author>
-	</analytic>
-	<monogr>
-		<title level="j">Implant Dent</title>
-		<imprint>
-			<biblScope unit="volume">21</biblScope>
-			<biblScope unit="page" from="474" to="480" />
-			<date type="published" when="2012">2012</date>
-		</imprint>
-	</monogr>
-</biblStruct>
-
-<biblStruct xml:id="b21">
-	<analytic>
-		<title level="a" type="main">Implant surface morphology and primary stability: Is there a connection?</title>
-		<author>
-			<persName><forename type="first">F</forename><surname>Javed</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">K</forename><surname>Almas</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">R</forename><surname>Crespi</surname></persName>
-		</author>
-	</analytic>
-	<monogr>
-		<title level="j">Implant Dent</title>
-		<imprint>
-			<biblScope unit="volume">20</biblScope>
-			<biblScope unit="page" from="40" to="46" />
-			<date type="published" when="2011">2011</date>
-		</imprint>
-	</monogr>
-</biblStruct>
-
-<biblStruct xml:id="b22">
-	<analytic>
-		<title level="a" type="main">Implant stability measurements of two immediate loading protocols for the edentulous mandible: Rigid and semi-rigid splinting of the implants</title>
-		<author>
-			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Lee</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">Aparecida</forename><surname>De</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">Mattias</forename><surname>Sartori</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">I</forename><surname>Alcântara</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">P</forename><forename type="middle">R</forename></persName>
-		</author>
-	</analytic>
-	<monogr>
-		<title level="j">Implant Dent</title>
-		<imprint>
-			<biblScope unit="volume">21</biblScope>
-			<biblScope unit="page" from="486" to="490" />
-			<date type="published" when="2012">2012</date>
-		</imprint>
-	</monogr>
-</biblStruct>
-
-<biblStruct xml:id="b23">
-	<analytic>
-		<title level="a" type="main">Implant primary stability determined by resonance frequency analysis in surgically created defects: A pilot cadaver study</title>
-		<author>
-			<persName><forename type="first">H</forename><forename type="middle">L</forename><surname>Chan</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">K</forename><surname>El-Kholy</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Fu</surname></persName>
-		</author>
-	</analytic>
-	<monogr>
-		<title level="j">Implant Dent</title>
-		<imprint>
-			<biblScope unit="volume">19</biblScope>
-			<biblScope unit="page" from="509" to="519" />
-			<date type="published" when="2010">2010</date>
-		</imprint>
-	</monogr>
-</biblStruct>
-
-<biblStruct xml:id="b24">
-	<monogr>
-		<title level="m" type="main">An evaluation of the resonance frequency analysis device: Examiner reliability and repeatability of readings</title>
-		<author>
-			<persName><forename type="first">R</forename><forename type="middle">K</forename><surname>Gupta</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">T</forename><forename type="middle">V</forename><surname>Padmanabhan</surname></persName>
-		</author>
-		<imprint/>
-	</monogr>
-	<note>published online ahead of print October 4, 2011</note>
-</biblStruct>
-
-<biblStruct xml:id="b25">
-	<analytic>
-		<title/>
-		<idno type="DOI">10.1563/AAID-JOI-D-11-00099</idno>
-	</analytic>
-	<monogr>
-		<title level="j">J Oral Implantol</title>
-		<imprint/>
-	</monogr>
-</biblStruct>
-
-<biblStruct xml:id="b26">
-	<monogr>
-		<title/>
-		<author>
-			<persName><forename type="first">R</forename><surname>Nedir</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">M</forename><surname>Bischof</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">-</forename><surname>Szmukler</surname></persName>
-		</author>
-		<imprint/>
-	</monogr>
-</biblStruct>
-
-<biblStruct xml:id="b27">
-	<analytic>
-		<title level="a" type="main">Predicting osseointegration by means of implant primary stability</title>
-		<author>
-			<persName><forename type="first">S</forename><surname>Moncler</surname></persName>
-		</author>
-	</analytic>
-	<monogr>
-		<title level="j">Clin Oral Implants Res</title>
-		<imprint>
-			<biblScope unit="volume">15</biblScope>
-			<biblScope unit="page" from="520" to="528" />
-			<date type="published" when="2004">2004</date>
-		</imprint>
-	</monogr>
-</biblStruct>
-
-<biblStruct xml:id="b28">
-	<analytic>
-		<title level="a" type="main">Quantitative determination of the stability of the implant-tissue interface using resonance frequency analysis</title>
-		<author>
-			<persName><forename type="first">N</forename><surname>Meredith</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">D</forename><surname>Alleyne</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">P</forename><surname>Cawley</surname></persName>
-		</author>
-	</analytic>
-	<monogr>
-		<title level="j">Clin Oral Implants Res</title>
-		<imprint>
-			<biblScope unit="volume">7</biblScope>
-			<biblScope unit="page" from="261" to="267" />
-			<date type="published" when="1996">1996</date>
-		</imprint>
-	</monogr>
-</biblStruct>
-
-<biblStruct xml:id="b29">
-	<analytic>
-		<title level="a" type="main">Relation between initial implant stability quotient and bone-implant contact percentage: An in vitro model study [published online ahead of print August 23, 2012]. Oral Surg Oral Med Oral Pathol Oral Radiol</title>
-		<author>
-			<persName><forename type="first">H</forename><forename type="middle">L</forename><surname>Huang</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">M</forename><forename type="middle">T</forename><surname>Tsai</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">K</forename><forename type="middle">C</forename><surname>Su</surname></persName>
-		</author>
-		<idno type="DOI">.10.1016/j.oooo.2012.01.037.29</idno>
-	</analytic>
-	<monogr>
-		<title level="j">J Oral Rehabil</title>
-		<imprint>
-			<biblScope unit="volume">39</biblScope>
-			<biblScope unit="page" from="151" to="159" />
-			<date type="published" when="2012">2012</date>
-		</imprint>
-	</monogr>
-	<note>The relationship between implant stability quotient values and implant insertion variables: A clinical study</note>
-</biblStruct>
-
-<biblStruct xml:id="b30">
-	<analytic>
-		<title level="a" type="main">Implant stability measurements using resonance frequency analysis: Biological and biomechanical aspects and clinical implications</title>
-		<author>
-			<persName><forename type="first">L</forename><surname>Sennerby</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">N</forename><surname>Meredith</surname></persName>
-		</author>
-	</analytic>
-	<monogr>
-		<title level="j">Periodontol 2000</title>
-		<imprint>
-			<biblScope unit="volume">47</biblScope>
-			<biblScope unit="page" from="51" to="66" />
-			<date type="published" when="2008">2008</date>
-		</imprint>
-	</monogr>
-</biblStruct>
-
-<biblStruct xml:id="b31">
-	<analytic>
-		<title level="a" type="main">Different bone integration profiles of turned and acid-etched implants associated with modulated expression of extracellular matrix genes</title>
-		<author>
-			<persName><forename type="first">T</forename><surname>Ogawa</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">I</forename><surname>Nishimura</surname></persName>
-		</author>
-	</analytic>
-	<monogr>
-		<title level="j">Int J Oral Maxillofac Implants</title>
-		<imprint>
-			<biblScope unit="volume">18</biblScope>
-			<biblScope unit="page" from="200" to="210" />
-			<date type="published" when="2003">2003</date>
-		</imprint>
-	</monogr>
-</biblStruct>
-
-<biblStruct xml:id="b32">
-	<analytic>
-		<title level="a" type="main">Validity and clinical significance of biomechanical testing of implant/bone interface</title>
-		<author>
-			<persName><forename type="first">C</forename><surname>Aparicio</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">N</forename><forename type="middle">P</forename><surname>Lang</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">B</forename><surname>Rangert</surname></persName>
-		</author>
-	</analytic>
-	<monogr>
-		<title level="j">Clin Oral Implants Res</title>
-		<imprint>
-			<biblScope unit="volume">17</biblScope>
-			<biblScope unit="issue">2</biblScope>
-			<biblScope unit="page" from="2" to="7" />
-			<date type="published" when="2006">2006</date>
-		</imprint>
-	</monogr>
-</biblStruct>
-
-<biblStruct xml:id="b33">
-	<analytic>
-		<title level="a" type="main">Methods used to assess implant stability: Current status</title>
-		<author>
-			<persName><forename type="first">M</forename><surname>Atsumi</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Park</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">H</forename><forename type="middle">L</forename><surname>Wang</surname></persName>
-		</author>
-	</analytic>
-	<monogr>
-		<title level="j">Int J Oral Maxillofac Implants</title>
-		<imprint>
-			<biblScope unit="volume">22</biblScope>
-			<biblScope unit="page" from="743" to="754" />
-			<date type="published" when="2007">2007</date>
-		</imprint>
-	</monogr>
-</biblStruct>
-
-<biblStruct xml:id="b34">
-	<analytic>
-		<title level="a" type="main">Resonance frequency measurement of implant stability in vivo on implants with a sandblasted and acid-etched surface</title>
-		<author>
-			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Barewal</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">T</forename><forename type="middle">W</forename><surname>Oates</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">N</forename><surname>Meredith</surname></persName>
-		</author>
-	</analytic>
-	<monogr>
-		<title level="j">Int J Oral Maxillofac Implants</title>
-		<imprint>
-			<biblScope unit="volume">18</biblScope>
-			<biblScope unit="page" from="641" to="651" />
-			<date type="published" when="2003">2003</date>
-		</imprint>
-	</monogr>
-</biblStruct>
-
-<biblStruct xml:id="b35">
-	<analytic>
-		<title level="a" type="main">Early detection of alterations in the resonance frequency assessment of oral implant stability on various bone types: A clinical study</title>
-		<author>
-			<persName><forename type="first">M</forename><surname>Sençimen</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">A</forename><surname>Gülses</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">J</forename><surname>Ozen</surname></persName>
-		</author>
-	</analytic>
-	<monogr>
-		<title level="j">Int J Oral Maxillofac Implants</title>
-		<imprint>
-			<biblScope unit="volume">37</biblScope>
-			<biblScope unit="page" from="755" to="760" />
-			<date type="published" when="2007">2011. 2007</date>
-		</imprint>
-	</monogr>
-	<note>J Oral Implantol</note>
-</biblStruct>
-
-<biblStruct xml:id="b36">
-	<analytic>
-		<title level="a" type="main">Development of implant stability during early healing of immediately loaded implants</title>
-		<author>
-			<persName><forename type="first">A</forename><surname>Simunek</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">D</forename><surname>Kopecka</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">T</forename><surname>Brazda</surname></persName>
-		</author>
-	</analytic>
-	<monogr>
-		<title level="j">Int J Oral Maxillofac Implants</title>
-		<imprint>
-			<biblScope unit="volume">27</biblScope>
-			<biblScope unit="page" from="619" to="627" />
-			<date type="published" when="2012">2012</date>
-		</imprint>
-	</monogr>
-</biblStruct>
-
-<biblStruct xml:id="b37">
-	<analytic>
-		<title level="a" type="main">All-on-4&quot; immediate-function concept for completely edentulous maxillae: A clinical report on the medium (3 years) and long-term (5 years) outcomes</title>
-		<author>
-			<persName><forename type="first">P</forename><surname>Maló</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">M</forename><surname>De Araújo Nobre</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">A</forename><surname>Lopes</surname></persName>
-		</author>
-	</analytic>
-	<monogr>
-		<title level="j">Clin Implant Dent Relat Res</title>
-		<imprint>
-			<biblScope unit="volume">14</biblScope>
-			<biblScope unit="issue">1</biblScope>
-			<biblScope unit="page" from="139" to="e150" />
-			<date type="published" when="2012">2012</date>
-		</imprint>
-	</monogr>
-</biblStruct>
-
-<biblStruct xml:id="b38">
-	<analytic>
-		<title level="a" type="main">A longitudinal study of the survival of All-on-4 implants in the mandible with up to 10 years of follow-up</title>
-		<author>
-			<persName><forename type="first">P</forename><surname>Malo</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">M</forename><surname>De Araújo Nobre</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">A</forename><surname>Lopes</surname></persName>
-		</author>
-	</analytic>
-	<monogr>
-		<title level="j">J Am Dent Assoc</title>
-		<imprint>
-			<biblScope unit="volume">142</biblScope>
-			<biblScope unit="page" from="310" to="320" />
-			<date type="published" when="2011">2011</date>
-		</imprint>
-	</monogr>
-</biblStruct>
-
-<biblStruct xml:id="b39">
-	<analytic>
-		<title level="a" type="main">Patient selection and preparation</title>
-		<author>
-			<persName><forename type="first">U</forename><surname>Lekholm</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">G</forename><forename type="middle">A</forename><surname>Zarb</surname></persName>
-		</author>
-	</analytic>
-	<monogr>
-		<title level="m">Tissue Integrated Prostheses: Osseointegration in Clinical Dentistry</title>
-		<editor>
-			<persName><forename type="first">P</forename><forename type="middle">I</forename><surname>Brånemark</surname></persName>
-		</editor>
-		<editor>
-			<persName><forename type="first">T</forename><surname>Albrektsson</surname></persName>
-		</editor>
-		<meeting><address><addrLine>Chicago, IL</addrLine></address></meeting>
-		<imprint>
-			<publisher>Quitessence</publisher>
-			<date type="published" when="1985">1985</date>
-			<biblScope unit="page" from="199" to="209" />
-		</imprint>
-	</monogr>
-</biblStruct>
-
-<biblStruct xml:id="b40">
-	<analytic>
-		<title level="a" type="main">Early loading of maxillary fixed crossarch dental prostheses supported by six or eight oxidized titanium implants: Results after 1 year of loading, case series</title>
-		<author>
-			<persName><forename type="first">M</forename><surname>Olsson</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">G</forename><surname>Urde</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Andersen</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
 		<title level="j">Clin Implant Dent Relat Res</title>
 		<imprint>
 			<biblScope unit="volume">5</biblScope>
-			<biblScope unit="issue">1</biblScope>
-			<biblScope unit="page" from="81" to="87" />
+			<biblScope unit="page" from="78" to="81" />
 			<date type="published" when="2003">2003</date>
 		</imprint>
 	</monogr>
-	<note>suppl</note>
 </biblStruct>
 
-<biblStruct xml:id="b41">
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">Sinus elevation procedures in the resorbed posterior maxilla. Comparison of the crestal and lateral approaches. Oral Surg Oral Med Oral Pathol Oral Radiol Endod</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">U</forename><surname>Zitzmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Scharer</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1998">1998</date>
+			<biblScope unit="volume">85</biblScope>
+			<biblScope unit="page" from="8" to="17" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
 	<analytic>
-		<title level="a" type="main">Immediate and early loading of oxidized tapered implants in the partially edentulous maxilla: A 1-year prospective clinical, radiographic, and resonance frequency analysis study</title>
+		<title level="a" type="main">The bone-added osteotome sinus floor elevation technique: multicenter retrospective report of consecutively treated patients</title>
 		<author>
-			<persName><forename type="first">K</forename><surname>Fischer</surname></persName>
+			<persName><forename type="first">P</forename><forename type="middle">S</forename><surname>Rosen</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">M</forename><surname>Bäckström</surname></persName>
+			<persName><forename type="first">R</forename><surname>Summers</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">L</forename><surname>Sennerby</surname></persName>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Mellado</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Oral Maxillofac Implants</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="853" to="858" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Localized augmentation of the maxillary sinus floor through a coronal approach for the placement of implants</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Cavicchia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Bravi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Petrelli</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Periodontics Restorative Dent</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="475" to="485" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m" type="main">Immediate implant placement following a modified trephine/osteotome approach: success rates of 116</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Fugazzotto</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Supplement 1, 2012 implants to 4 years in function</title>
+	</analytic>
+	<monogr>
+		<title level="j">Clinical Implant Dentistry and Related Research</title>
+		<imprint>
+			<biblScope unit="volume">166</biblScope>
+			<biblScope unit="page" from="113" to="120" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+	<note>Int J Oral Maxillofac Implants</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Osteotome-mediated sinus floor elevation: a clinical report</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Toffler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Oral Maxillofac Implants</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="266" to="273" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Radiographic evaluation of dental implants placed using an osteotome technique</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Leblebicioglu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ersanli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Karabuda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Tosun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Gokdeniz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Periodontol</title>
+		<imprint>
+			<biblScope unit="volume">76</biblScope>
+			<biblScope unit="page" from="385" to="390" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Dental implants placement in conjunction with osteotome sinus floor elevation: a 12-year life-table analysis from a prospective study on 588 ITI implants</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Ferrigno</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Laureti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Fanali</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Oral Implants Res</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="194" to="205" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title level="m" type="main">Maxillary sinus floor augmentation: comparing osteotome with lateral window immediate and delayed implant placements. An interim report. Oral Surg Oral Med Oral Pathol Oral Radiol Endod</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Jurisic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Markovic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Radulovic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">M</forename><surname>Brkovic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">K</forename><surname>Sándor</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008">2008</date>
+			<biblScope unit="volume">106</biblScope>
+			<biblScope unit="page" from="820" to="827" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title level="m" type="main">Osteotome sinus floor elevation using Choukroun&apos;s platelet-rich fibrin as grafting material: a 1-year prospective pilot study with microthreaded implants. Oral Surg Oral Med Oral Pathol Oral Radiol Endod</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Diss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Dohan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Mouhyi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Mahler</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008">2008</date>
+			<biblScope unit="volume">105</biblScope>
+			<biblScope unit="page" from="572" to="579" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Performance of threaded versus sintered porous-surfaced dental implants using open window or indirect osteotomemediated sinus elevation: a retrospective report</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">Y</forename><surname>Kermalli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Deporter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">Y</forename><surname>Lai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Lam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Atenafu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Periodontol</title>
+		<imprint>
+			<biblScope unit="volume">79</biblScope>
+			<biblScope unit="page" from="728" to="736" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Sinus floor elevation using an osteotome technique without grafting materials or membranes</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">R</forename><surname>Schmidlin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Müller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bindl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Imfeld</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Periodontics Restorative Dent</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="401" to="409" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Implants placed in combination with an internal sinus lift without graft material: an analysis of short-term failure</title>
+		<author>
+			<persName><forename type="first">O</forename><surname>Gabbert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Koob</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Schmitter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Rammelsberg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Periodontol</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="177" to="183" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Osteotome sinus floor elevation without bone grafts -a 3-year retrospective study with Astra Tech implants</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Fermergard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Astrand</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
 		<title level="j">Clin Implant Dent Relat Res</title>
 		<imprint>
-			<biblScope unit="volume">11</biblScope>
-			<biblScope unit="page" from="69" to="80" />
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="177" to="183" />
 			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Maxillary sinus floor elevation using the (transalveolar) osteotome technique with or without grafting material. Part I: implant survival and patients&apos; perception</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">E</forename><surname>Pjetursson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Rast</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Brägger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Schmidlin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Zwahlen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">P</forename><surname>Lang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Oral Implants Res</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="667" to="676" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Placement of tapered implants using an osteotome sinus floor elevation technique without bone grafting: 1-year results</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Nedir</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Nurdin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Szmukler-Moncler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bischof</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Oral Maxillofac Implants</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="727" to="733" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Atraumatic maxillary sinus elevation using threaded bone dilators for immediate implants. A three-year clinical study</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Calvo-Guirado</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Gómez-Moreno</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>López-Marí</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Ortiz-Ruiz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Guardia-Muñoz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Med Oral Patol Oral Cir Bucal</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="366" to="e370" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Osteotome sinus floor elevation and simultaneous implant placement in grafted biomaterial sockets: 3 years of follow-up</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Crespi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Cappare</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Gherlone</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Periodontol</title>
+		<imprint>
+			<biblScope unit="volume">81</biblScope>
+			<biblScope unit="page" from="344" to="349" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Long-term results after lateral and osteotome technique sinus floor elevation: a retrospective analysis of 2190 implants over a time period of 15 years</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Tetsch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Tetsch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Lysek</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Oral Implants Res</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="497" to="503" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Transcrestal sinus floor elevation: a retrospective study of 46 patients up to 16 years</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">B</forename><surname>Bruschi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Crespi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Capparè</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Gherlone</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1708-8208.2010.00313.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Implant Dent Relat Res</title>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Histomorphometric study of the stability of newly formed bone after elevation of the floor of the maxillary sinus</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Xu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Shimizu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Ooya</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Oral Maxillofac Surg</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="page" from="493" to="499" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">The use of autologous venous blood for maxillary sinus floor augmentation in conjunction with sinus membrane elevation: an experimental study</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">R</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">H</forename><surname>Choi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Xuan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Jeong</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Oral Implants Res</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="346" to="349" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">The Schneiderian membrane contains osteoprogenitor cells: in vivo and in vitro study</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Srouji</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Kizhner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ben</forename><surname>David</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Riminucci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bianco</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Livne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Calcif Tissue Int</title>
+		<imprint>
+			<biblScope unit="volume">84</biblScope>
+			<biblScope unit="page" from="138" to="145" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Non-grafted sinus implants in periodontally compromised patients: a time-to-event analysis</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Ellegaard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Baelum</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kolsen-Petersen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Oral Implants Res</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="156" to="164" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Maxillary sinus augmentation using sinus membrane elevation and peripheral venous blood for implant-supported rehabilitation of the atrophic posterior maxilla: case series</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Hatano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Sennerby</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Lundgren</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Implant Dent Relat Res</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="150" to="155" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Protection of the blood clot in healing circumscribed bone defects</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">H</forename><surname>Melcher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Dreyer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Bone Joint Surg</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="page" from="424" to="430" />
+			<date type="published" when="1962">1962</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Spontaneous bone formation on the maxillary sinus floor in association with an extraction socket</title>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">S</forename><surname>Jung</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">W</forename><surname>Chung</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nam</forename><forename type="middle">W</forename><surname>Cho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">H</forename><surname>Cha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">H</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">S</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Oral Maxillofac Surg</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="656" to="657" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">The challenge of implant therapy in the posterior maxilla: providing a rationale for the use of short implants</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Morand</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Irinakis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Oral Implantol</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="257" to="266" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Short implants -an analysis of longitudinal studies</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">D</forename><surname>Das Neves</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Fones</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Bernardes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Prado</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Neto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Oral Maxillofac Implants</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="86" to="93" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Impact of implant length and diameter on survival rates</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Renouard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Nisand</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Oral Implants Res</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">Suppl 2</biblScope>
+			<biblScope unit="page" from="35" to="51" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">A 7-year life table analysis from a prospective study on ITI implants with special emphasis on the use of short implants. Results from a private practice</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Nedir</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bischof</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Briaux</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Beyer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Szmukler-Moncler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Bernard</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Oral Implants Res</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="150" to="157" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Shorter implants in clinical practice: rationale and treatment results</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Fugazzotto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Oral Maxillofac Implants</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="487" to="496" />
+			<date type="published" when="2008">2008</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b42">
 	<analytic>
-		<title level="a" type="main">Monitoring of implant stability in grafted bone using resonance frequency analysis. A clinical study from implant placement to 6 months of loading</title>
+		<title level="a" type="main">Five-year clinical evaluation of short dental implants placed in posterior areas: a retrospective study</title>
 		<author>
-			<persName><forename type="first">M</forename><surname>Sjöström</surname></persName>
+			<persName><forename type="first">E</forename><surname>Anitua</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">S</forename><surname>Lundgren</surname></persName>
+			<persName><forename type="first">G</forename><surname>Orive</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">H</forename><surname>Nilson</surname></persName>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Aguirre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Andía</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Int J Oral Maxillofac Surg</title>
+		<title level="j">J Periodontol</title>
 		<imprint>
-			<biblScope unit="volume">34</biblScope>
-			<biblScope unit="page" from="45" to="51" />
-			<date type="published" when="2005">2005</date>
+			<biblScope unit="volume">79</biblScope>
+			<biblScope unit="page" from="42" to="48" />
+			<date type="published" when="2008">2008</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b43">
 	<analytic>
-		<title level="a" type="main">Stability of dental implants in grafted bone in the anterior maxilla: Longitudinal study</title>
+		<title level="a" type="main">The prevalence of surgical complications of the sinus graft procedure and their impact on implant survival</title>
 		<author>
-			<persName><forename type="first">N</forename><surname>Al-Khaldi</surname></persName>
+			<persName><forename type="first">D</forename><surname>Schwartz-Arad</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">D</forename><surname>Sleeman</surname></persName>
+			<persName><forename type="first">R</forename><surname>Herzberg</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">F</forename><surname>Allen</surname></persName>
+			<persName><forename type="first">E</forename><surname>Dolev</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Br J Oral Maxillofac Surg</title>
+		<title level="j">J Periodontol</title>
 		<imprint>
-			<biblScope unit="volume">49</biblScope>
-			<biblScope unit="page" from="319" to="323" />
-			<date type="published" when="2011">2011</date>
+			<biblScope unit="volume">75</biblScope>
+			<biblScope unit="page" from="511" to="516" />
+			<date type="published" when="2004">2004</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b44">
 	<analytic>
-		<title level="a" type="main">Parameters of resonance frequency measurement values: A retrospective study of 385 ITI dental implants</title>
+		<title level="a" type="main">Prevalence and management of Schneiderian membrane perforations during sinus-lift procedures</title>
 		<author>
-			<persName><forename type="first">M</forename><surname>Karl</surname></persName>
+			<persName><forename type="first">F</forename><surname>Hernández-Alfaro</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">F</forename><surname>Graef</surname></persName>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Torradeflot</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">S</forename><surname>Heckmann</surname></persName>
+			<persName><forename type="first">C</forename><surname>Marti</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
 		<title level="j">Clin Oral Implants Res</title>
 		<imprint>
 			<biblScope unit="volume">19</biblScope>
-			<biblScope unit="page" from="214" to="218" />
+			<biblScope unit="page" from="91" to="98" />
 			<date type="published" when="2008">2008</date>
 		</imprint>
 	</monogr>
@@ -1117,93 +1249,72 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 
 <biblStruct xml:id="b45">
 	<analytic>
-		<title level="a" type="main">Stability evaluation of implants integrated in grafted and nongrafted maxillary bone: A clinical study from implant placement to abutment connection</title>
+		<title level="a" type="main">Influence of perforation of the sinus membrane on the survival rate of implants placed after direct sinus lift. Literature update</title>
 		<author>
-			<persName><forename type="first">L</forename><surname>Rasmusson</surname></persName>
+			<persName><forename type="first">J</forename><surname>Viña-Almunia</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">Thor</forename><forename type="middle">A</forename><surname>Sennerby</surname></persName>
+			<persName><forename type="first">M</forename><surname>Peñarrocha-Diago</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">L</forename></persName>
+			<persName><forename type="first">M</forename><surname>Peñarrocha-Diago</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Clin Implant Dent Relat Res</title>
+		<title level="j">Med Oral Patol Oral Cir Bucal</title>
 		<imprint>
 			<biblScope unit="volume">14</biblScope>
-			<biblScope unit="page" from="61" to="66" />
-			<date type="published" when="2012">2012</date>
+			<biblScope unit="page" from="133" to="E136" />
+			<date type="published" when="2009">2009</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b46">
 	<analytic>
-		<title level="a" type="main">Att W, Ogawa T. Biological aging of implant surfaces and its restoration with ultraviolet light treatment: A novel and breakthrough understanding of osseointegration</title>
+		<title level="a" type="main">Sinus floor augmentation with simultaneous implant placement in the severely atrophic maxilla</title>
 		<author>
-			<persName><forename type="first">N</forename><surname>Khandelwal</surname></persName>
+			<persName><forename type="first">M</forename><surname>Peleg</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">T</forename><forename type="middle">W</forename><surname>Oates</surname></persName>
+			<persName><forename type="first">Z</forename><surname>Mazor</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">A</forename><surname>Vargas</surname></persName>
+			<persName><forename type="first">G</forename><surname>Chaushu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Garg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Periodontol</title>
+		<imprint>
+			<biblScope unit="volume">69</biblScope>
+			<biblScope unit="page" from="1397" to="1403" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Placement of implants in the severely atrophic posterior maxilla using localized management of the sinus floor: a preliminary study</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Winter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Pollack</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Odrich</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
 		<title level="j">Int J Oral Maxillofac Implants</title>
 		<imprint>
-			<biblScope unit="volume">24</biblScope>
-			<biblScope unit="page" from="753" to="761" />
-			<date type="published" when="2012">2013. 2012</date>
-		</imprint>
-	</monogr>
-	<note>Clin Oral Implants Res</note>
-</biblStruct>
-
-<biblStruct xml:id="b47">
-	<analytic>
-		<title level="a" type="main">Inclusive measurement of the photon energy spectrum in b -. sgamma decays</title>
-		<author>
-			<persName><forename type="first">P</forename><surname>Koppenburg</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">K</forename><surname>Abe</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">K</forename><surname>Abe</surname></persName>
-		</author>
-	</analytic>
-	<monogr>
-		<title level="j">Phys Rev Lett</title>
-		<imprint>
-			<biblScope unit="volume">93</biblScope>
-			<biblScope unit="page">61803</biblScope>
-			<date type="published" when="2004">2004</date>
-		</imprint>
-	</monogr>
-</biblStruct>
-
-<biblStruct xml:id="b48">
-	<analytic>
-		<title level="a" type="main">The effect of UV-photofunctionalization on the time-related bioactivity of titanium and chromium-cobalt alloys</title>
-		<author>
-			<persName><forename type="first">W</forename><surname>Att</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">N</forename><surname>Hori</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">F</forename><surname>Iwasa</surname></persName>
-		</author>
-	</analytic>
-	<monogr>
-		<title level="j">Biomaterials</title>
-		<imprint>
-			<biblScope unit="volume">30</biblScope>
-			<biblScope unit="page" from="4268" to="4276" />
-			<date type="published" when="2009">2009</date>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="687" to="695" />
+			<date type="published" when="2002">2002</date>
 		</imprint>
 	</monogr>
 </biblStruct>
