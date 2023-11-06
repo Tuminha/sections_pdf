@@ -123,7 +123,7 @@ def extract_year(xml_root: ET.Element, namespace: dict) -> None:
 # Call the function
 extract_year(root, ns)
 
-def extract_abstract(xml_root: ET.Element, namespace: dict) -> None:
+def extract_abstract(xml_root: ET.Element, namespace: dict) -> str:
     """
     This function extracts the abstract from the XML root.
 
@@ -132,11 +132,12 @@ def extract_abstract(xml_root: ET.Element, namespace: dict) -> None:
     namespace (dict): The namespace for the XML document.
 
     Returns:
-    None
+    str: The abstract text.
     """
     abstract = xml_root.find('.//tei:profileDesc/tei:abstract', namespace)
     if abstract is not None:
-        print(f'Abstract: {"".join(abstract.itertext())}')
+        return "".join(abstract.itertext())
+    return ""
 
 # Call the functions
 extract_title(root, ns)
