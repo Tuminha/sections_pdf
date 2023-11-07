@@ -1,21 +1,26 @@
 """
-In this part of the code, an AI agent will use the function to extract the abstract from a pdf file.
-The function to extract the abstract is in the abstract.py file, so we need to import it.
-After it, the AI agent will analyze the abstract based on a customized prompt.
+In this part of the code, an AI agent will use the function to extract the introduction from a pdf file.
+The function to extract the introduction is in the introduction.py file, so we need to import it.
+After it, the AI agent will analyze the introduction based on a customized prompt.
 """
 
 # 1. Import the necessary libraries and functions
 import xml.etree.ElementTree as ET
-from abstract import extract_abstract
+from introduction import extract_introduction
 
 import openai
 import requests
 from dotenv import load_dotenv
 import os
 
-# Path to the PDF file
-PDF_PATH = ('/Users/franciscoteixeirabarbosa/projects/test/sections_pdf/data/Implant survival rates after osteotome_mediated maxillary sinus augmentation_ a systematic review.pdf')
 
+
+
+# Path to the PDF file
+PDF_PATH = 'data/Implant_abutment interface_ biomechanical study of flat top versus conical.pdf'
+
+print("Current working directory:", os.getcwd())
+print("File exists:", os.path.exists(PDF_PATH))
 
 # Send the PDF to GROBID
 with open(PDF_PATH, 'rb') as f:
@@ -37,15 +42,14 @@ tree = ET.parse('output.xml')
 root = tree.getroot()
 
 
-# Extract the abstract
-abstract = extract_abstract(root, ns)
-print(f"Abstract: {abstract}")
+# Extract the introduction
+introduction = extract_introduction(PDF_PATH, ns)
+print(f"Introduction: {introduction}")
 
-prompt_abstract = f"""Critically evaluate the abstract of this scientific article: {abstract}
-    - Is the research question clearly stated?
-    - Are there any signs of bias?
-    - Are the conclusions supported by the evidence presented later in the article?
-    """
+prompt_introduction = f"Introduction: Perform a detailed analysis of the {introduction}. \
+    - Does it establish the context of the research? \
+    - Are prior studies appropriately cited? \
+    - Is there a clear research question or hypothesis?"
 
 # Load OpenAI API key from .env file
 load_dotenv()
@@ -69,15 +73,15 @@ print(response)
 system_message = {
     "role": "system", 
     "content": "You are a critical-thinking AI trained to analyze scientific articles meticulously. \
-Your role is to critically evaluate each section of the article, looking for gaps, flaws, and inconsistencies."
+    Your role is to critically evaluate each section of the article, looking for gaps, flaws, and inconsistencies."
     }
 user_message = {
     "role": "user",
-    "content": prompt_abstract
+    "content": prompt_introduction
     }
 
-# Use the AI agent to analyze the abstract
-print(prompt_abstract) 
+# Use the AI agent to analyze the introduction
+print(prompt_introduction) 
 response = openai.ChatCompletion.create(
     model="gpt-4",
     messages=[system_message, user_message],
