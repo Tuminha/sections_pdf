@@ -54,7 +54,7 @@ ns = {'tei': 'http://www.tei-c.org/ns/1.0'}
 tree = ET.parse('output.xml')
 root = tree.getroot()
 
-def extract_results(xml_root: ET.Element, namespace: dict) -> None:
+def extract_results(xml_root: ET.Element, namespace: dict) -> str:
     """
     This function extracts the results section from the XML root.
 
@@ -63,10 +63,13 @@ def extract_results(xml_root: ET.Element, namespace: dict) -> None:
     namespace (dict): The namespace for the XML document.
 
     Returns:
-    None
+    str: The results section as a string.
     """
     # Flag to indicate whether we are in the 'results' section
     in_results = False
+
+    # Initialize an empty string to store the results
+    results = ""
 
     # Find all 'div' elements in the XML
     for div in xml_root.findall('.//tei:div', namespace):
@@ -77,33 +80,36 @@ def extract_results(xml_root: ET.Element, namespace: dict) -> None:
 
             # Check if the title contains 'results'
             if 'results' in title:
-                print('Results section found:\n')
+                results += 'Results section found:\n'
                 in_results = True
 
-            # If we are in the 'results' section and encounter a 'div' with 'discussion' or 'conclusion' in the title, stop printing
+            # If we are in the 'results' section and encounter a 'div' with 'discussion' or 'conclusion' in the title, stop appending
             if in_results and ('discussion' in title or 'conclusion' in title):
                 break
 
         if in_results:
-            # Print the title of the subsection
+            # Append the title of the subsection
             if title and 'results' not in title:
-                print(title)
+                results += title + "\n"
 
             # Recursively find all 'p' elements in the 'div'
             paragraphs = div.findall('.//tei:p', ns)
             for paragraph in paragraphs:
                 if paragraph is not None:  # Check if the paragraph exists
-                    # Print the paragraph text
-                    print(paragraph.text, end='')  # Don't add a newline after the paragraph text
+                    # Append the paragraph text
+                    results += paragraph.text
 
-                    # Print the text of any 'ref' elements within the paragraph
+                    # Append the text of any 'ref' elements within the paragraph
                     for ref in paragraph.findall('.//tei:ref', ns):
                         if ref.text:
-                            print(ref.text, end='')  # Don't add a newline after the reference text
+                            results += ref.text
 
-                    print()  # Add a newline after the paragraph
+                    results += "\n"  # Add a newline after the paragraph
 
-def extract_tables(xml_root: Any, namespace: Any) -> None:
+    # Return the results string
+    return results
+
+def extract_tables(xml_root: Any, namespace: Any) -> str:
     """
     This function extracts all tables from the XML root.
 
@@ -112,21 +118,35 @@ def extract_tables(xml_root: Any, namespace: Any) -> None:
     namespace (Any): The namespace for the XML document.
 
     Returns:
-    None
+    str: The tables as a string.
     """
+    # Initialize an empty string to store the tables
+    tables = ""
+
     # Find all 'figure' elements in the XML
     for figure in xml_root.findall('.//tei:figure', namespace):
         table = figure.find('.//tei:table', ns)
         if table is not None:
-            print("\nTable:")
+            tables += "\nTable:\n"
             rows = table.findall('.//tei:row', ns)
             for row in rows:
                 cells = [cell.text for cell in row.findall('.//tei:cell', ns) if cell.text]
-                print('\t'.join(cells))
+                tables += '\t'.join(cells) + "\n"
 
-# Call the functions
-extract_results(root, ns)
-extract_tables(root, ns)
+    # Return the tables string
+    return tables
 
-# Add a newline at the end of the file
+# Call the functions and save the results in variables
+results = extract_results(root, ns)
+tables = extract_tables(root, ns)
 
+# Collect all the results from the 3 functions above and save them in a variable that will be passed to 3_results_analysis.py so the AI can analyze the results
+# In the variable it should collect the contents of the results of the 3 functions if it was able to collect any info
+# If it was not able to collect any info it should return None
+# The variable should be called results_for_ai  and it should be a string
+# If the variable is None it should return None
+
+# Combine the results and tables into a single string
+results_for_ai = results + "\n" + tables
+
+__all__ = ['results_for_ai']
