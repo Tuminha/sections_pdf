@@ -64,35 +64,38 @@ ns = {'tei': 'http://www.tei-c.org/ns/1.0'}
 tree = ET.parse('output.xml')
 root = tree.getroot()
 
-def extract_conclusion(xml_root: ET.Element, namespace: dict) -> None:
+def extract_conclusion(xml_root: ET.Element, namespace: dict) -> str:
     """
     This function extracts the conclusion from the XML root.
     """
+    conclusion = ""
     for div in xml_root.findall('.//tei:div', namespace):
         # Get the title of the section
         title = div.find('tei:head', namespace).text if div.find('tei:head', namespace) is not None else 'No title'
         title = title.strip().lower()  # Remove leading/trailing whitespace and convert to lower case
         # Check if the title contains any of the specified sections
         if title in ['conclusion', 'conclusions', 'discussion and conclusions', 'discussion and conclusion']:
-            print(f'Processing section: {title}')  # Debug print
+            conclusion += f'Processing section: {title}\n'  # Debug print
             # Find all 'p' elements in the 'div'
             for paragraph in div.findall('tei:p', namespace):
                 # Get the paragraph text
                 paragraph_text = paragraph.text if paragraph.text is not None else ''
                 paragraph_text = paragraph_text.strip()  # Remove leading/trailing
-                # Print the paragraph text
-                print(paragraph_text)
+                # Append the paragraph text
+                conclusion += paragraph_text + "\n"
                 # Find all 'ref' elements in the 'p'
                 for ref in paragraph.findall('tei:ref', namespace):
                     # Get the text of the 'ref' element
                     ref_text = ref.text if ref.text is not None else ''
                     ref_text = ref_text.strip()
-                    # Print the text of the 'ref' element
-                    print(ref_text)
-                # Add a newline after the paragraph
-                print()
+                    # Append the text of the 'ref' element
+                    conclusion += ref_text + "\n"
             # Stop processing the XML
             break
+    return conclusion
 
 # Extract the conclusion
-extract_conclusion(root, ns)
+conclusion_for_ai = extract_conclusion(root, ns)
+
+# Export the conclusion_for_ai variable
+__all__ = ['conclusion_for_ai']

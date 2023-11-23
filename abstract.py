@@ -11,7 +11,6 @@ import requests
 # Path to the GROBID service
 GROBID_PATH = '/Users/franciscoteixeirabarbosa/projects/test/sections_pdf/grobid'
 
-
 # First check if the GROBID service is already running, and if it already running do not start it again
 # Check if the GROBID service is already running
 try:
@@ -56,74 +55,7 @@ ns = {'tei': 'http://www.tei-c.org/ns/1.0'}
 tree = ET.parse('output.xml')
 root = tree.getroot()
 
-def extract_title(xml_root: ET.Element, namespace: dict) -> None:
-    """
-    This function extracts the title from the XML root.
-
-    Parameters:
-    xml_root (ET.Element): The root of the XML document.
-    namespace (dict): The namespace for the XML document.
-
-    Returns:
-    None
-    """
-    title = xml_root.find('.//tei:title', namespace)
-    if title is not None:
-        print(f'Title: {title.text}')
-
-def extract_authors(xml_root: ET.Element, namespace: dict) -> None:
-    """
-    This function extracts the authors from the XML root.
-
-    Parameters:
-    xml_root (ET.Element): The root of the XML document.
-    namespace (dict): The namespace for the XML document.
-
-    Returns:
-    None
-    """
-    authors = xml_root.findall('.//tei:sourceDesc/tei:biblStruct/tei:analytic/tei:author/tei:persName', namespace)
-    for author in authors:
-        forenames = [forename.text for forename in author.findall('tei:forename', namespace)]
-        surname = author.find('tei:surname', namespace)
-        if surname is not None:
-            print('Author: ' + ' '.join(forenames + [surname.text]))
-
-
-def extract_year(xml_root: ET.Element, namespace: dict) -> None:
-    """
-    This function extracts the year of publication from the XML root.
-
-    Parameters:
-    xml_root (ET.Element): The root of the XML document.
-    namespace (dict): The namespace for the XML document.
-
-    Returns:
-    None
-    """
-    date_element = xml_root.find('.//tei:monogr/tei:imprint/tei:date', namespaces=namespace)
-    
-    if date_element is not None:
-        # Check if 'when' attribute is present
-        year = date_element.attrib.get('when', None)
-        if year:
-            print(f'Year of Publication: {year}')
-            return
-        
-        # If 'when' attribute is not present, use element text
-        year_text = date_element.text
-        if year_text is not None:
-            year_match = re.search(r'\d{4}', year_text)
-            if year_match:
-                print(f'Year of Publication: {year_match.group()}')
-                return
-
-    print('Year of Publication: Unknown')
-
-# Call the function
-extract_year(root, ns)
-
-def extract_abstract(xml_root: ET.Element, namespace: dict) -> str:
+def abstract_for_ai(xml_root: ET.Element, namespace: dict) -> str:
     """
     This function extracts the abstract from the XML root.
 
@@ -134,16 +66,12 @@ def extract_abstract(xml_root: ET.Element, namespace: dict) -> str:
     Returns:
     str: The abstract text.
     """
-    abstract = xml_root.find('.//tei:profileDesc/tei:abstract', namespace)
+    abstract = xml_root.find('.//tei:abstract', namespace)
     if abstract is not None:
         return "".join(abstract.itertext())
     return ""
 
-# Call the functions
-extract_title(root, ns)
-extract_authors(root, ns)
-extract_year(root, ns)
-extract_abstract(root, ns)
-
+# Call the function
+abstract_for_ai = abstract_for_ai(root, ns)
 # New line
-
+print(abstract_for_ai)

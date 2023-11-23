@@ -95,7 +95,7 @@ ns = {'tei': 'http://www.tei-c.org/ns/1.0'}
 tree = ET.parse('output.xml')
 root = tree.getroot()
 
-def extract_material_and_methods(xml_root: ET.Element, namespace: dict) -> None:
+def extract_material_and_methods(xml_root: ET.Element, namespace: dict) -> str:
     """
     This function extracts the 'Materials and Methods' section and its subheadings from the XML root.
 
@@ -104,10 +104,13 @@ def extract_material_and_methods(xml_root: ET.Element, namespace: dict) -> None:
     namespace (dict): The namespace for the XML document.
 
     Returns:
-    None
+    str: The 'Materials and Methods' section as a string.
     """
     # Flag to indicate whether we are in the 'Materials and Methods' section
     in_material_and_methods = False
+
+    # Initialize an empty string to store the 'Materials and Methods' section
+    material_and_methods = ""
 
     # Find all 'div' elements in the XML
     for div in xml_root.findall('.//tei:div', namespace):
@@ -118,32 +121,37 @@ def extract_material_and_methods(xml_root: ET.Element, namespace: dict) -> None:
 
             # Check if the title contains 'Materials and Methods'
             if any(name.lower() in title for name in section_mappings['Methods']):
-                print('Materials and Methods section found:\n')
+                material_and_methods += 'Materials and Methods section found:\n'
                 in_material_and_methods = True
 
-            # If we are in the 'Materials and Methods' section and encounter a 'div' with 'Results' or 'Discussion' in the title, stop printing
+            # If we are in the 'Materials and Methods' section and encounter a 'div' with 'Results' or 'Discussion' in the title, stop appending
             if in_material_and_methods and ('results' in title or 'discussion' in title):
                 break
 
         if in_material_and_methods:
-            # Print the title of the subsection
+            # Append the title of the subsection
             if title and not any(name.lower() in title for name in section_mappings['Methods']):
-                print(title)
+                material_and_methods += title + "\n"
 
             # Recursively find all 'p' elements in the 'div'
             paragraphs = div.findall('.//tei:p', namespace)
             for paragraph in paragraphs:
                 if paragraph is not None:  # Check if the paragraph exists
-                    # Print the paragraph text
-                    print(paragraph.text, end='')  # Don't add a newline after the paragraph text
+                    # Append the paragraph text
+                    material_and_methods += paragraph.text
 
-                    # Print the text of any 'ref' elements within the paragraph
+                    # Append the text of any 'ref' elements within the paragraph
                     for ref in paragraph.findall('.//tei:ref', namespace):
                         if ref.text:
-                            print(ref.text, end='')  # Don't add a newline after the reference text
+                            material_and_methods += ref.text
 
-                    print()  # Add a newline after the paragraph
+                    material_and_methods += "\n"  # Add a newline after the paragraph
 
+    # Return the 'Materials and Methods' section as a string
+    return material_and_methods
 
-# Call the extract_material_and_methods function
-extract_material_and_methods(root, ns)
+# Call the extract_material_and_methods function and save the result in a variable
+methods_for_ai = extract_material_and_methods(root, ns)
+
+# Export the methods_for_ai variable
+__all__ = ['methods_for_ai']

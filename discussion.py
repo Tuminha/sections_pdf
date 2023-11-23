@@ -58,10 +58,13 @@ ns = {'tei': 'http://www.tei-c.org/ns/1.0'}
 tree = ET.parse('output.xml')
 root = tree.getroot()
 
-def extract_discussion(xml_root: ET.Element, namespace: dict) -> None:
+def extract_discussion(xml_root: ET.Element, namespace: dict) -> str:
     """
     This function extracts the discussion from the XML root.
     """
+    # Initialize an empty string to store the discussion
+    discussion = ""
+
     # Find all 'div' elements in the XML
     for div in xml_root.findall('.//tei:div', namespace):
         # Get the title of the section
@@ -69,30 +72,34 @@ def extract_discussion(xml_root: ET.Element, namespace: dict) -> None:
         title = title.strip().lower()  # Remove leading/trailing whitespace and convert to lower case
         # Check if the title contains any of the specified sections
         if title in ['discussion', 'discussion and conclusion', 'discussion and conclusions', 'discussion and future work', 'discussion and future directions', 'discussion and future perspectives', 'discussion and future research', 'discussion and implications', 'discussion and limitations', 'discussion and outlook', 'discussion and practical implications', 'discussion and recommendations', 'discussion and summary', 'discussion and conclusions', 'discussion/conclusion', 'discussion/conclusions', 'discussion/conclusions and future work', 'discussion/conclusions and future directions', 'discussion/conclusions and future perspectives', 'discussion/conclusions and future research', 'discussion/conclusions and implications', 'discussion/conclusions and limitations', 'discussion/conclusions and outlook', 'discussion/conclusions and practical implications', 'discussion/conclusions and recommendations', 'discussion/conclusions and summary', 'discussion/conclusions and summary and future work', 'discussion/conclusions/implications', 'discussion/conclusions/recommendations', 'discussion/summary', 'discussion/summary and conclusion', 'discussion/summary and conclusions', 'discussion/summary and future work', 'discussion/summary and future directions', 'discussion/summary and future perspectives', 'discussion/summary and future research', 'discussion/summary and implications', 'discussion/summary and limitations', 'discussion/summary and outlook', 'discussion/summary and practical implications', 'discussion/summary and recommendations', 'discussion/summary and summary', 'discussion/summary/conclusion', 'discussion/summary/conclusions', 'discussion/summary/recommendations']:
-            print(f'Processing section: {title}')  # Debug print
+            discussion += f'Processing section: {title}\n'  # Debug print
             # Find all 'p' elements in the 'div'
             for paragraph in div.findall('tei:p', namespace):
                 # Get the paragraph text
                 paragraph_text = paragraph.text if paragraph.text is not None else ''
                 paragraph_text = paragraph_text.strip()  # Remove leading/trailing
-                # Print the paragraph text
-                print(paragraph_text)
-                # Find all 'ref' elements in the 'p'
+                # Append the paragraph text
+                discussion += paragraph_text + "\n"
                 # Find all 'ref' elements in the 'p'
                 for ref in paragraph.findall('tei:ref', namespace):
                     # Get the text of the 'ref' element
                     ref_text = ref.text if ref.text is not None else ''
                     ref_text = ref_text.strip()
-                    # Print the text of the 'ref' element
-                    print(ref_text)
-                # Add a newline after the paragraph
-                print()
+                    # Append the text of the 'ref' element
+                    discussion += ref_text + "\n"
             # Stop processing the XML
             break
 
+    # Return the discussion
+    return discussion
+
 # Extract the discussion
-extract_discussion(root, ns)
+discussion_for_ai = extract_discussion(root, ns)
+
+# Export the discussion_for_ai variable
+__all__ = ['discussion_for_ai']
 
 #New line
 
 #
+
