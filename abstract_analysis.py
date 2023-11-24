@@ -7,8 +7,7 @@ After it, the AI agent will analyze the abstract based on a customized prompt.
 # 1. Import the necessary libraries and functions
 from abstract import abstract_for_ai
 
-import openai
-import requests
+from openai import OpenAI
 from dotenv import load_dotenv
 import os
 
@@ -17,17 +16,8 @@ load_dotenv()
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 
 # Set OpenAI API key
-openai.api_key = OPENAI_API_KEY
+client = OpenAI(api_key=OPENAI_API_KEY)
 
-# Check if the API key is valid and working
-
-response = openai.Completion.create(
-    engine="davinci",
-    prompt="This is a test",
-    max_tokens=5
-)
-
-print(response)
 
 # Initialize variables
 system_message = {
@@ -44,13 +34,19 @@ user_message = {
     """
     }
 
+prompt = system_message['content'] + ' ' + user_message['content']
+
+
 # Use the AI agent to analyze the abstract
 print(user_message['content']) 
-response = openai.ChatCompletion.create(
-    model="gpt-4",
+response = client.chat.completions.create(
+    model="gpt-4-1106-preview",
     messages=[system_message, user_message],
-    max_tokens=3000  # Increased token limit
-)
+    max_tokens=3000,
+    temperature=0.4
+    )
 
 # Print the AI's analysis
-print(response.choices[0].message['content'])
+print(response.choices[0].message.content)
+# Prepare the output to be passed to app.py as abstract_analysis_for_ai
+abstract_analysis_for_ai = response.choices[0].message.content

@@ -64,22 +64,32 @@ def extract_introduction(xml_root: ET.Element, namespace: dict) -> str:
         title = div.find('tei:head', namespace)
         title = title.text.strip().lower() if title is not None else ''
 
+        print(f"Processing div with title: {title}")  # Debugging line
+
         # Start capturing text after the abstract
         if 'abstract' in title:
             capture_text = True
+            print("Found abstract, starting to capture text")  # Debugging line
             continue
+
+        # Start capturing text if we haven't started yet and we encounter a div with head 'p'
+        if not capture_text and 'p' in title:
+            capture_text = True
+            print("Found div with head 'p', starting to capture text")  # Debugging line
 
         # Stop capturing text before the methods
         if 'materials and methods' in title:
+            print("Found materials and methods, stopping to capture text")  # Debugging line
             break
 
         # Capture the text if we're between the abstract and the methods
         if capture_text:
+            print("Capturing text")
             # Find all 'p' elements in the 'div'
             for paragraph in div.findall('tei:p', namespace):
                 # Get the paragraph text
                 paragraph_text = paragraph.text if paragraph.text is not None else ''
-                paragraph_text = paragraph_text.strip()  # Remove leading/trailing
+                paragraph_text = paragraph_text.strip()  # Remove leading/trailing whitespace
                 # Append the paragraph text
                 introduction += paragraph_text + "\n"
 

@@ -55,7 +55,7 @@ ns = {'tei': 'http://www.tei-c.org/ns/1.0'}
 tree = ET.parse('output.xml')
 root = tree.getroot()
 
-def abstract_for_ai(xml_root: ET.Element, namespace: dict) -> str:
+def extract_abstract(xml_root: ET.Element, namespace: dict) -> str:
     """
     This function extracts the abstract from the XML root.
 
@@ -72,6 +72,6 @@ def abstract_for_ai(xml_root: ET.Element, namespace: dict) -> str:
     return ""
 
 # Call the function
-abstract_for_ai = abstract_for_ai(root, ns)
+abstract_for_ai = extract_abstract(root, ns)
 # New line
-print(abstract_for_ai)
+__all__ = ['abstract_for_ai']
