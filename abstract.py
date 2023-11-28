@@ -33,7 +33,7 @@ except requests.exceptions.RequestException as e:
 time.sleep(10)
 
 PDF_PATH = (
-    '/Users/franciscoteixeirabarbosa/projects/test/sections_pdf/data/Implant survival rates after osteotome_mediated maxillary sinus augmentation_ a systematic review.pdf'
+    'data/Implant and prosthodontic survival rates with implant fixed complete dental prostheses in the edentulous mandible after at least 5 years_ a systematic review.pdf'
 )
 
 # Send the PDF to GROBID
@@ -75,3 +75,5 @@ def extract_abstract(xml_root: ET.Element, namespace: dict) -> str:
 abstract_for_ai = extract_abstract(root, ns)
 # New line
 __all__ = ['abstract_for_ai']
+
+print(abstract_for_ai)
